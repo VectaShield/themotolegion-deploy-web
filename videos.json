@@ -5,14 +5,14 @@
     "\"date\": \"YYYY-MM-DD\", \"views\": \"1.2K\", \"note\": \"one line about it\"}.",
     "Optional: \"pinned\": true to badge + pin it to the top (keep max one per creator).",
     "The date is encoded in the video ID if unsure: new Date(Number(BigInt(id) >> 32n) * 1000).",
-    "Thumbnails: put thumbs/<video-id>.jpg in the repo (grab thumbnail_url from",
+    "Thumbnails: save a ~360px webp at thumbs/<video-id>.webp (grab thumbnail_url from",
     "https://www.tiktok.com/oembed?url=<video-url> and download it — those CDN URLs",
     "expire, so a local copy is required). Missing thumbs fall back to a styled card.",
     "Push to main; the site deploys automatically."
   ],
   "videos": [
     { "creator": "spartanh2", "url": "https://www.tiktok.com/@spartan.h2/video/7670109306167020830", "date": "2026-08-04", "views": "88.8K", "pinned": true, "note": "#DetroitNinja down on the Gordie Howe Bridge — full breakdown" },
-    { "creator": "zhwho", "url": "https://www.tiktok.com/@zh.who/video/7668049880547380511", "date": "2026-07-29", "views": "4.0K", "pinned": true, "note": "First bikes across the Gordie Howe Bridge — until it wasn't" },
+    { "creator": "zhwho", "url": "https://www.tiktok.com/@zh.who/video/7668049880547380511", "date": "2026-07-29", "views": "4.0K", "pinned": true, "note": "Racing to be first across the Gordie Howe Bridge — until it all went down" },
     { "creator": "spartanh2", "url": "https://www.tiktok.com/@spartan.h2/video/7668431413955267870", "date": "2026-07-30", "views": "9.0K", "note": "Stealing Morgan Wallen's girls, part 2 — backpack ride" },
     { "creator": "spartanh2", "url": "https://www.tiktok.com/@spartan.h2/video/7667130369728089357", "date": "2026-07-27", "views": "9.7K", "note": "He's got TWO backpacks!" },
     { "creator": "spartanh2", "url": "https://www.tiktok.com/@spartan.h2/video/7667101623184854285", "date": "2026-07-27", "views": "84.1K", "note": "Stealing Morgan Wallen's girls" },
