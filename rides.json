@@ -1,0 +1,9 @@
+{
+  "_howto": [
+    "HOW TO ANNOUNCE A RIDE: set 'next' below and push to main.",
+    "{\"date\": \"YYYY-MM-DD\", \"title\": \"Belle Isle night ride\", \"location\": \"Detroit\"}",
+    "The line shows on the homepage until that date has passed, then hides",
+    "itself automatically. Set \"next\": null to hide it immediately."
+  ],
+  "next": null
+}
