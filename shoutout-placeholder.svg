@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" width="128" height="128">
+  <circle cx="64" cy="64" r="64" fill="#111a33"/>
+  <!-- full-face helmet silhouette -->
+  <path fill="#c9a24b" opacity="0.85" d="M64 30c-20 0-33 14-33 33v16c0 6 4 11 10 12l8 2c3 6 9 9 15 9s12-3 15-9l8-2c6-1 10-6 10-12V63c0-19-13-33-33-33z"/>
+  <!-- visor -->
+  <path fill="#0a1020" d="M41 60c0-4 3-7 7-7h32c4 0 7 3 7 7v6c0 4-3 7-7 7H48c-4 0-7-3-7-7v-6z"/>
+  <path fill="#e8c76a" opacity="0.35" d="M44 56h28c2 0 3 2 2 3l-2 3c-1 1-2 2-4 2H48c-2 0-4-2-4-4v-2c0-1 0-2 0-2z"/>
+</svg>

@@ -10,19 +10,100 @@
     "expire, so a local copy is required). Missing thumbs fall back to a styled card.",
     "Push to main; the site deploys automatically."
   ],
+  "_auto": "This file is auto-refreshed on a schedule by scripts/refresh-videos.mjs. Hand-edited \"note\" text is preserved by video id; \"views\"/\"pinned\" are recomputed.",
   "videos": [
-    { "creator": "spartanh2", "url": "https://www.tiktok.com/@spartan.h2/video/7670109306167020830", "date": "2026-08-04", "views": "88.8K", "pinned": true, "note": "#DetroitNinja down on the Gordie Howe Bridge — full breakdown" },
-    { "creator": "zhwho", "url": "https://www.tiktok.com/@zh.who/video/7668049880547380511", "date": "2026-07-29", "views": "4.0K", "pinned": true, "note": "Racing to be first across the Gordie Howe Bridge — until it all went down" },
-    { "creator": "spartanh2", "url": "https://www.tiktok.com/@spartan.h2/video/7668431413955267870", "date": "2026-07-30", "views": "9.0K", "note": "Stealing Morgan Wallen's girls, part 2 — backpack ride" },
-    { "creator": "spartanh2", "url": "https://www.tiktok.com/@spartan.h2/video/7667130369728089357", "date": "2026-07-27", "views": "9.7K", "note": "He's got TWO backpacks!" },
-    { "creator": "spartanh2", "url": "https://www.tiktok.com/@spartan.h2/video/7667101623184854285", "date": "2026-07-27", "views": "84.1K", "note": "Stealing Morgan Wallen's girls" },
-    { "creator": "zhwho", "url": "https://www.tiktok.com/@zh.who/video/7667202527334567199", "date": "2026-07-27", "views": "600", "note": "Are we being followed??? Wild night in Detroit, pt. 2" },
-    { "creator": "zhwho", "url": "https://www.tiktok.com/@zh.who/video/7663921265702423839", "date": "2026-07-18", "views": "2.2K", "note": "Saturday night Detroit ride — backpacking two at once" },
-    { "creator": "zhwho", "url": "https://www.tiktok.com/@zh.who/video/7660978836166774047", "date": "2026-07-10", "views": "235", "note": "ZH2 build: intercooler, BOV, billet plenum, stage 1 gears" },
-    { "creator": "zhwho", "url": "https://www.tiktok.com/@zh.who/video/7658398334184394015", "date": "2026-07-03", "views": "999", "note": "Police out in force at the train station bike meet" },
-    { "creator": "zhwho", "url": "https://www.tiktok.com/@zh.who/video/7653891716562390302", "date": "2026-06-21", "views": "776", "note": "First time at the strip — Z900 vs ZH2" },
-    { "creator": "zhwho", "url": "https://www.tiktok.com/@zh.who/video/7636132336362409246", "date": "2026-05-04", "views": "825", "note": "Poor homie — Modded Detroit meet clips" },
-    { "creator": "zhwho", "url": "https://www.tiktok.com/@zh.who/video/7633923121765993758", "date": "2026-04-28", "views": "762", "note": "Crowd reacts to the supercharged ZH2" },
-    { "creator": "zhwho", "url": "https://www.tiktok.com/@zh.who/video/7578642777282563358", "date": "2025-11-30", "views": "527", "note": "RAM 2500 vs drone — chase footage gone wrong" }
+    {
+      "creator": "spartanh2",
+      "url": "https://www.tiktok.com/@spartan.h2/video/7670109306167020830",
+      "date": "2026-08-04",
+      "views": "88.8K",
+      "pinned": true,
+      "note": "#DetroitNinja down on the Gordie Howe Bridge — full breakdown"
+    },
+    {
+      "creator": "spartanh2",
+      "url": "https://www.tiktok.com/@spartan.h2/video/7668431413955267870",
+      "date": "2026-07-30",
+      "views": "9K",
+      "note": "Stealing Morgan Wallen's girls, part 2 — backpack ride"
+    },
+    {
+      "creator": "zhwho",
+      "url": "https://www.tiktok.com/@zh.who/video/7668049880547380511",
+      "date": "2026-07-29",
+      "views": "4K",
+      "pinned": true,
+      "note": "Racing to be first across the Gordie Howe Bridge — until it all went down"
+    },
+    {
+      "creator": "spartanh2",
+      "url": "https://www.tiktok.com/@spartan.h2/video/7667101623184854285",
+      "date": "2026-07-27",
+      "views": "84.1K",
+      "note": "Stealing Morgan Wallen's girls"
+    },
+    {
+      "creator": "spartanh2",
+      "url": "https://www.tiktok.com/@spartan.h2/video/7667130369728089357",
+      "date": "2026-07-27",
+      "views": "9.7K",
+      "note": "He's got TWO backpacks!"
+    },
+    {
+      "creator": "zhwho",
+      "url": "https://www.tiktok.com/@zh.who/video/7667202527334567199",
+      "date": "2026-07-27",
+      "views": "601",
+      "note": "Are we being followed??? Wild night in Detroit, pt. 2"
+    },
+    {
+      "creator": "zhwho",
+      "url": "https://www.tiktok.com/@zh.who/video/7663921265702423839",
+      "date": "2026-07-18",
+      "views": "2.2K",
+      "note": "Saturday night Detroit ride — backpacking two at once"
+    },
+    {
+      "creator": "zhwho",
+      "url": "https://www.tiktok.com/@zh.who/video/7660978836166774047",
+      "date": "2026-07-10",
+      "views": "235",
+      "note": "ZH2 build: intercooler, BOV, billet plenum, stage 1 gears"
+    },
+    {
+      "creator": "zhwho",
+      "url": "https://www.tiktok.com/@zh.who/video/7658398334184394015",
+      "date": "2026-07-03",
+      "views": "999",
+      "note": "Police out in force at the train station bike meet"
+    },
+    {
+      "creator": "zhwho",
+      "url": "https://www.tiktok.com/@zh.who/video/7653891716562390302",
+      "date": "2026-06-21",
+      "views": "776",
+      "note": "First time at the strip — Z900 vs ZH2"
+    },
+    {
+      "creator": "zhwho",
+      "url": "https://www.tiktok.com/@zh.who/video/7636132336362409246",
+      "date": "2026-05-04",
+      "views": "825",
+      "note": "Poor homie — Modded Detroit meet clips"
+    },
+    {
+      "creator": "zhwho",
+      "url": "https://www.tiktok.com/@zh.who/video/7633923121765993758",
+      "date": "2026-04-28",
+      "views": "762",
+      "note": "Crowd reacts to the supercharged ZH2"
+    },
+    {
+      "creator": "zhwho",
+      "url": "https://www.tiktok.com/@zh.who/video/7578642777282563358",
+      "date": "2025-11-30",
+      "views": "527",
+      "note": "RAM 2500 vs drone — chase footage gone wrong"
+    }
   ]
 }

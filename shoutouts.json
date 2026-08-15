@@ -1,20 +1,20 @@
 {
   "_howto": [
-    "HOW TO ADD A RIDER: add an object to 'shoutouts':",
+    "HOW TO ADD A RIDER: replace a placeholder object in 'shoutouts' with:",
     "{\"handle\": \"@name\", \"url\": \"https://www.tiktok.com/@name\",",
     "\"avatar\": \"thumbs/so-name.webp\", \"blurb\": \"optional short descriptor\"}.",
     "Put a small square avatar image in the repo at that path (webp preferred, ~160px).",
-    "Set \"enabled\": true to show the section. While enabled is false the whole",
-    "section stays hidden on the live site — safe to stage entries here first.",
+    "Placeholder slots use avatar shoutout-placeholder.svg and link to the Discord.",
+    "Set \"enabled\": false to hide the whole section.",
     "Push to main; the site deploys automatically."
   ],
-  "enabled": false,
+  "enabled": true,
   "shoutouts": [
-    { "handle": "@placeholder-1", "url": "https://www.tiktok.com/@tiktok", "avatar": "", "blurb": "PLACEHOLDER — replace with a real rider" },
-    { "handle": "@placeholder-2", "url": "https://www.tiktok.com/@tiktok", "avatar": "", "blurb": "PLACEHOLDER — replace with a real rider" },
-    { "handle": "@placeholder-3", "url": "https://www.tiktok.com/@tiktok", "avatar": "", "blurb": "PLACEHOLDER — replace with a real rider" },
-    { "handle": "@placeholder-4", "url": "https://www.tiktok.com/@tiktok", "avatar": "", "blurb": "PLACEHOLDER — replace with a real rider" },
-    { "handle": "@placeholder-5", "url": "https://www.tiktok.com/@tiktok", "avatar": "", "blurb": "PLACEHOLDER — replace with a real rider" },
-    { "handle": "@placeholder-6", "url": "https://www.tiktok.com/@tiktok", "avatar": "", "blurb": "PLACEHOLDER — replace with a real rider" }
+    { "handle": "Reserved", "url": "https://discord.gg/fz67hjDnPW", "avatar": "shoutout-placeholder.svg", "blurb": "Rider reveal soon" },
+    { "handle": "Reserved", "url": "https://discord.gg/fz67hjDnPW", "avatar": "shoutout-placeholder.svg", "blurb": "Rider reveal soon" },
+    { "handle": "Reserved", "url": "https://discord.gg/fz67hjDnPW", "avatar": "shoutout-placeholder.svg", "blurb": "Rider reveal soon" },
+    { "handle": "Reserved", "url": "https://discord.gg/fz67hjDnPW", "avatar": "shoutout-placeholder.svg", "blurb": "Rider reveal soon" },
+    { "handle": "Reserved", "url": "https://discord.gg/fz67hjDnPW", "avatar": "shoutout-placeholder.svg", "blurb": "Rider reveal soon" },
+    { "handle": "Reserved", "url": "https://discord.gg/fz67hjDnPW", "avatar": "shoutout-placeholder.svg", "blurb": "Rider reveal soon" }
   ]
 }
