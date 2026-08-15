@@ -3,6 +3,8 @@
     "HOW TO ADD A RIDER: replace a placeholder object in 'shoutouts' with:",
     "{\"handle\": \"@name\", \"url\": \"https://www.tiktok.com/@name\",",
     "\"avatar\": \"thumbs/so-name.webp\", \"blurb\": \"optional short descriptor\"}.",
+    "Optional \"stats\" field: a second info line under the blurb, e.g.",
+    "\"stats\": \"1.2K views · 300 likes · 50 followers\" (use the ' · ' separator).",
     "Put a small square avatar image in the repo at that path (webp preferred, ~160px).",
     "Placeholder slots use avatar shoutout-placeholder.svg and link to the Discord.",
     "Set \"enabled\": false to hide the whole section.",
@@ -10,6 +12,9 @@
   ],
   "enabled": true,
   "shoutouts": [
+    { "handle": "@spartan.h2", "url": "https://www.tiktok.com/@spartan.h2", "avatar": "spartanh2-avatar-220.webp", "blurb": "H2 · POV Content · SE Michigan", "stats": "195.3K views · 12K likes · 836 followers" },
+    { "handle": "@zh.who", "url": "https://www.tiktok.com/@zh.who", "avatar": "zh-who-220.webp", "blurb": "Z H2 · POV Content · Detroit", "stats": "11.6K views · 564 likes · 267 followers" },
+    { "handle": "Reserved", "url": "https://discord.gg/fz67hjDnPW", "avatar": "shoutout-placeholder.svg", "blurb": "Rider reveal soon" },
     { "handle": "Reserved", "url": "https://discord.gg/fz67hjDnPW", "avatar": "shoutout-placeholder.svg", "blurb": "Rider reveal soon" },
     { "handle": "Reserved", "url": "https://discord.gg/fz67hjDnPW", "avatar": "shoutout-placeholder.svg", "blurb": "Rider reveal soon" },
     { "handle": "Reserved", "url": "https://discord.gg/fz67hjDnPW", "avatar": "shoutout-placeholder.svg", "blurb": "Rider reveal soon" },

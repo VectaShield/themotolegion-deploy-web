@@ -10,8 +10,22 @@
     "expire, so a local copy is required). Missing thumbs fall back to a styled card.",
     "Push to main; the site deploys automatically."
   ],
-  "_auto": "This file is auto-refreshed on a schedule by scripts/refresh-videos.mjs. Hand-edited \"note\" text is preserved by video id; \"views\"/\"pinned\" are recomputed.",
+  "_auto": "This file is auto-refreshed hourly by scripts/refresh-videos.mjs. Hand-edited \"note\" text is preserved by video id (an empty \"\" note stays empty); \"views\"/\"pinned\" are recomputed. New/removed videos and note/pinned/date changes are written on every run; view-count-only changes are written at most every 6 hours to limit deploy churn. _lastRefresh records the last successful write and per-creator fetch health.",
+  "_lastRefresh": {
+    "at": "2026-08-15T18:44:36.063Z",
+    "ok": {
+      "spartanh2": true,
+      "zhwho": true
+    }
+  },
   "videos": [
+    {
+      "creator": "spartanh2",
+      "url": "https://www.tiktok.com/@spartan.h2/video/7674319703766076703",
+      "date": "2026-08-15",
+      "views": "153",
+      "note": "Woodward Dream Cruise gets crazy after dark, arrests, crashes\u2026"
+    },
     {
       "creator": "spartanh2",
       "url": "https://www.tiktok.com/@spartan.h2/video/7670109306167020830",
@@ -81,7 +95,7 @@
       "creator": "zhwho",
       "url": "https://www.tiktok.com/@zh.who/video/7653891716562390302",
       "date": "2026-06-21",
-      "views": "776",
+      "views": "777",
       "note": "First time at the strip: Z900 vs ZH2"
     },
     {
