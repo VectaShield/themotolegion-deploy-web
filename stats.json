@@ -1,0 +1,38 @@
+{
+  "updated": "2026-08-15T05:10:07.194Z",
+  "creators": {
+    "spartanh2": {
+      "platforms": {
+        "tiktok": {
+          "views": 191558,
+          "likes": 11700,
+          "followers": 760,
+          "viewsComplete": true
+        },
+        "youtube": {
+          "views": 3355,
+          "likes": null,
+          "followers": 7,
+          "viewsComplete": true
+        },
+        "rumble": {
+          "views": null,
+          "likes": null,
+          "followers": null,
+          "unavailable": "Cloudflare challenge blocks anonymous requests; needs a creator API key or session"
+        },
+        "instagram": {
+          "views": null,
+          "likes": null,
+          "followers": null,
+          "unavailable": "Instagram exposes no public stats to logged-out requests"
+        }
+      },
+      "totals": {
+        "views": 194913,
+        "likes": 11700,
+        "followers": 767
+      }
+    }
+  }
+}
