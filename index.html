@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>The Moto Legion | SpartanH2 &amp; Zh.Who | Southeast Michigan Riders</title>
-    <meta name="description" content="The Moto Legion is SpartanH2 and Zh.Who — two southeast Michigan motorcycle content creators. POV rides, Detroit street culture, group rides, bike nights, and the Discord where the rides get planned.">
+    <meta name="description" content="The Moto Legion is SpartanH2 and Zh.Who, two southeast Michigan motorcycle content creators. POV rides, Detroit street culture, group rides, bike nights, and the Discord where the rides get planned.">
     <meta name="author" content="The Moto Legion">
     <meta name="robots" content="index, follow">
     <meta name="theme-color" content="#0a1020">
@@ -12,7 +12,7 @@
 
     <!-- Open Graph -->
     <meta property="og:title" content="The Moto Legion | SpartanH2 &amp; Zh.Who">
-    <meta property="og:description" content="Two southeast Michigan moto creators, one crew. POV rides, Detroit street culture, group rides, bike nights — and the Discord where the rides get planned.">
+    <meta property="og:description" content="Two southeast Michigan moto creators, one crew. POV rides, Detroit street culture, group rides, bike nights. The Discord is where the rides get planned.">
     <meta property="og:type" content="website">
     <meta property="og:url" content="https://themotolegion.com/">
     <meta property="og:site_name" content="The Moto Legion">
@@ -22,16 +22,16 @@
     <meta property="og:image:type" content="image/png">
     <meta property="og:image:width" content="1200">
     <meta property="og:image:height" content="630">
-    <meta property="og:image:alt" content="The Moto Legion — SpartanH2 and Zh.Who, southeast Michigan riders and creators">
+    <meta property="og:image:alt" content="The Moto Legion: SpartanH2 and Zh.Who, southeast Michigan riders and creators">
 
     <!-- Twitter Card -->
     <meta name="twitter:card" content="summary_large_image">
     <meta name="twitter:title" content="The Moto Legion | SpartanH2 &amp; Zh.Who">
     <meta name="twitter:description" content="Two southeast Michigan moto creators, one crew. POV rides, Detroit street culture, group rides, bike nights.">
     <meta name="twitter:image" content="https://themotolegion.com/og-image.png">
-    <meta name="twitter:image:alt" content="The Moto Legion — SpartanH2 and Zh.Who">
+    <meta name="twitter:image:alt" content="The Moto Legion: SpartanH2 and Zh.Who">
 
-    <link rel="stylesheet" href="styles.css?v=20260815010402">
+    <link rel="stylesheet" href="styles.css?v=20260815034425">
     <link rel="icon" href="/favicon.ico" sizes="48x48 32x32 16x16">
     <link rel="icon" type="image/svg+xml" href="favicon.svg">
     <link rel="icon" type="image/png" href="favicon-64.png">
@@ -108,6 +108,17 @@
 </head>
 <body>
     <main class="card">
+        <!-- B) The Moto Legion -->
+        <section class="legion" aria-label="About The Moto Legion">
+            <h1 class="legion-title">The Moto Legion</h1>
+            <hr class="legion-rule" aria-hidden="true">
+            <p class="legion-tagline">One crew. Full throttle. Detroit built.</p>
+            <p class="legion-blurb">The Moto Legion is SpartanH2 and Zh.Who, two riders filming the streets of southeast Michigan. From POV rides to Detroit bike nights, everything we do rides under one banner. The rides themselves get planned in the Discord, so come find us there.</p>
+            <a class="discord-cta" href="https://discord.gg/fz67hjDnPW" target="_blank" rel="noopener" aria-label="Join The Moto Legion Discord server">
+                <svg class="icon-svg" aria-hidden="true"><use href="icons.svg#i-discord"/></svg><span>Join The Moto Legion</span>
+            </a>
+            <p class="next-ride" id="next-ride" hidden></p>
+        </section>
         <!-- A) Creator tiles -->
         <section class="tiles" aria-label="The Moto Legion members">
             <article class="tile tile-spartanh2">
@@ -150,23 +161,10 @@
                 </div>
             </article>
         </section>
-
-        <!-- B) The Moto Legion -->
-        <section class="legion" aria-label="About The Moto Legion">
-            <h1 class="legion-title">The Moto Legion</h1>
-            <hr class="legion-rule" aria-hidden="true">
-            <p class="legion-tagline">Two creators. One crew. Full throttle.</p>
-            <p class="legion-blurb">SpartanH2 and Zh.Who ride southeast Michigan — POV rides, street builds, bike nights, Detroit pavement. The Legion is the banner it all rides under. The Discord is where the rides get planned. Get in.</p>
-            <a class="discord-cta" href="https://discord.gg/fz67hjDnPW" target="_blank" rel="noopener" aria-label="Join The Moto Legion Discord server">
-                <svg class="icon-svg" aria-hidden="true"><use href="icons.svg#i-discord"/></svg><span>Join the Legion</span>
-            </a>
-            <p class="next-ride" id="next-ride" hidden></p>
-        </section>
-
         <!-- C) Latest -->
         <section aria-label="Latest videos">
             <h2 class="section-title">Latest</h2>
-            <p class="section-intro">What the Legion dropped this week.</p>
+            <p class="section-intro">What The Moto Legion dropped this week.</p>
             <div class="feed-filter" id="feed-filter" role="group" aria-label="Filter videos by creator">
                 <button type="button" data-filter="all" aria-pressed="true">All</button>
                 <button type="button" data-filter="spartanh2" aria-pressed="false">SpartanH2</button>
@@ -175,7 +173,7 @@
             <div class="sr-only" id="feed-status" role="status" aria-live="polite"></div>
             <div class="video-grid" id="video-grid"></div>
             <noscript>
-                <p class="feed-fallback">The feed needs JavaScript — catch everything direct:
+                <p class="feed-fallback">The feed needs JavaScript. Catch everything direct:
                     <a href="https://www.tiktok.com/@spartan.h2" rel="noopener">@spartan.h2</a> ·
                     <a href="https://www.tiktok.com/@zh.who" rel="noopener">@zh.who</a>
                 </p>
@@ -185,7 +183,7 @@
         <!-- D) Shoulder to Shoulder (hidden until shoutouts.json sets enabled:true) -->
         <section id="shoutouts" aria-label="Creators we ride with" hidden>
             <h2 class="section-title">Shoulder to Shoulder</h2>
-            <p class="section-intro">The creators riding next to us when the cameras roll — and long after they stop.</p>
+            <p class="section-intro">The creators we share the road with, on camera and off.</p>
             <div class="shoutout-grid" id="shoutout-grid"></div>
         </section>
 
@@ -200,7 +198,7 @@
         </footer>
     </main>
 
-    <script src="legion.js?v=20260815010402" defer></script>
-    <script src="storm.js?v=20260815010402" defer></script>
+    <script src="legion.js?v=20260815034425" defer></script>
+    <script src="storm.js?v=20260815034425" defer></script>
 </body>
 </html>
