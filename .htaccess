@@ -69,6 +69,17 @@
 </IfModule>
 
 # ─────────────────────────────────────────────────────────────
+# Canonical host — www serves the same site at a second hostname
+# (duplicate content for search engines). 301 to the apex, which is
+# what every canonical tag, og:url and sitemap entry declares.
+# ─────────────────────────────────────────────────────────────
+<IfModule mod_rewrite.c>
+    RewriteEngine On
+    RewriteCond %{HTTP_HOST} ^www\.(.+)$ [NC]
+    RewriteRule ^ https://%1%{REQUEST_URI} [R=301,L]
+</IfModule>
+
+# ─────────────────────────────────────────────────────────────
 # /discord — the Legion's shareable Discord URL.
 # 302 (not 301) so the target invite can be rotated later without
 # browsers hard-caching the old one.
