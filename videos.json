@@ -12,7 +12,7 @@
   ],
   "_auto": "This file is auto-refreshed hourly by scripts/refresh-videos.mjs. Hand-edited \"note\" text is preserved by video id (an empty \"\" note stays empty); \"views\"/\"pinned\" are recomputed. New/removed videos and note/pinned/date changes are written on every run; view-count-only changes are written at most every 6 hours to limit deploy churn. _lastRefresh records the last successful write and per-creator fetch health.",
   "_lastRefresh": {
-    "at": "2026-08-16T02:10:30.306Z",
+    "at": "2026-08-16T09:01:42.021Z",
     "ok": {
       "spartanh2": true,
       "zhwho": true
@@ -23,14 +23,14 @@
       "creator": "spartanh2",
       "url": "https://www.tiktok.com/@spartan.h2/video/7674319703766076703",
       "date": "2026-08-15",
-      "views": "1.6K",
+      "views": "4.5K",
       "note": "Woodward Dream Cruise gets crazy after dark, arrests, crashes…"
     },
     {
       "creator": "spartanh2",
       "url": "https://www.tiktok.com/@spartan.h2/video/7670109306167020830",
       "date": "2026-08-04",
-      "views": "88.8K",
+      "views": "88.9K",
       "pinned": true,
       "note": "#DetroitNinja down on the Gordie Howe Bridge, the full breakdown"
     },
@@ -67,7 +67,7 @@
       "creator": "zhwho",
       "url": "https://www.tiktok.com/@zh.who/video/7667202527334567199",
       "date": "2026-07-27",
-      "views": "607",
+      "views": "609",
       "note": "Are we being followed??? Wild night in Detroit, pt. 2"
     },
     {
@@ -81,7 +81,7 @@
       "creator": "zhwho",
       "url": "https://www.tiktok.com/@zh.who/video/7660978836166774047",
       "date": "2026-07-10",
-      "views": "236",
+      "views": "237",
       "note": "ZH2 build: intercooler, BOV, billet plenum, stage 1 gears"
     },
     {
@@ -109,7 +109,7 @@
       "creator": "zhwho",
       "url": "https://www.tiktok.com/@zh.who/video/7633923121765993758",
       "date": "2026-04-28",
-      "views": "765",
+      "views": "766",
       "note": "Crowd reacts to the supercharged ZH2"
     },
     {
