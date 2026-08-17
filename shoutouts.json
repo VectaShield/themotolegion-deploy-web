@@ -6,6 +6,7 @@
     "Optional \"stats\" field: a second info line under the blurb, e.g.",
     "Optional \"handleImg\": an SVG/PNG wordmark rendered in place of the handle text (the handle stays as alt text).",
     "\"stats\": \"1.2K views · 300 likes · 50 followers\" (use the ' · ' separator).",
+    "Optional \"creatorKey\": a stats.json creators key (spartanh2/zhwho) — the stats line is then built LIVE from stats.json totals and the static \"stats\" string becomes a fallback.",
     "Put a small square avatar image in the repo at that path (webp preferred, ~160px).",
     "Placeholder slots use avatar shoutout-placeholder.svg and link to the Discord.",
     "Set \"enabled\": false to hide the whole section.",
@@ -18,16 +19,18 @@
       "url": "https://www.tiktok.com/@spartan.h2",
       "avatar": "spartanh2-avatar-220.webp",
       "blurb": "H2 · POV Content · SE Michigan",
-      "stats": "195.3K views · 12K likes · 836 followers",
-      "handleImg": "so-spartanh2-wordmark.svg"
+      "stats": "285.4K views · 12.6K likes · 901 followers",
+      "handleImg": "so-spartanh2-wordmark.svg",
+      "creatorKey": "spartanh2"
     },
     {
       "handle": "@zh.who",
       "url": "https://www.tiktok.com/@zh.who",
       "avatar": "zh-who-220.webp",
       "blurb": "Z H2 · POV Content · Detroit",
-      "stats": "11.6K views · 564 likes · 267 followers",
-      "handleImg": "so-zhwho-wordmark.svg"
+      "stats": "11.8K views · 1.3K likes · 272 followers",
+      "handleImg": "so-zhwho-wordmark.svg",
+      "creatorKey": "zhwho"
     },
     {
       "handle": "Reserved",
