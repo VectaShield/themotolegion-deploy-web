@@ -1,19 +1,19 @@
 {
-  "updated": "2026-08-17T09:00:26.925Z",
+  "updated": "2026-08-17T14:44:18.034Z",
   "creators": {
     "spartanh2": {
       "platforms": {
         "tiktok": {
-          "views": 205366,
+          "views": 206034,
           "likes": 12000,
-          "followers": 778,
+          "followers": 780,
           "viewsComplete": true
         },
         "youtube": {
-          "views": 5998,
+          "views": 6037,
           "aboutViews": 5867,
-          "viewsFromVideos": 5998,
-          "likes": 103,
+          "viewsFromVideos": 6037,
+          "likes": 105,
           "likesComplete": true,
           "followers": 7,
           "viewsComplete": true,
@@ -25,27 +25,27 @@
             },
             {
               "id": "7JcOQzcjbL8",
-              "views": 6,
+              "views": 7,
               "likes": 2
             },
             {
               "id": "8GpI1_0a_oc",
-              "views": 100,
+              "views": 101,
               "likes": 2
             },
             {
               "id": "y8JbrwzCJgw",
-              "views": 567,
+              "views": 569,
               "likes": 11
             },
             {
               "id": "Jn-DiuLX2po",
-              "views": 703,
-              "likes": 7
+              "views": 728,
+              "likes": 9
             },
             {
               "id": "-IvyNcQ8d2Y",
-              "views": 1250,
+              "views": 1260,
               "likes": 8
             },
             {
@@ -77,58 +77,58 @@
           "unavailable": "Cloudflare challenge blocks anonymous requests; needs a creator API key or session"
         },
         "facebook": {
-          "views": 74049,
-          "likes": 262,
-          "followers": 47,
+          "views": 79512,
+          "likes": 281,
+          "followers": 51,
           "viewsComplete": true,
           "likesComplete": true,
           "reels": [
             {
               "id": "1035692672416621",
-              "views": 756,
+              "views": 854,
               "likes": 5,
               "comments": null
             },
             {
               "id": "2564506560672195",
-              "views": 963,
-              "likes": 9,
+              "views": 1165,
+              "likes": 12,
               "comments": null
             },
             {
               "id": "1104520315239967",
-              "views": 1830,
+              "views": 2049,
               "likes": 6,
               "comments": null
             },
             {
               "id": "1419927686760277",
-              "views": 65754,
-              "likes": 216,
+              "views": 70042,
+              "likes": 231,
               "comments": null
             },
             {
               "id": "1563033208664728",
-              "views": 324,
+              "views": 342,
               "likes": 1,
               "comments": null
             },
             {
               "id": "1394492535875985",
-              "views": 144,
+              "views": 154,
               "likes": 2,
               "comments": null
             },
             {
               "id": "946982988423479",
-              "views": 106,
+              "views": 113,
               "likes": 1,
               "comments": null
             },
             {
               "id": "1726369398639586",
-              "views": 4172,
-              "likes": 22,
+              "views": 4793,
+              "likes": 23,
               "comments": null
             }
           ]
@@ -234,17 +234,17 @@
         }
       },
       "totals": {
-        "views": 285413,
-        "likes": 12613,
-        "followers": 901
+        "views": 291583,
+        "likes": 12634,
+        "followers": 907
       }
     },
     "zhwho": {
       "platforms": {
         "tiktok": {
-          "views": 11273,
-          "likes": 550,
-          "followers": 115,
+          "views": 11328,
+          "likes": 551,
+          "followers": 114,
           "viewsComplete": true
         },
         "youtube": {
@@ -306,9 +306,9 @@
         }
       },
       "totals": {
-        "views": 11821,
-        "likes": 1338,
-        "followers": 272
+        "views": 11876,
+        "likes": 1339,
+        "followers": 271
       }
     }
   }
