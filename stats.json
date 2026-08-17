@@ -1,18 +1,18 @@
 {
-  "updated": "2026-08-17T02:51:43.745Z",
+  "updated": "2026-08-17T03:13:05.266Z",
   "creators": {
     "spartanh2": {
       "platforms": {
         "tiktok": {
-          "views": 204755,
+          "views": 204866,
           "likes": 12000,
           "followers": 777,
           "viewsComplete": true
         },
         "youtube": {
-          "views": 5964,
+          "views": 5968,
           "aboutViews": 4518,
-          "viewsFromVideos": 5964,
+          "viewsFromVideos": 5968,
           "likes": 103,
           "likesComplete": true,
           "followers": 8,
@@ -40,12 +40,12 @@
             },
             {
               "id": "Jn-DiuLX2po",
-              "views": 695,
+              "views": 698,
               "likes": 7
             },
             {
               "id": "-IvyNcQ8d2Y",
-              "views": 1235,
+              "views": 1236,
               "likes": 8
             },
             {
@@ -77,34 +77,34 @@
           "unavailable": "Cloudflare challenge blocks anonymous requests; needs a creator API key or session"
         },
         "facebook": {
-          "views": 69872,
-          "likes": 234,
+          "views": 70409,
+          "likes": 239,
           "followers": 43,
           "viewsComplete": true,
           "likesComplete": true,
           "reels": [
             {
               "id": "1035692672416621",
-              "views": 664,
+              "views": 676,
               "likes": 4,
               "comments": null
             },
             {
               "id": "2564506560672195",
-              "views": 800,
-              "likes": 4,
+              "views": 836,
+              "likes": 6,
               "comments": null
             },
             {
               "id": "1104520315239967",
-              "views": 1686,
+              "views": 1698,
               "likes": 4,
               "comments": null
             },
             {
               "id": "1419927686760277",
-              "views": 62632,
-              "likes": 201,
+              "views": 62985,
+              "likes": 203,
               "comments": null
             },
             {
@@ -127,8 +127,8 @@
             },
             {
               "id": "1726369398639586",
-              "views": 3549,
-              "likes": 17,
+              "views": 3673,
+              "likes": 18,
               "comments": null
             }
           ]
@@ -229,12 +229,13 @@
               "owner": "spartanh2",
               "exact": true
             }
-          ]
+          ],
+          "stale": true
         }
       },
       "totals": {
-        "views": 280591,
-        "likes": 12585,
+        "views": 281243,
+        "likes": 12590,
         "followers": 897
       }
     },
@@ -300,7 +301,8 @@
               "owner": "zh.who",
               "exact": true
             }
-          ]
+          ],
+          "stale": true
         }
       },
       "totals": {
