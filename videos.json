@@ -12,7 +12,7 @@
   ],
   "_auto": "This file is auto-refreshed hourly by scripts/refresh-videos.mjs. Hand-edited \"note\" text is preserved by video id (an empty \"\" note stays empty); \"views\"/\"pinned\" are recomputed. New/removed videos and note/pinned/date changes are written on every run; view-count-only changes are written at most every 6 hours to limit deploy churn. _lastRefresh records the last successful write and per-creator fetch health.",
   "_lastRefresh": {
-    "at": "2026-08-16T23:55:11.673Z",
+    "at": "2026-08-17T06:04:21.204Z",
     "ok": {
       "spartanh2": true,
       "zhwho": true
@@ -23,35 +23,35 @@
       "creator": "spartanh2",
       "url": "https://www.tiktok.com/@spartan.h2/video/7674564326690131231",
       "date": "2026-08-16",
-      "views": "928",
+      "views": "1.1K",
       "note": "Pt4 Woodward Dream Cruise FreeWillRidez Group ride Woodward D…"
     },
     {
       "creator": "spartanh2",
       "url": "https://www.tiktok.com/@spartan.h2/video/7674563368492993823",
       "date": "2026-08-16",
-      "views": "456",
+      "views": "483",
       "note": "Pt3 Woodward Dream Cruise FreeWillRidez Group ride Woodward D…"
     },
     {
       "creator": "spartanh2",
       "url": "https://www.tiktok.com/@spartan.h2/video/7674562373486693663",
       "date": "2026-08-16",
-      "views": "491",
+      "views": "558",
       "note": "Pt2 Woodward Dream Cruise FreeWillRidez Group ride Woodward D…"
     },
     {
       "creator": "spartanh2",
       "url": "https://www.tiktok.com/@spartan.h2/video/7674561508369550623",
       "date": "2026-08-16",
-      "views": "356",
+      "views": "369",
       "note": "Part 1 Free Will Rides Dream Cruise Woodward Dream Cruise get…"
     },
     {
       "creator": "spartanh2",
       "url": "https://www.tiktok.com/@spartan.h2/video/7674319703766076703",
       "date": "2026-08-15",
-      "views": "9.7K",
+      "views": "10.9K",
       "note": "Woodward Dream Cruise gets crazy after dark, arrests, crashes…"
     },
     {
@@ -95,7 +95,7 @@
       "creator": "zhwho",
       "url": "https://www.tiktok.com/@zh.who/video/7667202527334567199",
       "date": "2026-07-27",
-      "views": "612",
+      "views": "615",
       "note": "Are we being followed??? Wild night in Detroit, pt. 2"
     },
     {
@@ -109,7 +109,7 @@
       "creator": "zhwho",
       "url": "https://www.tiktok.com/@zh.who/video/7660978836166774047",
       "date": "2026-07-10",
-      "views": "238",
+      "views": "241",
       "note": "ZH2 build: intercooler, BOV, billet plenum, stage 1 gears"
     },
     {
@@ -123,28 +123,28 @@
       "creator": "zhwho",
       "url": "https://www.tiktok.com/@zh.who/video/7653891716562390302",
       "date": "2026-06-21",
-      "views": "778",
+      "views": "779",
       "note": "First time at the strip: Z900 vs ZH2"
     },
     {
       "creator": "zhwho",
       "url": "https://www.tiktok.com/@zh.who/video/7636132336362409246",
       "date": "2026-05-04",
-      "views": "826",
+      "views": "827",
       "note": "Poor homie at the Modded Detroit meet"
     },
     {
       "creator": "zhwho",
       "url": "https://www.tiktok.com/@zh.who/video/7633923121765993758",
       "date": "2026-04-28",
-      "views": "768",
+      "views": "770",
       "note": "Crowd reacts to the supercharged ZH2"
     },
     {
       "creator": "zhwho",
       "url": "https://www.tiktok.com/@zh.who/video/7578642777282563358",
       "date": "2025-11-30",
-      "views": "528",
+      "views": "529",
       "note": "RAM 2500 vs drone, chase footage gone wrong"
     }
   ]
