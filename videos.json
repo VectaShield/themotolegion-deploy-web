@@ -12,7 +12,7 @@
   ],
   "_auto": "This file is auto-refreshed hourly by scripts/refresh-videos.mjs. Hand-edited \"note\" text is preserved by video id (an empty \"\" note stays empty); \"views\"/\"pinned\" are recomputed. New/removed videos and note/pinned/date changes are written on every run; view-count-only changes are written at most every 6 hours to limit deploy churn. _lastRefresh records the last successful write and per-creator fetch health.",
   "_lastRefresh": {
-    "at": "2026-08-18T08:06:25.301Z",
+    "at": "2026-08-18T14:16:26.896Z",
     "ok": {
       "spartanh2": true,
       "zhwho": true
@@ -51,7 +51,7 @@
       "creator": "spartanh2",
       "url": "https://www.tiktok.com/@spartan.h2/video/7674319703766076703",
       "date": "2026-08-15",
-      "views": "12.8K",
+      "views": "13K",
       "note": "Woodward Dream Cruise gets crazy after dark, arrests, crashes…"
     },
     {
@@ -123,7 +123,7 @@
       "creator": "zhwho",
       "url": "https://www.tiktok.com/@zh.who/video/7653891716562390302",
       "date": "2026-06-21",
-      "views": "783",
+      "views": "784",
       "note": "First time at the strip: Z900 vs ZH2"
     },
     {
@@ -137,7 +137,7 @@
       "creator": "zhwho",
       "url": "https://www.tiktok.com/@zh.who/video/7633923121765993758",
       "date": "2026-04-28",
-      "views": "771",
+      "views": "772",
       "note": "Crowd reacts to the supercharged ZH2"
     },
     {
