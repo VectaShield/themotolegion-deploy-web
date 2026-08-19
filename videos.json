@@ -12,7 +12,7 @@
   ],
   "_auto": "This file is auto-refreshed hourly by scripts/refresh-videos.mjs. Hand-edited \"note\" text is preserved by video id (an empty \"\" note stays empty); \"views\"/\"pinned\" are recomputed. New/removed videos and note/pinned/date changes are written on every run; view-count-only changes are written at most every 6 hours to limit deploy churn. _lastRefresh records the last successful write and per-creator fetch health.",
   "_lastRefresh": {
-    "at": "2026-08-18T20:59:00.808Z",
+    "at": "2026-08-19T03:28:51.392Z",
     "ok": {
       "spartanh2": true,
       "zhwho": true
@@ -51,7 +51,7 @@
       "creator": "spartanh2",
       "url": "https://www.tiktok.com/@spartan.h2/video/7674319703766076703",
       "date": "2026-08-15",
-      "views": "13.2K",
+      "views": "13.4K",
       "note": "Woodward Dream Cruise gets crazy after dark, arrests, crashes…"
     },
     {
@@ -95,14 +95,14 @@
       "creator": "zhwho",
       "url": "https://www.tiktok.com/@zh.who/video/7667202527334567199",
       "date": "2026-07-27",
-      "views": "624",
+      "views": "625",
       "note": "Are we being followed??? Wild night in Detroit, pt. 2"
     },
     {
       "creator": "zhwho",
       "url": "https://www.tiktok.com/@zh.who/video/7663921265702423839",
       "date": "2026-07-18",
-      "views": "2.3K",
+      "views": "2.4K",
       "note": "Saturday night Detroit ride, backpacking two at once"
     },
     {
