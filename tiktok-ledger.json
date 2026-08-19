@@ -17,7 +17,7 @@
   "creators": {
     "freewillridez": {
       "seeded": "2026-08-19",
-      "source": "public profile grid, 46 public videos (1 friends-only video excluded)",
+      "source": "public profile grid, 47 videos (46 public + 1 restricted, included by owner decision — see manualEntries)",
       "videos": {
         "7648860977617833229": 32600,
         "7651371782414322958": 28400,
@@ -65,15 +65,16 @@
         "7557258496123718926": 435,
         "7556523396775841038": 393,
         "7565955804709375287": 338,
-        "7675043265439108365": 141
+        "7675043265439108365": 141,
+        "7651093667817606414": 690300
       },
-      "excluded": {
+      "verified": "2026-08-19: every one of the 47 harvested ids checked via oEmbed; exactly one is non-public.",
+      "manualEntries": {
         "7651093667817606414": {
           "views": 690300,
-          "reason": "Not publicly viewable (friends-only/private). It was captured because the harvest ran from an account that is FRIENDS with him, so the profile grid showed it. oEmbed returns an empty shell for it and a visitor cannot open it, so counting it would publish a number no one can verify and would be inconsistent with every other creator, whose totals are public videos only. Re-add here only if the video is made public again."
+          "note": "RESTRICTED (friends-only) — counted by explicit owner decision. Anthony confirmed with the creator, who is an official Legion partner, that this view count should be included. Keep this entry: the embed endpoint filters privateItem, so the scraper will never see or update this video, and it will not be re-added automatically if deleted from here. It is also NOT in videos.json and must not be pinned or shown as a feed card — verified 2026-08-19 that a logged-out visitor gets an empty embed shell (no video, no author), so a card for it would render broken."
         }
-      },
-      "verified": "2026-08-19: every one of the 47 harvested ids checked via oEmbed; exactly one is non-public."
+      }
     },
     "spartanh2": {
       "videos": {

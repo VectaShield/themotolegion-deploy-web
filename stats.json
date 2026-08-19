@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-19T07:23:30.837Z",
+  "updated": "2026-08-19T07:29:41.019Z",
   "creators": {
     "spartanh2": {
       "platforms": {
@@ -251,11 +251,11 @@
     "freewillridez": {
       "platforms": {
         "tiktok": {
-          "views": 151943,
+          "views": 842243,
           "likes": 45300,
           "followers": 767,
           "viewsComplete": true,
-          "videosTracked": 47,
+          "videosTracked": 48,
           "videosRefreshedThisRun": 12
         },
         "rumble": {
@@ -266,7 +266,7 @@
         }
       },
       "totals": {
-        "views": 151943,
+        "views": 842243,
         "likes": 45300,
         "followers": 767
       }
