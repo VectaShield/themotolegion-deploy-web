@@ -17,9 +17,8 @@
   "creators": {
     "freewillridez": {
       "seeded": "2026-08-19",
-      "source": "public profile grid, 47 videos",
+      "source": "public profile grid, 46 public videos (1 friends-only video excluded)",
       "videos": {
-        "7651093667817606414": 690300,
         "7648860977617833229": 32600,
         "7651371782414322958": 28400,
         "7651708910566493453": 7186,
@@ -67,13 +66,20 @@
         "7556523396775841038": 393,
         "7565955804709375287": 338,
         "7675043265439108365": 141
-      }
+      },
+      "excluded": {
+        "7651093667817606414": {
+          "views": 690300,
+          "reason": "Not publicly viewable (friends-only/private). It was captured because the harvest ran from an account that is FRIENDS with him, so the profile grid showed it. oEmbed returns an empty shell for it and a visitor cannot open it, so counting it would publish a number no one can verify and would be inconsistent with every other creator, whose totals are public videos only. Re-add here only if the video is made public again."
+        }
+      },
+      "verified": "2026-08-19: every one of the 47 harvested ids checked via oEmbed; exactly one is non-public."
     },
     "spartanh2": {
       "videos": {
         "7670109306167020830": 89000,
         "7667101623184854285": 84200,
-        "7674564326690131231": 2034,
+        "7674564326690131231": 2035,
         "7674563368492993823": 1462,
         "7674562373486693663": 2396,
         "7674561508369550623": 10900,

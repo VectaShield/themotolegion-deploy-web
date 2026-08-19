@@ -1,10 +1,10 @@
 {
-  "updated": "2026-08-19T07:01:56.290Z",
+  "updated": "2026-08-19T07:23:30.837Z",
   "creators": {
     "spartanh2": {
       "platforms": {
         "tiktok": {
-          "views": 222183,
+          "views": 222184,
           "likes": 12100,
           "followers": 784,
           "viewsComplete": true,
@@ -79,7 +79,7 @@
           "unavailable": "Cloudflare challenge blocks anonymous requests; needs a creator API key or session"
         },
         "facebook": {
-          "views": 90456,
+          "views": 90457,
           "likes": 341,
           "followers": 65,
           "viewsComplete": true,
@@ -105,7 +105,7 @@
             },
             {
               "id": "1419927686760277",
-              "views": 78893,
+              "views": 78894,
               "likes": 269,
               "comments": null
             },
@@ -243,7 +243,7 @@
         }
       },
       "totals": {
-        "views": 319019,
+        "views": 319021,
         "likes": 12829,
         "followers": 945
       }
@@ -251,11 +251,11 @@
     "freewillridez": {
       "platforms": {
         "tiktok": {
-          "views": 842243,
+          "views": 151943,
           "likes": 45300,
           "followers": 767,
           "viewsComplete": true,
-          "videosTracked": 48,
+          "videosTracked": 47,
           "videosRefreshedThisRun": 12
         },
         "rumble": {
@@ -266,7 +266,7 @@
         }
       },
       "totals": {
-        "views": 842243,
+        "views": 151943,
         "likes": 45300,
         "followers": 767
       }
