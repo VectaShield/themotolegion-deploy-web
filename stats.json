@@ -1,10 +1,10 @@
 {
-  "updated": "2026-08-19T07:29:41.019Z",
+  "updated": "2026-08-19T11:12:02.687Z",
   "creators": {
     "spartanh2": {
       "platforms": {
         "tiktok": {
-          "views": 222184,
+          "views": 222186,
           "likes": 12100,
           "followers": 784,
           "viewsComplete": true,
@@ -79,7 +79,7 @@
           "unavailable": "Cloudflare challenge blocks anonymous requests; needs a creator API key or session"
         },
         "facebook": {
-          "views": 90457,
+          "views": 90521,
           "likes": 341,
           "followers": 65,
           "viewsComplete": true,
@@ -87,25 +87,25 @@
           "reels": [
             {
               "id": "1035692672416621",
-              "views": 1180,
+              "views": 1182,
               "likes": 9,
               "comments": null
             },
             {
               "id": "2564506560672195",
-              "views": 1519,
+              "views": 1526,
               "likes": 13,
               "comments": null
             },
             {
               "id": "1104520315239967",
-              "views": 2412,
+              "views": 2420,
               "likes": 10,
               "comments": null
             },
             {
               "id": "1419927686760277",
-              "views": 78894,
+              "views": 78931,
               "likes": 269,
               "comments": null
             },
@@ -129,7 +129,7 @@
             },
             {
               "id": "1726369398639586",
-              "views": 5753,
+              "views": 5763,
               "likes": 36,
               "comments": null
             }
@@ -243,7 +243,7 @@
         }
       },
       "totals": {
-        "views": 319021,
+        "views": 319087,
         "likes": 12829,
         "followers": 945
       }
@@ -251,7 +251,7 @@
     "freewillridez": {
       "platforms": {
         "tiktok": {
-          "views": 842243,
+          "views": 842271,
           "likes": 45300,
           "followers": 767,
           "viewsComplete": true,
@@ -266,7 +266,7 @@
         }
       },
       "totals": {
-        "views": 842243,
+        "views": 842271,
         "likes": 45300,
         "followers": 767
       }
@@ -274,7 +274,7 @@
     "zhwho": {
       "platforms": {
         "tiktok": {
-          "views": 11612,
+          "views": 11621,
           "likes": 554,
           "followers": 115,
           "viewsComplete": true,
@@ -339,7 +339,7 @@
         }
       },
       "totals": {
-        "views": 12167,
+        "views": 12176,
         "likes": 1365,
         "followers": 275
       }
