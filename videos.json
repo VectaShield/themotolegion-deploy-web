@@ -12,7 +12,7 @@
   ],
   "_auto": "This file is auto-refreshed hourly by scripts/refresh-videos.mjs. Hand-edited \"note\" text is preserved by video id (an empty \"\" note stays empty); \"views\"/\"pinned\" are recomputed. New/removed videos and note/pinned/date changes are written on every run; view-count-only changes are written at most every 6 hours to limit deploy churn. _lastRefresh records the last successful write and per-creator fetch health.",
   "_lastRefresh": {
-    "at": "2026-08-19T07:25:32.507Z",
+    "at": "2026-08-19T13:29:32.394Z",
     "ok": {
       "spartanh2": true,
       "zhwho": true,
@@ -24,7 +24,7 @@
       "creator": "freewillridez",
       "url": "https://www.tiktok.com/@freewillflow/video/7675043265439108365",
       "date": "2026-08-17",
-      "views": "141",
+      "views": "146",
       "note": "FREEWILLRIDEZ NEXT GROUP RIDE IS IN PONTIAC, MICHIGAN, AUGUST…"
     },
     {
@@ -59,7 +59,7 @@
       "creator": "freewillridez",
       "url": "https://www.tiktok.com/@freewillflow/video/7674680677144612109",
       "date": "2026-08-16",
-      "views": "529",
+      "views": "532",
       "note": "Michigan have you not heard of the FREEWILRIDEZ GROUP RIDEZ Y…"
     },
     {
@@ -73,7 +73,7 @@
       "creator": "freewillridez",
       "url": "https://www.tiktok.com/@freewillflow/video/7672637865662139661",
       "date": "2026-08-11",
-      "views": "626",
+      "views": "627",
       "note": "Joy riding, I mean test driving a dealership 2025 zx10r maybe…"
     },
     {
@@ -138,7 +138,7 @@
       "creator": "zhwho",
       "url": "https://www.tiktok.com/@zh.who/video/7667202527334567199",
       "date": "2026-07-27",
-      "views": "627",
+      "views": "629",
       "note": "Are we being followed??? Wild night in Detroit, pt. 2"
     },
     {
