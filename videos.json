@@ -12,7 +12,7 @@
   ],
   "_auto": "This file is auto-refreshed hourly by scripts/refresh-videos.mjs. Hand-edited \"note\" text is preserved by video id (an empty \"\" note stays empty); \"views\"/\"pinned\" are recomputed. New/removed videos and note/pinned/date changes are written on every run; view-count-only changes are written at most every 6 hours to limit deploy churn. _lastRefresh records the last successful write and per-creator fetch health.",
   "_lastRefresh": {
-    "at": "2026-08-21T17:05:18.264Z",
+    "at": "2026-08-21T23:58:23.933Z",
     "ok": {
       "spartanh2": true,
       "zhwho": true,
@@ -24,7 +24,7 @@
       "creator": "freewillridez",
       "url": "https://www.tiktok.com/@freewillflow/video/7675043265439108365",
       "date": "2026-08-17",
-      "views": "179",
+      "views": "182",
       "note": "FREEWILLRIDEZ NEXT GROUP RIDE IS IN PONTIAC, MICHIGAN, AUGUST…"
     },
     {
@@ -59,7 +59,7 @@
       "creator": "freewillridez",
       "url": "https://www.tiktok.com/@freewillflow/video/7674680677144612109",
       "date": "2026-08-16",
-      "views": "596",
+      "views": "605",
       "note": "Michigan have you not heard of the FREEWILRIDEZ GROUP RIDEZ Y…"
     },
     {
@@ -109,7 +109,7 @@
       "creator": "zhwho",
       "url": "https://www.tiktok.com/@zh.who/video/7668049880547380511",
       "date": "2026-07-29",
-      "views": "4.5K",
+      "views": "4.6K",
       "pinned": true,
       "note": "Racing to be first across the Gordie Howe Bridge until it all went down"
     },
@@ -117,14 +117,14 @@
       "creator": "freewillridez",
       "url": "https://www.tiktok.com/@freewillflow/video/7667704540426210573",
       "date": "2026-07-28",
-      "views": "797",
+      "views": "798",
       "note": "You can say what you want about our group rides, but they're…"
     },
     {
       "creator": "spartanh2",
       "url": "https://www.tiktok.com/@spartan.h2/video/7667101623184854285",
       "date": "2026-07-27",
-      "views": "84.2K",
+      "views": "84.3K",
       "note": "Stealing Morgan Wallen's girls"
     },
     {
@@ -138,7 +138,7 @@
       "creator": "zhwho",
       "url": "https://www.tiktok.com/@zh.who/video/7667202527334567199",
       "date": "2026-07-27",
-      "views": "635",
+      "views": "638",
       "note": "Are we being followed??? Wild night in Detroit, pt. 2"
     },
     {
