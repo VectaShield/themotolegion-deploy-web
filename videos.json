@@ -12,7 +12,7 @@
   ],
   "_auto": "This file is auto-refreshed hourly by scripts/refresh-videos.mjs. Hand-edited \"note\" text is preserved by video id (an empty \"\" note stays empty); \"views\"/\"pinned\" are recomputed. New/removed videos and note/pinned/date changes are written on every run; view-count-only changes are written at most every 6 hours to limit deploy churn. _lastRefresh records the last successful write and per-creator fetch health.",
   "_lastRefresh": {
-    "at": "2026-08-20T21:02:36.525Z",
+    "at": "2026-08-21T03:34:46.245Z",
     "ok": {
       "spartanh2": true,
       "zhwho": true,
@@ -24,7 +24,7 @@
       "creator": "freewillridez",
       "url": "https://www.tiktok.com/@freewillflow/video/7675043265439108365",
       "date": "2026-08-17",
-      "views": "167",
+      "views": "176",
       "note": "FREEWILLRIDEZ NEXT GROUP RIDE IS IN PONTIAC, MICHIGAN, AUGUST…"
     },
     {
@@ -59,7 +59,7 @@
       "creator": "freewillridez",
       "url": "https://www.tiktok.com/@freewillflow/video/7674680677144612109",
       "date": "2026-08-16",
-      "views": "572",
+      "views": "582",
       "note": "Michigan have you not heard of the FREEWILRIDEZ GROUP RIDEZ Y…"
     },
     {
@@ -73,7 +73,7 @@
       "creator": "freewillridez",
       "url": "https://www.tiktok.com/@freewillflow/video/7672637865662139661",
       "date": "2026-08-11",
-      "views": "630",
+      "views": "637",
       "note": "Joy riding, I mean test driving a dealership 2025 zx10r maybe…"
     },
     {
@@ -102,7 +102,7 @@
       "creator": "freewillridez",
       "url": "https://www.tiktok.com/@freewillflow/video/7668160214062927118",
       "date": "2026-07-30",
-      "views": "787",
+      "views": "794",
       "note": "Love me while I’m here"
     },
     {
@@ -117,7 +117,7 @@
       "creator": "freewillridez",
       "url": "https://www.tiktok.com/@freewillflow/video/7667704540426210573",
       "date": "2026-07-28",
-      "views": "789",
+      "views": "796",
       "note": "You can say what you want about our group rides, but they're…"
     },
     {
@@ -138,7 +138,7 @@
       "creator": "zhwho",
       "url": "https://www.tiktok.com/@zh.who/video/7667202527334567199",
       "date": "2026-07-27",
-      "views": "632",
+      "views": "633",
       "note": "Are we being followed??? Wild night in Detroit, pt. 2"
     },
     {
@@ -166,7 +166,7 @@
       "creator": "zhwho",
       "url": "https://www.tiktok.com/@zh.who/video/7660978836166774047",
       "date": "2026-07-10",
-      "views": "245",
+      "views": "247",
       "note": "ZH2 build: intercooler, BOV, billet plenum, stage 1 gears"
     },
     {
@@ -180,7 +180,7 @@
       "creator": "zhwho",
       "url": "https://www.tiktok.com/@zh.who/video/7653891716562390302",
       "date": "2026-06-21",
-      "views": "786",
+      "views": "789",
       "note": "First time at the strip: Z900 vs ZH2"
     },
     {
@@ -251,21 +251,21 @@
       "creator": "zhwho",
       "url": "https://www.tiktok.com/@zh.who/video/7636132336362409246",
       "date": "2026-05-04",
-      "views": "827",
+      "views": "828",
       "note": "Poor homie at the Modded Detroit meet"
     },
     {
       "creator": "zhwho",
       "url": "https://www.tiktok.com/@zh.who/video/7633923121765993758",
       "date": "2026-04-28",
-      "views": "775",
+      "views": "776",
       "note": "Crowd reacts to the supercharged ZH2"
     },
     {
       "creator": "zhwho",
       "url": "https://www.tiktok.com/@zh.who/video/7578642777282563358",
       "date": "2025-11-30",
-      "views": "531",
+      "views": "532",
       "note": "RAM 2500 vs drone, chase footage gone wrong"
     },
     {
