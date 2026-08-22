@@ -12,7 +12,7 @@
   ],
   "_auto": "This file is auto-refreshed hourly by scripts/refresh-videos.mjs. Hand-edited \"note\" text is preserved by video id (an empty \"\" note stays empty); \"views\"/\"pinned\" are recomputed. New/removed videos and note/pinned/date changes are written on every run; view-count-only changes are written at most every 6 hours to limit deploy churn. _lastRefresh records the last successful write and per-creator fetch health.",
   "_lastRefresh": {
-    "at": "2026-08-22T19:54:54.291Z",
+    "at": "2026-08-22T22:57:20.190Z",
     "ok": {
       "spartanh2": true,
       "zhwho": true,
@@ -20,6 +20,13 @@
     }
   },
   "videos": [
+    {
+      "creator": "spartanh2",
+      "url": "https://www.tiktok.com/@spartan.h2/video/7676989391042055454",
+      "date": "2026-08-22",
+      "views": "71",
+      "note": "Crashed Motorcycle at Milan Dragway! Hoping Frank recovers qu…"
+    },
     {
       "creator": "freewillridez",
       "url": "https://www.tiktok.com/@freewillflow/video/7675043265439108365",
@@ -59,14 +66,14 @@
       "creator": "freewillridez",
       "url": "https://www.tiktok.com/@freewillflow/video/7674680677144612109",
       "date": "2026-08-16",
-      "views": "625",
+      "views": "628",
       "note": "Michigan have you not heard of the FREEWILRIDEZ GROUP RIDEZ Y…"
     },
     {
       "creator": "spartanh2",
       "url": "https://www.tiktok.com/@spartan.h2/video/7674319703766076703",
       "date": "2026-08-15",
-      "views": "13.9K",
+      "views": "14K",
       "note": "Woodward Dream Cruise gets crazy after dark, arrests, crashes…"
     },
     {
@@ -180,7 +187,7 @@
       "creator": "zhwho",
       "url": "https://www.tiktok.com/@zh.who/video/7653891716562390302",
       "date": "2026-06-21",
-      "views": "795",
+      "views": "796",
       "note": "First time at the strip: Z900 vs ZH2"
     },
     {
