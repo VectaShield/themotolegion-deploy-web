@@ -12,7 +12,7 @@
   ],
   "_auto": "This file is auto-refreshed hourly by scripts/refresh-videos.mjs. Hand-edited \"note\" text is preserved by video id (an empty \"\" note stays empty); \"views\"/\"pinned\" are recomputed. New/removed videos and note/pinned/date changes are written on every run; view-count-only changes are written at most every 6 hours to limit deploy churn. _lastRefresh records the last successful write and per-creator fetch health.",
   "_lastRefresh": {
-    "at": "2026-08-23T11:56:20.314Z",
+    "at": "2026-08-23T19:02:19.696Z",
     "ok": {
       "spartanh2": true,
       "zhwho": true,
@@ -24,14 +24,14 @@
       "creator": "spartanh2",
       "url": "https://www.tiktok.com/@spartan.h2/video/7676989391042055454",
       "date": "2026-08-22",
-      "views": "577",
+      "views": "603",
       "note": "Crashed Motorcycle at Milan Dragway! Hoping Frank recovers qu…"
     },
     {
       "creator": "freewillridez",
       "url": "https://www.tiktok.com/@freewillflow/video/7675043265439108365",
       "date": "2026-08-17",
-      "views": "203",
+      "views": "205",
       "note": "FREEWILLRIDEZ NEXT GROUP RIDE IS IN PONTIAC, MICHIGAN, AUGUST…"
     },
     {
@@ -66,7 +66,7 @@
       "creator": "freewillridez",
       "url": "https://www.tiktok.com/@freewillflow/video/7674680677144612109",
       "date": "2026-08-16",
-      "views": "632",
+      "views": "637",
       "note": "Michigan have you not heard of the FREEWILRIDEZ GROUP RIDEZ Y…"
     },
     {
@@ -80,7 +80,7 @@
       "creator": "freewillridez",
       "url": "https://www.tiktok.com/@freewillflow/video/7672637865662139661",
       "date": "2026-08-11",
-      "views": "638",
+      "views": "639",
       "note": "Joy riding, I mean test driving a dealership 2025 zx10r maybe…"
     },
     {
@@ -187,7 +187,7 @@
       "creator": "zhwho",
       "url": "https://www.tiktok.com/@zh.who/video/7653891716562390302",
       "date": "2026-06-21",
-      "views": "797",
+      "views": "798",
       "note": "First time at the strip: Z900 vs ZH2"
     },
     {
