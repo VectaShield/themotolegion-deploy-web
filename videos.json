@@ -12,7 +12,7 @@
   ],
   "_auto": "This file is auto-refreshed hourly by scripts/refresh-videos.mjs. Hand-edited \"note\" text is preserved by video id (an empty \"\" note stays empty); \"views\"/\"pinned\" are recomputed. New/removed videos and note/pinned/date changes are written on every run; view-count-only changes are written at most every 6 hours to limit deploy churn. _lastRefresh records the last successful write and per-creator fetch health.",
   "_lastRefresh": {
-    "at": "2026-08-22T22:57:20.190Z",
+    "at": "2026-08-23T05:06:20.617Z",
     "ok": {
       "spartanh2": true,
       "zhwho": true,
@@ -24,14 +24,14 @@
       "creator": "spartanh2",
       "url": "https://www.tiktok.com/@spartan.h2/video/7676989391042055454",
       "date": "2026-08-22",
-      "views": "71",
+      "views": "561",
       "note": "Crashed Motorcycle at Milan Dragway! Hoping Frank recovers qu…"
     },
     {
       "creator": "freewillridez",
       "url": "https://www.tiktok.com/@freewillflow/video/7675043265439108365",
       "date": "2026-08-17",
-      "views": "196",
+      "views": "198",
       "note": "FREEWILLRIDEZ NEXT GROUP RIDE IS IN PONTIAC, MICHIGAN, AUGUST…"
     },
     {
@@ -52,7 +52,7 @@
       "creator": "spartanh2",
       "url": "https://www.tiktok.com/@spartan.h2/video/7674562373486693663",
       "date": "2026-08-16",
-      "views": "2.4K",
+      "views": "2.5K",
       "note": "Pt2 Woodward Dream Cruise FreeWillRidez Group ride Woodward D…"
     },
     {
@@ -66,7 +66,7 @@
       "creator": "freewillridez",
       "url": "https://www.tiktok.com/@freewillflow/video/7674680677144612109",
       "date": "2026-08-16",
-      "views": "628",
+      "views": "630",
       "note": "Michigan have you not heard of the FREEWILRIDEZ GROUP RIDEZ Y…"
     },
     {
@@ -145,14 +145,14 @@
       "creator": "zhwho",
       "url": "https://www.tiktok.com/@zh.who/video/7667202527334567199",
       "date": "2026-07-27",
-      "views": "640",
+      "views": "641",
       "note": "Are we being followed??? Wild night in Detroit, pt. 2"
     },
     {
       "creator": "freewillridez",
       "url": "https://www.tiktok.com/@freewillflow/video/7664982909228453134",
       "date": "2026-07-21",
-      "views": "6.2K",
+      "views": "6.3K",
       "note": "Freewillridez group rides our next one in August 29th Pontiac…"
     },
     {
@@ -173,7 +173,7 @@
       "creator": "zhwho",
       "url": "https://www.tiktok.com/@zh.who/video/7660978836166774047",
       "date": "2026-07-10",
-      "views": "249",
+      "views": "250",
       "note": "ZH2 build: intercooler, BOV, billet plenum, stage 1 gears"
     },
     {
@@ -187,7 +187,7 @@
       "creator": "zhwho",
       "url": "https://www.tiktok.com/@zh.who/video/7653891716562390302",
       "date": "2026-06-21",
-      "views": "796",
+      "views": "797",
       "note": "First time at the strip: Z900 vs ZH2"
     },
     {
