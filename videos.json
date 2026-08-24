@@ -12,7 +12,7 @@
   ],
   "_auto": "This file is auto-refreshed hourly by scripts/refresh-videos.mjs. Hand-edited \"note\" text is preserved by video id (an empty \"\" note stays empty); \"views\"/\"pinned\" are recomputed. New/removed videos and note/pinned/date changes are written on every run; view-count-only changes are written at most every 6 hours to limit deploy churn. _lastRefresh records the last successful write and per-creator fetch health.",
   "_lastRefresh": {
-    "at": "2026-08-24T02:11:22.452Z",
+    "at": "2026-08-24T09:29:03.410Z",
     "ok": {
       "spartanh2": true,
       "zhwho": true,
@@ -24,14 +24,14 @@
       "creator": "spartanh2",
       "url": "https://www.tiktok.com/@spartan.h2/video/7676989391042055454",
       "date": "2026-08-22",
-      "views": "640",
+      "views": "655",
       "note": "Crashed Motorcycle at Milan Dragway! Hoping Frank recovers qu…"
     },
     {
       "creator": "freewillridez",
       "url": "https://www.tiktok.com/@freewillflow/video/7675043265439108365",
       "date": "2026-08-17",
-      "views": "214",
+      "views": "216",
       "note": "FREEWILLRIDEZ NEXT GROUP RIDE IS IN PONTIAC, MICHIGAN, AUGUST…"
     },
     {
@@ -66,21 +66,21 @@
       "creator": "freewillridez",
       "url": "https://www.tiktok.com/@freewillflow/video/7674680677144612109",
       "date": "2026-08-16",
-      "views": "650",
+      "views": "652",
       "note": "Michigan have you not heard of the FREEWILRIDEZ GROUP RIDEZ Y…"
     },
     {
       "creator": "spartanh2",
       "url": "https://www.tiktok.com/@spartan.h2/video/7674319703766076703",
       "date": "2026-08-15",
-      "views": "14K",
+      "views": "14.1K",
       "note": "Woodward Dream Cruise gets crazy after dark, arrests, crashes…"
     },
     {
       "creator": "freewillridez",
       "url": "https://www.tiktok.com/@freewillflow/video/7672637865662139661",
       "date": "2026-08-11",
-      "views": "643",
+      "views": "645",
       "note": "Joy riding, I mean test driving a dealership 2025 zx10r maybe…"
     },
     {
@@ -109,7 +109,7 @@
       "creator": "freewillridez",
       "url": "https://www.tiktok.com/@freewillflow/video/7668160214062927118",
       "date": "2026-07-30",
-      "views": "800",
+      "views": "802",
       "note": "Love me while I’m here"
     },
     {
@@ -124,7 +124,7 @@
       "creator": "freewillridez",
       "url": "https://www.tiktok.com/@freewillflow/video/7667704540426210573",
       "date": "2026-07-28",
-      "views": "802",
+      "views": "804",
       "note": "You can say what you want about our group rides, but they're…"
     },
     {
@@ -152,7 +152,7 @@
       "creator": "freewillridez",
       "url": "https://www.tiktok.com/@freewillflow/video/7664982909228453134",
       "date": "2026-07-21",
-      "views": "6.4K",
+      "views": "6.5K",
       "note": "Freewillridez group rides our next one in August 29th Pontiac…"
     },
     {
