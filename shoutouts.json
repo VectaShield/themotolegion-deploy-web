@@ -1,19 +1,24 @@
 {
   "_howto": [
-    "HOW TO ADD A RIDER: replace a placeholder object in 'shoutouts' with:",
+    "TWO GRIDS: 'members' renders under the Legion Members section (patched-in",
+    "riders); 'friends' renders under Friends of the Legion (creators we ride",
+    "with but who are NOT in the Legion). Same entry shape in both arrays.",
+    "HOW TO ADD A RIDER: replace a placeholder object with:",
     "{\"handle\": \"@name\", \"url\": \"https://www.tiktok.com/@name\",",
     "\"avatar\": \"thumbs/so-name.webp\", \"blurb\": \"optional short descriptor\"}.",
     "Optional \"stats\" field: a second info line under the blurb, e.g.",
     "Optional \"handleImg\": an SVG/PNG wordmark rendered in place of the handle text (the handle stays as alt text).",
     "\"stats\": \"1.2K views · 300 likes · 50 followers\" (use the ' · ' separator).",
-    "Optional \"creatorKey\": a stats.json creators key (spartanh2/zhwho) — the stats line is then built LIVE from stats.json totals and the static \"stats\" string becomes a fallback.",
+    "Optional \"creatorKey\": a stats.json creators key (spartanh2/zhwho/freewillridez) — the stats line is then built LIVE from stats.json totals and the static \"stats\" string becomes a fallback.",
+    "MEMBERS ONLY: creatorKey/stats belong to 'members' entries — friends are",
+    "not tracked, so 'friends' entries never get a creatorKey or stats line.",
     "Put a small square avatar image in the repo at that path (webp preferred, ~160px).",
     "Placeholder slots use avatar shoutout-placeholder.svg and link to the Discord.",
-    "Set \"enabled\": false to hide the whole section.",
+    "Set \"enabled\": false to hide both sections.",
     "Push to main; the site deploys automatically."
   ],
   "enabled": true,
-  "shoutouts": [
+  "members": [
     {
       "handle": "@spartan.h2",
       "url": "https://www.tiktok.com/@spartan.h2",
@@ -36,10 +41,30 @@
       "handle": "Freewill Ridez",
       "url": "https://freewillridez.com",
       "avatar": "freewillridez-220.webp",
-      "blurb": "Group Ridez · Pontiac, Michigan",
+      "blurb": "GSXR 1000 · Group Ridez · Pontiac, MI",
       "handleImg": "so-freewillridez-wordmark.webp",
       "creatorKey": "freewillridez"
     },
+    {
+      "handle": "Reserved",
+      "url": "https://discord.gg/fz67hjDnPW",
+      "avatar": "shoutout-placeholder.svg",
+      "blurb": "Rider reveal soon"
+    },
+    {
+      "handle": "Reserved",
+      "url": "https://discord.gg/fz67hjDnPW",
+      "avatar": "shoutout-placeholder.svg",
+      "blurb": "Rider reveal soon"
+    },
+    {
+      "handle": "Reserved",
+      "url": "https://discord.gg/fz67hjDnPW",
+      "avatar": "shoutout-placeholder.svg",
+      "blurb": "Rider reveal soon"
+    }
+  ],
+  "friends": [
     {
       "handle": "Reserved",
       "url": "https://discord.gg/fz67hjDnPW",

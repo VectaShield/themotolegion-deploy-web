@@ -31,7 +31,7 @@
     <meta name="twitter:image" content="https://themotolegion.com/og-image.png?v=f3ba06e455">
     <meta name="twitter:image:alt" content="The Moto Legion: SpartanH2 and Zh.Who">
 
-    <link rel="stylesheet" href="styles.css?v=ae32c6e30c">
+    <link rel="stylesheet" href="styles.css?v=545de7ca5a">
     <link rel="icon" href="/favicon.ico" sizes="48x48 32x32 16x16">
     <link rel="icon" type="image/svg+xml" href="favicon.svg">
     <link rel="icon" type="image/png" href="favicon-64.png">
@@ -115,7 +115,8 @@
         </header>
 
         <!-- A) Creator tiles -->
-        <section class="tiles" aria-label="The Moto Legion members">
+        <p class="founders-kicker">Founders</p>
+        <section class="tiles" aria-label="The Moto Legion founders">
             <article class="tile tile-spartanh2">
                 <img src="spartanh2-avatar-220.webp" alt="SpartanH2, motorcycle content creator based in southeast Michigan" class="tile-avatar" width="92" height="92" fetchpriority="high">
                 <h2 class="tile-name"><img src="SpartanH2-wordmark.svg" alt="SpartanH2" class="tile-wordmark" width="1188" height="200"></h2>
@@ -161,8 +162,8 @@
         <section class="legion" aria-label="About The Moto Legion">
             <p class="legion-tagline"><span>One crew.</span> <span>Full throttle.</span> <span>Detroit built.</span></p>
             <p class="legion-blurb">The Moto Legion is here. Forged on Detroit pavement, built on group rides and bike nights, growing stronger every weekend. It all starts in the Discord.</p>
-            <a class="discord-cta" href="https://discord.gg/fz67hjDnPW" target="_blank" rel="noopener" aria-label="Join The Moto Legion Discord server">
-                <svg class="icon-svg" aria-hidden="true"><use href="icons.svg?v=e9f5cbb6c4#i-discord"/></svg><span>Join The Moto Legion</span>
+            <a class="discord-cta" href="https://discord.gg/fz67hjDnPW" target="_blank" rel="noopener" aria-label="Join The Moto Legion's Discord server">
+                <svg class="icon-svg" aria-hidden="true"><use href="icons.svg?v=e9f5cbb6c4#i-discord"/></svg><span>Join The Moto Legion's Discord</span>
             </a>
             <p class="next-ride" id="next-ride" hidden></p>
         </section>
@@ -186,18 +187,24 @@
             </noscript>
         </section>
 
-        <!-- D) Shoulder to Shoulder (hidden until shoutouts.json sets enabled:true) -->
-        <section id="shoutouts" aria-label="Creators we ride with" hidden>
-            <h2 class="section-title">Shoulder to Shoulder</h2>
-            <p class="section-intro">The creators we share the road with, on camera and off.</p>
-            <div class="shoutout-grid" id="shoutout-grid"></div>
+        <!-- D) Legion Members + Friends of the Legion
+             (hidden until shoutouts.json sets enabled:true) -->
+        <section id="shoutouts-members" aria-label="Legion members" hidden>
+            <h2 class="section-title">Legion Members</h2>
+            <p class="section-intro">Patched in and riding under the Legion banner.</p>
+            <div class="shoutout-grid" id="member-grid"></div>
+        </section>
+        <section id="shoutouts-friends" aria-label="Friends of the Legion" hidden>
+            <h2 class="section-title">Friends of the Legion</h2>
+            <p class="section-intro">Not patched in &mdash; just the creators we share the road with, on camera and off.</p>
+            <div class="shoutout-grid" id="friend-grid"></div>
         </section>
 
         <!-- E) Footer -->
         <footer class="footer">
             <span>© <span id="year">2026</span> The Moto Legion · <span class="wx-line" id="wx-line"></span></span>
             <span class="footer-links">
-                <a href="/join">Ride With Us</a>
+                <a href="/join">Join as a Creator</a>
                 <a href="/stats">Stats</a>
                 <a href="https://spartanh2.com" rel="noopener">SpartanH2.com</a>
                 <a href="https://zhwho.com" rel="noopener">ZhWho.com</a>
@@ -207,7 +214,7 @@
     </main>
 
 
-    <script src="legion.js?v=211b0a1a20" defer></script>
+    <script src="legion.js?v=9389d5c205" defer></script>
     <script src="storm.js?v=66386c41e8" defer></script>
 </body>
 </html>
