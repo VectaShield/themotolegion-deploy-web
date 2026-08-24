@@ -1,6 +1,6 @@
 {
   "_howto": [
-    "TWO GRIDS: 'members' renders under the Legion Members section (patched-in",
+    "TWO GRIDS: 'members' renders under the Legion Members section (official-member",
     "riders); 'friends' renders under Friends of the Legion (creators we ride",
     "with but who are NOT in the Legion). Same entry shape in both arrays.",
     "HOW TO ADD A RIDER: replace a placeholder object with:",
@@ -9,8 +9,8 @@
     "Optional \"stats\" field: a second info line under the blurb, e.g.",
     "Optional \"handleImg\": an SVG/PNG wordmark rendered in place of the handle text (the handle stays as alt text).",
     "\"stats\": \"1.2K views · 300 likes · 50 followers\" (use the ' · ' separator).",
-    "Optional \"creatorKey\": a stats.json creators key (spartanh2/zhwho/freewillridez) — the stats line is then built LIVE from stats.json totals and the static \"stats\" string becomes a fallback.",
-    "MEMBERS ONLY: creatorKey/stats belong to 'members' entries — friends are",
+    "Optional \"creatorKey\": a stats.json creators key (spartanh2/zhwho/freewillridez) - the stats line is then built LIVE from stats.json totals and the static \"stats\" string becomes a fallback.",
+    "MEMBERS ONLY: creatorKey/stats belong to 'members' entries - friends are",
     "not tracked, so 'friends' entries never get a creatorKey or stats line.",
     "Put a small square avatar image in the repo at that path (webp preferred, ~160px).",
     "Placeholder slots use avatar shoutout-placeholder.svg and link to the Discord.",

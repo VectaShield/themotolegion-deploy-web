@@ -17,7 +17,7 @@
   "creators": {
     "freewillridez": {
       "seeded": "2026-08-19",
-      "source": "public profile grid, 47 videos (46 public + 1 restricted, included by owner decision — see manualEntries)",
+      "source": "public profile grid, 47 videos (46 public + 1 restricted, included by owner decision - see manualEntries)",
       "videos": {
         "7648860977617833229": 32600,
         "7651371782414322958": 28400,
@@ -72,7 +72,7 @@
       "manualEntries": {
         "7651093667817606414": {
           "views": 690300,
-          "note": "RESTRICTED (friends-only) — counted by explicit owner decision. Anthony confirmed with the creator, who is an official Legion partner, that this view count should be included. Keep this entry: the embed endpoint filters privateItem, so the scraper will never see or update this video, and it will not be re-added automatically if deleted from here. It is also NOT in videos.json and must not be pinned or shown as a feed card — verified 2026-08-19 that a logged-out visitor gets an empty embed shell (no video, no author), so a card for it would render broken."
+          "note": "RESTRICTED (friends-only) - counted by explicit owner decision. Anthony confirmed with the creator, who is an official Legion partner, that this view count should be included. Keep this entry: the embed endpoint filters privateItem, so the scraper will never see or update this video, and it will not be re-added automatically if deleted from here. It is also NOT in videos.json and must not be pinned or shown as a feed card - verified 2026-08-19 that a logged-out visitor gets an empty embed shell (no video, no author), so a card for it would render broken."
         }
       }
     },

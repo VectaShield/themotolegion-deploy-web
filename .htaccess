@@ -1,8 +1,8 @@
-# Cache control — force fresh HTML/CSS/JS, allow short cache for images.
+# Cache control - force fresh HTML/CSS/JS, allow short cache for images.
 # All rules wrapped in IfModule so a missing Apache module can't 500 the site.
 
 <IfModule mod_headers.c>
-    # HTML: always revalidate. Deliberately NOT no-store — no-store kills the
+    # HTML: always revalidate. Deliberately NOT no-store - no-store kills the
     # browser back/forward cache, which makes back-navigation feel like a full
     # reload. no-cache still forces a server check on every normal load, so
     # deploys are picked up immediately.
@@ -11,14 +11,14 @@
     </FilesMatch>
 
     # CSS / JS: cache for a year. Safe because every build stamps
-    # ?v=<timestamp> onto the styles.css / storm.js / legion.js URLs — a
+    # ?v=<timestamp> onto the styles.css / storm.js / legion.js URLs - a
     # deploy changes the URL, so the year-long cache can never serve a stale
     # file. This removes a network round-trip per asset from every navigation.
     <FilesMatch "\.(css|js)$">
         Header set Cache-Control "public, max-age=31536000, immutable"
     </FilesMatch>
 
-    # Fonts: immutable — the files never change without being renamed.
+    # Fonts: immutable - the files never change without being renamed.
     <FilesMatch "\.(woff2|woff)$">
         Header set Cache-Control "public, max-age=31536000, immutable"
     </FilesMatch>
@@ -69,7 +69,7 @@
 </IfModule>
 
 # ─────────────────────────────────────────────────────────────
-# Canonical host — www serves the same site at a second hostname
+# Canonical host - www serves the same site at a second hostname
 # (duplicate content for search engines). 301 to the apex, which is
 # what every canonical tag, og:url and sitemap entry declares.
 # ─────────────────────────────────────────────────────────────
@@ -80,7 +80,7 @@
 </IfModule>
 
 # ─────────────────────────────────────────────────────────────
-# /discord — the Legion's shareable Discord URL.
+# /discord - the Legion's shareable Discord URL.
 # 302 (not 301) so the target invite can be rotated later without
 # browsers hard-caching the old one.
 # ─────────────────────────────────────────────────────────────
@@ -90,7 +90,7 @@
 </IfModule>
 
 # ─────────────────────────────────────────────────────────────
-# Clean URLs — /foo serves /foo.html if it exists. Internal
+# Clean URLs - /foo serves /foo.html if it exists. Internal
 # rewrite (no redirect), so the address bar keeps the clean URL.
 # Only fires when the request isn't an existing file/dir AND the
 # .html counterpart exists, so real assets and unknown paths
@@ -112,7 +112,7 @@ ErrorDocument 500 /500.html
 ErrorDocument 503 /maintenance.html
 
 # ─────────────────────────────────────────────────────────────
-# Maintenance mode — DISABLED by default.
+# Maintenance mode - DISABLED by default.
 # To enable: uncomment the RewriteEngine block below. All requests
 # will 503 to /maintenance.html except the maintenance page itself
 # and its static assets. Undo by re-commenting.
