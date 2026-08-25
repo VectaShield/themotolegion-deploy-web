@@ -12,7 +12,7 @@
   ],
   "_auto": "This file is auto-refreshed hourly by scripts/refresh-videos.mjs. Hand-edited \"note\" text is preserved by video id (an empty \"\" note stays empty); \"views\"/\"pinned\" are recomputed. New/removed videos and note/pinned/date changes are written on every run; view-count-only changes are written at most every 6 hours to limit deploy churn. _lastRefresh records the last successful write and per-creator fetch health.",
   "_lastRefresh": {
-    "at": "2026-08-25T19:16:54.601Z",
+    "at": "2026-08-25T23:01:41.167Z",
     "ok": {
       "spartanh2": true,
       "zhwho": true,
@@ -25,35 +25,42 @@
       "creator": "zhwho",
       "url": "https://www.tiktok.com/@zh.who/video/7678033875888557342",
       "date": "2026-08-25",
-      "views": "112",
+      "views": "211",
       "note": "Boss fight at the Milan Dragway.🏁 Got lucky H2 had the new b…"
     },
     {
       "creator": "freewillridez",
       "url": "https://www.tiktok.com/@freewillflow/video/7677978225737354510",
       "date": "2026-08-25",
-      "views": "292",
+      "views": "375",
       "note": "Michigan!!! our next group ride is this Saturday at 2 PM in P…"
+    },
+    {
+      "creator": "ninjaplzzzz",
+      "url": "https://www.tiktok.com/@ninjaplzzzz/video/7678094361342659871",
+      "date": "2026-08-25",
+      "views": "173",
+      "note": "CONTENT DAY !!!"
     },
     {
       "creator": "ninjaplzzzz",
       "url": "https://www.tiktok.com/@ninjaplzzzz/video/7677699760232451358",
       "date": "2026-08-24",
-      "views": "4.2K",
+      "views": "4.3K",
       "note": "the first 1 was such a hit i decided to bting it back Septemb…"
     },
     {
       "creator": "ninjaplzzzz",
       "url": "https://www.tiktok.com/@ninjaplzzzz/video/7677669099916266782",
       "date": "2026-08-24",
-      "views": "518",
+      "views": "551",
       "note": "🏴‍☠️ ZERO @🩷🏍️ Ninja Jen 🏍️🩷 🇮🇹 🤟🏿🏍️ H2"
     },
     {
       "creator": "ninjaplzzzz",
       "url": "https://www.tiktok.com/@ninjaplzzzz/video/7677371074278968606",
       "date": "2026-08-23",
-      "views": "393",
+      "views": "399",
       "note": "# 🏴‍☠️ ZERO"
     },
     {
@@ -67,7 +74,7 @@
       "creator": "ninjaplzzzz",
       "url": "https://www.tiktok.com/@ninjaplzzzz/video/7677326802850811167",
       "date": "2026-08-23",
-      "views": "559",
+      "views": "564",
       "note": "シ"
     },
     {
@@ -81,21 +88,21 @@
       "creator": "spartanh2",
       "url": "https://www.tiktok.com/@spartan.h2/video/7676989391042055454",
       "date": "2026-08-22",
-      "views": "3.9K",
+      "views": "4K",
       "note": "Crashed Motorcycle at Milan Dragway! Hoping Frank recovers qu…"
     },
     {
       "creator": "ninjaplzzzz",
       "url": "https://www.tiktok.com/@ninjaplzzzz/video/7676812617079442718",
       "date": "2026-08-22",
-      "views": "599",
+      "views": "603",
       "note": "@🩷🏍️ Ninja Jen 🏍️🩷 🇮🇹 🏴‍☠️ 🤍 bear <3 ZERO H2"
     },
     {
       "creator": "ninjaplzzzz",
       "url": "https://www.tiktok.com/@ninjaplzzzz/video/7676469242006392095",
       "date": "2026-08-21",
-      "views": "580",
+      "views": "585",
       "note": "#"
     },
     {
@@ -151,7 +158,7 @@
       "creator": "freewillridez",
       "url": "https://www.tiktok.com/@freewillflow/video/7674680677144612109",
       "date": "2026-08-16",
-      "views": "678",
+      "views": "682",
       "note": "Michigan have you not heard of the FREEWILRIDEZ GROUP RIDEZ Y…"
     },
     {
@@ -165,7 +172,7 @@
       "creator": "freewillridez",
       "url": "https://www.tiktok.com/@freewillflow/video/7672637865662139661",
       "date": "2026-08-11",
-      "views": "652",
+      "views": "653",
       "note": "Joy riding, I mean test driving a dealership 2025 zx10r maybe…"
     },
     {
@@ -209,7 +216,7 @@
       "creator": "freewillridez",
       "url": "https://www.tiktok.com/@freewillflow/video/7667704540426210573",
       "date": "2026-07-28",
-      "views": "809",
+      "views": "811",
       "note": "You can say what you want about our group rides, but they're…"
     },
     {
@@ -237,7 +244,7 @@
       "creator": "freewillridez",
       "url": "https://www.tiktok.com/@freewillflow/video/7664982909228453134",
       "date": "2026-07-21",
-      "views": "6.6K",
+      "views": "6.7K",
       "note": "Freewillridez group rides our next one in August 29th Pontiac…"
     },
     {
