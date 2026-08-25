@@ -12,7 +12,7 @@
   ],
   "_auto": "This file is auto-refreshed hourly by scripts/refresh-videos.mjs. Hand-edited \"note\" text is preserved by video id (an empty \"\" note stays empty); \"views\"/\"pinned\" are recomputed. New/removed videos and note/pinned/date changes are written on every run; view-count-only changes are written at most every 6 hours to limit deploy churn. _lastRefresh records the last successful write and per-creator fetch health.",
   "_lastRefresh": {
-    "at": "2026-08-25T12:01:31.623Z",
+    "at": "2026-08-25T15:26:47.261Z",
     "ok": {
       "spartanh2": true,
       "zhwho": true,
@@ -22,24 +22,31 @@
   },
   "videos": [
     {
+      "creator": "freewillridez",
+      "url": "https://www.tiktok.com/@freewillflow/video/7677978225737354510",
+      "date": "2026-08-25",
+      "views": "127",
+      "note": "Michigan!!! our next group ride is this Saturday at 2 PM in P…"
+    },
+    {
       "creator": "ninjaplzzzz",
       "url": "https://www.tiktok.com/@ninjaplzzzz/video/7677699760232451358",
       "date": "2026-08-24",
-      "views": "4.1K",
+      "views": "4.2K",
       "note": "the first 1 was such a hit i decided to bting it back Septemb…"
     },
     {
       "creator": "ninjaplzzzz",
       "url": "https://www.tiktok.com/@ninjaplzzzz/video/7677669099916266782",
       "date": "2026-08-24",
-      "views": "445",
+      "views": "475",
       "note": "🏴‍☠️ ZERO @🩷🏍️ Ninja Jen 🏍️🩷 🇮🇹 🤟🏿🏍️ H2"
     },
     {
       "creator": "ninjaplzzzz",
       "url": "https://www.tiktok.com/@ninjaplzzzz/video/7677371074278968606",
       "date": "2026-08-23",
-      "views": "380",
+      "views": "390",
       "note": "# 🏴‍☠️ ZERO"
     },
     {
@@ -53,7 +60,7 @@
       "creator": "ninjaplzzzz",
       "url": "https://www.tiktok.com/@ninjaplzzzz/video/7677326802850811167",
       "date": "2026-08-23",
-      "views": "542",
+      "views": "552",
       "note": "シ"
     },
     {
@@ -74,14 +81,14 @@
       "creator": "ninjaplzzzz",
       "url": "https://www.tiktok.com/@ninjaplzzzz/video/7676812617079442718",
       "date": "2026-08-22",
-      "views": "594",
+      "views": "595",
       "note": "@🩷🏍️ Ninja Jen 🏍️🩷 🇮🇹 🏴‍☠️ 🤍 bear <3 ZERO H2"
     },
     {
       "creator": "ninjaplzzzz",
       "url": "https://www.tiktok.com/@ninjaplzzzz/video/7676469242006392095",
       "date": "2026-08-21",
-      "views": "574",
+      "views": "575",
       "note": "#"
     },
     {
@@ -95,14 +102,14 @@
       "creator": "ninjaplzzzz",
       "url": "https://www.tiktok.com/@ninjaplzzzz/video/7675592192861146399",
       "date": "2026-08-19",
-      "views": "555",
+      "views": "556",
       "note": "Broken Riders @⚡️Lightningmoto⚡️"
     },
     {
       "creator": "freewillridez",
       "url": "https://www.tiktok.com/@freewillflow/video/7675043265439108365",
       "date": "2026-08-17",
-      "views": "225",
+      "views": "227",
       "note": "FREEWILLRIDEZ NEXT GROUP RIDE IS IN PONTIAC, MICHIGAN, AUGUST…"
     },
     {
@@ -137,7 +144,7 @@
       "creator": "freewillridez",
       "url": "https://www.tiktok.com/@freewillflow/video/7674680677144612109",
       "date": "2026-08-16",
-      "views": "674",
+      "views": "676",
       "note": "Michigan have you not heard of the FREEWILRIDEZ GROUP RIDEZ Y…"
     },
     {
