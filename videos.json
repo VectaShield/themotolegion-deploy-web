@@ -12,11 +12,11 @@
   ],
   "_auto": "This file is auto-refreshed hourly by scripts/refresh-videos.mjs. Hand-edited \"note\" text is preserved by video id (an empty \"\" note stays empty); \"views\"/\"pinned\" are recomputed. New/removed videos and note/pinned/date changes are written on every run; view-count-only changes are written at most every 6 hours to limit deploy churn. _lastRefresh records the last successful write and per-creator fetch health.",
   "_lastRefresh": {
-    "at": "2026-08-27T12:00:51.921Z",
+    "at": "2026-08-27T22:35:33.674Z",
     "ok": {
       "spartanh2": true,
       "zhwho": true,
-      "freewillridez": true,
+      "freewillridez": false,
       "ninjaplzzzz": true
     }
   },
@@ -25,8 +25,22 @@
       "creator": "spartanh2",
       "url": "https://www.tiktok.com/@spartan.h2/video/7678568174312377631",
       "date": "2026-08-27",
-      "views": "1.4K",
+      "views": "5.2K",
       "note": "ARRESTED at the Cars and Cannolis Harper Cruise in Saint Clai…"
+    },
+    {
+      "creator": "ninjaplzzzz",
+      "url": "https://www.tiktok.com/@ninjaplzzzz/video/7678818020390669599",
+      "date": "2026-08-27",
+      "views": "53",
+      "note": "シ"
+    },
+    {
+      "creator": "ninjaplzzzz",
+      "url": "https://www.tiktok.com/@ninjaplzzzz/video/7678224262192254238",
+      "date": "2026-08-26",
+      "views": "446",
+      "note": "シ"
     },
     {
       "creator": "freewillridez",
@@ -36,18 +50,18 @@
       "note": "Go check out freewillridez.com for your boy"
     },
     {
-      "creator": "ninjaplzzzz",
-      "url": "https://www.tiktok.com/@ninjaplzzzz/video/7678224262192254238",
-      "date": "2026-08-26",
-      "views": "411",
-      "note": "シ"
-    },
-    {
       "creator": "zhwho",
       "url": "https://www.tiktok.com/@zh.who/video/7678033875888557342",
       "date": "2026-08-25",
-      "views": "780",
+      "views": "799",
       "note": "Boss fight at the Milan Dragway.🏁 Got lucky H2 had the new b…"
+    },
+    {
+      "creator": "ninjaplzzzz",
+      "url": "https://www.tiktok.com/@ninjaplzzzz/video/7678094361342659871",
+      "date": "2026-08-25",
+      "views": "698",
+      "note": "CONTENT DAY !!!"
     },
     {
       "creator": "freewillridez",
@@ -55,13 +69,6 @@
       "date": "2026-08-25",
       "views": "740",
       "note": "Michigan!!! our next group ride is this Saturday at 2 PM in P…"
-    },
-    {
-      "creator": "ninjaplzzzz",
-      "url": "https://www.tiktok.com/@ninjaplzzzz/video/7678094361342659871",
-      "date": "2026-08-25",
-      "views": "676",
-      "note": "CONTENT DAY !!!"
     },
     {
       "creator": "ninjaplzzzz",
@@ -74,14 +81,14 @@
       "creator": "ninjaplzzzz",
       "url": "https://www.tiktok.com/@ninjaplzzzz/video/7677669099916266782",
       "date": "2026-08-24",
-      "views": "682",
+      "views": "700",
       "note": "🏴‍☠️ ZERO @🩷🏍️ Ninja Jen 🏍️🩷 🇮🇹 🤟🏿🏍️ H2"
     },
     {
       "creator": "ninjaplzzzz",
       "url": "https://www.tiktok.com/@ninjaplzzzz/video/7677371074278968606",
       "date": "2026-08-23",
-      "views": "425",
+      "views": "431",
       "note": "# 🏴‍☠️ ZERO"
     },
     {
@@ -95,28 +102,28 @@
       "creator": "ninjaplzzzz",
       "url": "https://www.tiktok.com/@ninjaplzzzz/video/7677326802850811167",
       "date": "2026-08-23",
-      "views": "592",
+      "views": "597",
       "note": "シ"
     },
     {
       "creator": "ninjaplzzzz",
       "url": "https://www.tiktok.com/@ninjaplzzzz/video/7677084331210329375",
       "date": "2026-08-23",
-      "views": "4.2K",
+      "views": "6.9K",
       "note": "シ"
     },
     {
       "creator": "spartanh2",
       "url": "https://www.tiktok.com/@spartan.h2/video/7676989391042055454",
       "date": "2026-08-22",
-      "views": "4K",
+      "views": "4.1K",
       "note": "Crashed Motorcycle at Milan Dragway! Hoping Frank recovers qu…"
     },
     {
       "creator": "ninjaplzzzz",
       "url": "https://www.tiktok.com/@ninjaplzzzz/video/7676812617079442718",
       "date": "2026-08-22",
-      "views": "612",
+      "views": "613",
       "note": "@🩷🏍️ Ninja Jen 🏍️🩷 🇮🇹 🏴‍☠️ 🤍 bear <3 ZERO H2"
     },
     {
@@ -165,14 +172,14 @@
       "creator": "spartanh2",
       "url": "https://www.tiktok.com/@spartan.h2/video/7674562373486693663",
       "date": "2026-08-16",
-      "views": "2.5K",
+      "views": "2.6K",
       "note": "Pt2 Woodward Dream Cruise FreeWillRidez Group ride Woodward D…"
     },
     {
       "creator": "spartanh2",
       "url": "https://www.tiktok.com/@spartan.h2/video/7674561508369550623",
       "date": "2026-08-16",
-      "views": "10.9K",
+      "views": "11K",
       "note": "Part 1 Free Will Rides Dream Cruise Woodward Dream Cruise get…"
     },
     {
@@ -215,7 +222,7 @@
       "creator": "spartanh2",
       "url": "https://www.tiktok.com/@spartan.h2/video/7668431413955267870",
       "date": "2026-07-30",
-      "views": "9K",
+      "views": "9.1K",
       "note": "Stealing Morgan Wallen's girls part 2, the backpack ride"
     },
     {
@@ -244,7 +251,7 @@
       "creator": "spartanh2",
       "url": "https://www.tiktok.com/@spartan.h2/video/7667101623184854285",
       "date": "2026-07-27",
-      "views": "84.3K",
+      "views": "84.4K",
       "note": "Stealing Morgan Wallen's girls"
     },
     {
@@ -300,7 +307,7 @@
       "creator": "zhwho",
       "url": "https://www.tiktok.com/@zh.who/video/7653891716562390302",
       "date": "2026-06-21",
-      "views": "805",
+      "views": "806",
       "note": "First time at the strip: Z900 vs ZH2"
     },
     {
