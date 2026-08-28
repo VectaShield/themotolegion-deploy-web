@@ -1,12 +1,12 @@
 {
-  "updated": "2026-08-28T21:27:43.138Z",
+  "updated": "2026-08-28T22:00:36.200Z",
   "creators": {
     "spartanh2": {
       "platforms": {
         "tiktok": {
-          "views": 253792,
+          "views": 255112,
           "likes": 13500,
-          "followers": 973,
+          "followers": 979,
           "viewsComplete": true,
           "videosTracked": 11,
           "videosRefreshedThisRun": 11
@@ -89,7 +89,7 @@
           "unavailable": "Cloudflare challenge blocks anonymous requests; needs a creator API key or session"
         },
         "facebook": {
-          "views": 461604,
+          "views": 461911,
           "likes": 2370,
           "followers": 417,
           "viewsComplete": true,
@@ -97,19 +97,19 @@
           "reels": [
             {
               "id": "1034460832833117",
-              "views": 85387,
+              "views": 85429,
               "likes": 393,
               "comments": null
             },
             {
               "id": "1726369398639586",
-              "views": 7194,
+              "views": 7195,
               "likes": 39,
               "comments": null
             },
             {
               "id": "1035692672416621",
-              "views": 1546,
+              "views": 1547,
               "likes": 10,
               "comments": null
             },
@@ -121,13 +121,13 @@
             },
             {
               "id": "1104520315239967",
-              "views": 2846,
+              "views": 2847,
               "likes": 10,
               "comments": null
             },
             {
               "id": "1419927686760277",
-              "views": 81297,
+              "views": 81299,
               "likes": 275,
               "comments": null
             },
@@ -151,7 +151,7 @@
             },
             {
               "id": "1835876004050120",
-              "views": 280043,
+              "views": 280303,
               "likes": 1621,
               "comments": null
             }
@@ -159,7 +159,7 @@
         },
         "instagram": {
           "views": 236224,
-          "likes": 5035,
+          "likes": 5043,
           "likesComplete": true,
           "followers": 257,
           "posts": 15,
@@ -174,7 +174,7 @@
             },
             {
               "shortcode": "Dch-C0QxuGG",
-              "likes": 4653,
+              "likes": 4661,
               "comments": 329,
               "date": "2026-08-27",
               "owner": "spartanh2",
@@ -194,7 +194,8 @@
               "comments": 2,
               "date": "2026-08-22",
               "owner": "spartanh2",
-              "exact": true
+              "exact": true,
+              "cached": true
             },
             {
               "shortcode": "DcGPaL7x-Ib",
@@ -300,9 +301,9 @@
         }
       },
       "totals": {
-        "views": 960999,
-        "likes": 21047,
-        "followers": 1658
+        "views": 962626,
+        "likes": 21055,
+        "followers": 1664
       }
     },
     "freewillridez": {
@@ -339,7 +340,7 @@
     "ninjaplzzzz": {
       "platforms": {
         "tiktok": {
-          "views": 206094,
+          "views": 206097,
           "likes": 68900,
           "followers": 14200,
           "viewsComplete": true,
@@ -627,7 +628,7 @@
         }
       },
       "totals": {
-        "views": 285097,
+        "views": 285100,
         "likes": 70091,
         "followers": 15067
       }
@@ -635,7 +636,7 @@
     "zhwho": {
       "platforms": {
         "tiktok": {
-          "views": 13058,
+          "views": 13059,
           "likes": 642,
           "followers": 128,
           "viewsComplete": true,
@@ -795,7 +796,7 @@
         }
       },
       "totals": {
-        "views": 15081,
+        "views": 15082,
         "likes": 1849,
         "followers": 303
       }
