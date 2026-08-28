@@ -12,7 +12,7 @@
   ],
   "_auto": "This file is auto-refreshed hourly by scripts/refresh-videos.mjs. Hand-edited \"note\" text is preserved by video id (an empty \"\" note stays empty); \"views\"/\"pinned\" are recomputed. New/removed videos and note/pinned/date changes are written on every run; view-count-only changes are written at most every 6 hours to limit deploy churn. _lastRefresh records the last successful write and per-creator fetch health.",
   "_lastRefresh": {
-    "at": "2026-08-28T06:20:49.616Z",
+    "at": "2026-08-28T19:00:13.113Z",
     "ok": {
       "spartanh2": true,
       "zhwho": true,
@@ -25,21 +25,21 @@
       "creator": "spartanh2",
       "url": "https://www.tiktok.com/@spartan.h2/video/7678568174312377631",
       "date": "2026-08-27",
-      "views": "7.9K",
+      "views": "19.6K",
       "note": "ARRESTED at the Cars and Cannolis Harper Cruise in Saint Clai…"
     },
     {
       "creator": "ninjaplzzzz",
       "url": "https://www.tiktok.com/@ninjaplzzzz/video/7678818020390669599",
       "date": "2026-08-27",
-      "views": "121",
+      "views": "174",
       "note": "シ"
     },
     {
       "creator": "ninjaplzzzz",
       "url": "https://www.tiktok.com/@ninjaplzzzz/video/7678224262192254238",
       "date": "2026-08-26",
-      "views": "458",
+      "views": "471",
       "note": "シ"
     },
     {
@@ -53,14 +53,14 @@
       "creator": "zhwho",
       "url": "https://www.tiktok.com/@zh.who/video/7678033875888557342",
       "date": "2026-08-25",
-      "views": "812",
+      "views": "839",
       "note": "Boss fight at the Milan Dragway.🏁 Got lucky H2 had the new b…"
     },
     {
       "creator": "ninjaplzzzz",
       "url": "https://www.tiktok.com/@ninjaplzzzz/video/7678094361342659871",
       "date": "2026-08-25",
-      "views": "710",
+      "views": "731",
       "note": "CONTENT DAY !!!"
     },
     {
@@ -81,28 +81,28 @@
       "creator": "ninjaplzzzz",
       "url": "https://www.tiktok.com/@ninjaplzzzz/video/7677669099916266782",
       "date": "2026-08-24",
-      "views": "712",
+      "views": "729",
       "note": "🏴‍☠️ ZERO @🩷🏍️ Ninja Jen 🏍️🩷 🇮🇹 🤟🏿🏍️ H2"
     },
     {
       "creator": "ninjaplzzzz",
       "url": "https://www.tiktok.com/@ninjaplzzzz/video/7677371074278968606",
       "date": "2026-08-23",
-      "views": "431",
+      "views": "435",
       "note": "# 🏴‍☠️ ZERO"
     },
     {
       "creator": "ninjaplzzzz",
       "url": "https://www.tiktok.com/@ninjaplzzzz/video/7677347325664152862",
       "date": "2026-08-23",
-      "views": "8K",
+      "views": "8.1K",
       "note": "シ # i dont know everybody tiktok by heart sorry in advance @\ud83e…"
     },
     {
       "creator": "ninjaplzzzz",
       "url": "https://www.tiktok.com/@ninjaplzzzz/video/7677326802850811167",
       "date": "2026-08-23",
-      "views": "602",
+      "views": "610",
       "note": "シ"
     },
     {
@@ -116,14 +116,14 @@
       "creator": "spartanh2",
       "url": "https://www.tiktok.com/@spartan.h2/video/7676989391042055454",
       "date": "2026-08-22",
-      "views": "4.1K",
+      "views": "4.2K",
       "note": "Crashed Motorcycle at Milan Dragway! Hoping Frank recovers qu…"
     },
     {
       "creator": "ninjaplzzzz",
       "url": "https://www.tiktok.com/@ninjaplzzzz/video/7676812617079442718",
       "date": "2026-08-22",
-      "views": "614",
+      "views": "621",
       "note": "@🩷🏍️ Ninja Jen 🏍️🩷 🇮🇹 🏴‍☠️ 🤍 bear <3 ZERO H2"
     },
     {
@@ -265,7 +265,7 @@
       "creator": "zhwho",
       "url": "https://www.tiktok.com/@zh.who/video/7667202527334567199",
       "date": "2026-07-27",
-      "views": "666",
+      "views": "674",
       "note": "Are we being followed??? Wild night in Detroit, pt. 2"
     },
     {
@@ -293,7 +293,7 @@
       "creator": "zhwho",
       "url": "https://www.tiktok.com/@zh.who/video/7660978836166774047",
       "date": "2026-07-10",
-      "views": "256",
+      "views": "259",
       "note": "ZH2 build: intercooler, BOV, billet plenum, stage 1 gears"
     },
     {
@@ -307,7 +307,7 @@
       "creator": "zhwho",
       "url": "https://www.tiktok.com/@zh.who/video/7653891716562390302",
       "date": "2026-06-21",
-      "views": "807",
+      "views": "809",
       "note": "First time at the strip: Z900 vs ZH2"
     },
     {
@@ -385,14 +385,14 @@
       "creator": "zhwho",
       "url": "https://www.tiktok.com/@zh.who/video/7636132336362409246",
       "date": "2026-05-04",
-      "views": "833",
+      "views": "836",
       "note": "Poor homie at the Modded Detroit meet"
     },
     {
       "creator": "zhwho",
       "url": "https://www.tiktok.com/@zh.who/video/7633923121765993758",
       "date": "2026-04-28",
-      "views": "783",
+      "views": "786",
       "note": "Crowd reacts to the supercharged ZH2"
     },
     {
@@ -406,7 +406,7 @@
       "creator": "zhwho",
       "url": "https://www.tiktok.com/@zh.who/video/7578642777282563358",
       "date": "2025-11-30",
-      "views": "539",
+      "views": "542",
       "note": "RAM 2500 vs drone, chase footage gone wrong"
     },
     {
