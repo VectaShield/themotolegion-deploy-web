@@ -12,7 +12,7 @@
   ],
   "_auto": "This file is auto-refreshed hourly by scripts/refresh-videos.mjs. Hand-edited \"note\" text is preserved by video id (an empty \"\" note stays empty); \"views\"/\"pinned\" are recomputed. New/removed videos and note/pinned/date changes are written on every run; view-count-only changes are written at most every 6 hours to limit deploy churn. _lastRefresh records the last successful write and per-creator fetch health.",
   "_lastRefresh": {
-    "at": "2026-08-28T19:00:13.113Z",
+    "at": "2026-08-29T02:26:33.560Z",
     "ok": {
       "spartanh2": true,
       "zhwho": true,
@@ -25,21 +25,21 @@
       "creator": "spartanh2",
       "url": "https://www.tiktok.com/@spartan.h2/video/7678568174312377631",
       "date": "2026-08-27",
-      "views": "19.6K",
+      "views": "38.5K",
       "note": "ARRESTED at the Cars and Cannolis Harper Cruise in Saint Clai…"
     },
     {
       "creator": "ninjaplzzzz",
       "url": "https://www.tiktok.com/@ninjaplzzzz/video/7678818020390669599",
       "date": "2026-08-27",
-      "views": "174",
+      "views": "198",
       "note": "シ"
     },
     {
       "creator": "ninjaplzzzz",
       "url": "https://www.tiktok.com/@ninjaplzzzz/video/7678224262192254238",
       "date": "2026-08-26",
-      "views": "471",
+      "views": "478",
       "note": "シ"
     },
     {
@@ -53,14 +53,14 @@
       "creator": "zhwho",
       "url": "https://www.tiktok.com/@zh.who/video/7678033875888557342",
       "date": "2026-08-25",
-      "views": "839",
+      "views": "848",
       "note": "Boss fight at the Milan Dragway.🏁 Got lucky H2 had the new b…"
     },
     {
       "creator": "ninjaplzzzz",
       "url": "https://www.tiktok.com/@ninjaplzzzz/video/7678094361342659871",
       "date": "2026-08-25",
-      "views": "731",
+      "views": "743",
       "note": "CONTENT DAY !!!"
     },
     {
@@ -74,21 +74,21 @@
       "creator": "ninjaplzzzz",
       "url": "https://www.tiktok.com/@ninjaplzzzz/video/7677699760232451358",
       "date": "2026-08-24",
-      "views": "4.4K",
+      "views": "4.5K",
       "note": "the first 1 was such a hit i decided to bting it back Septemb…"
     },
     {
       "creator": "ninjaplzzzz",
       "url": "https://www.tiktok.com/@ninjaplzzzz/video/7677669099916266782",
       "date": "2026-08-24",
-      "views": "729",
+      "views": "736",
       "note": "🏴‍☠️ ZERO @🩷🏍️ Ninja Jen 🏍️🩷 🇮🇹 🤟🏿🏍️ H2"
     },
     {
       "creator": "ninjaplzzzz",
       "url": "https://www.tiktok.com/@ninjaplzzzz/video/7677371074278968606",
       "date": "2026-08-23",
-      "views": "435",
+      "views": "439",
       "note": "# 🏴‍☠️ ZERO"
     },
     {
@@ -102,7 +102,7 @@
       "creator": "ninjaplzzzz",
       "url": "https://www.tiktok.com/@ninjaplzzzz/video/7677326802850811167",
       "date": "2026-08-23",
-      "views": "610",
+      "views": "621",
       "note": "シ"
     },
     {
@@ -123,7 +123,7 @@
       "creator": "ninjaplzzzz",
       "url": "https://www.tiktok.com/@ninjaplzzzz/video/7676812617079442718",
       "date": "2026-08-22",
-      "views": "621",
+      "views": "624",
       "note": "@🩷🏍️ Ninja Jen 🏍️🩷 🇮🇹 🏴‍☠️ 🤍 bear <3 ZERO H2"
     },
     {
@@ -172,7 +172,7 @@
       "creator": "spartanh2",
       "url": "https://www.tiktok.com/@spartan.h2/video/7674562373486693663",
       "date": "2026-08-16",
-      "views": "2.6K",
+      "views": "2.7K",
       "note": "Pt2 Woodward Dream Cruise FreeWillRidez Group ride Woodward D…"
     },
     {
@@ -214,7 +214,7 @@
       "creator": "spartanh2",
       "url": "https://www.tiktok.com/@spartan.h2/video/7670109306167020830",
       "date": "2026-08-04",
-      "views": "89.2K",
+      "views": "89.3K",
       "pinned": true,
       "note": "#DetroitNinja down on the Gordie Howe Bridge, the full breakdown"
     },
@@ -293,7 +293,7 @@
       "creator": "zhwho",
       "url": "https://www.tiktok.com/@zh.who/video/7660978836166774047",
       "date": "2026-07-10",
-      "views": "259",
+      "views": "261",
       "note": "ZH2 build: intercooler, BOV, billet plenum, stage 1 gears"
     },
     {
@@ -307,7 +307,7 @@
       "creator": "zhwho",
       "url": "https://www.tiktok.com/@zh.who/video/7653891716562390302",
       "date": "2026-06-21",
-      "views": "809",
+      "views": "811",
       "note": "First time at the strip: Z900 vs ZH2"
     },
     {
@@ -392,7 +392,7 @@
       "creator": "zhwho",
       "url": "https://www.tiktok.com/@zh.who/video/7633923121765993758",
       "date": "2026-04-28",
-      "views": "786",
+      "views": "787",
       "note": "Crowd reacts to the supercharged ZH2"
     },
     {
