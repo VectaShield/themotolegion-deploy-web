@@ -12,7 +12,7 @@
   ],
   "_auto": "This file is auto-refreshed hourly by scripts/refresh-videos.mjs. Hand-edited \"note\" text is preserved by video id (an empty \"\" note stays empty); \"views\"/\"pinned\" are recomputed. New/removed videos and note/pinned/date changes are written on every run; view-count-only changes are written at most every 6 hours to limit deploy churn. _lastRefresh records the last successful write and per-creator fetch health.",
   "_lastRefresh": {
-    "at": "2026-08-29T02:26:33.560Z",
+    "at": "2026-08-29T09:22:44.194Z",
     "ok": {
       "spartanh2": true,
       "zhwho": true,
@@ -22,24 +22,31 @@
   },
   "videos": [
     {
+      "creator": "ninjaplzzzz",
+      "url": "https://www.tiktok.com/@ninjaplzzzz/video/7679291602472291615",
+      "date": "2026-08-29",
+      "views": "149",
+      "note": "new datte due to the expo downtown is SEPTEMBER 18TH everythi…"
+    },
+    {
       "creator": "spartanh2",
       "url": "https://www.tiktok.com/@spartan.h2/video/7678568174312377631",
       "date": "2026-08-27",
-      "views": "38.5K",
+      "views": "56.6K",
       "note": "ARRESTED at the Cars and Cannolis Harper Cruise in Saint Clai…"
     },
     {
       "creator": "ninjaplzzzz",
       "url": "https://www.tiktok.com/@ninjaplzzzz/video/7678818020390669599",
       "date": "2026-08-27",
-      "views": "198",
+      "views": "204",
       "note": "シ"
     },
     {
       "creator": "ninjaplzzzz",
       "url": "https://www.tiktok.com/@ninjaplzzzz/video/7678224262192254238",
       "date": "2026-08-26",
-      "views": "478",
+      "views": "481",
       "note": "シ"
     },
     {
@@ -53,14 +60,14 @@
       "creator": "zhwho",
       "url": "https://www.tiktok.com/@zh.who/video/7678033875888557342",
       "date": "2026-08-25",
-      "views": "848",
+      "views": "858",
       "note": "Boss fight at the Milan Dragway.🏁 Got lucky H2 had the new b…"
     },
     {
       "creator": "ninjaplzzzz",
       "url": "https://www.tiktok.com/@ninjaplzzzz/video/7678094361342659871",
       "date": "2026-08-25",
-      "views": "743",
+      "views": "746",
       "note": "CONTENT DAY !!!"
     },
     {
@@ -81,14 +88,14 @@
       "creator": "ninjaplzzzz",
       "url": "https://www.tiktok.com/@ninjaplzzzz/video/7677669099916266782",
       "date": "2026-08-24",
-      "views": "736",
+      "views": "740",
       "note": "🏴‍☠️ ZERO @🩷🏍️ Ninja Jen 🏍️🩷 🇮🇹 🤟🏿🏍️ H2"
     },
     {
       "creator": "ninjaplzzzz",
       "url": "https://www.tiktok.com/@ninjaplzzzz/video/7677371074278968606",
       "date": "2026-08-23",
-      "views": "439",
+      "views": "443",
       "note": "# 🏴‍☠️ ZERO"
     },
     {
@@ -102,7 +109,7 @@
       "creator": "ninjaplzzzz",
       "url": "https://www.tiktok.com/@ninjaplzzzz/video/7677326802850811167",
       "date": "2026-08-23",
-      "views": "621",
+      "views": "622",
       "note": "シ"
     },
     {
@@ -193,7 +200,7 @@
       "creator": "spartanh2",
       "url": "https://www.tiktok.com/@spartan.h2/video/7674319703766076703",
       "date": "2026-08-15",
-      "views": "14.2K",
+      "views": "14.3K",
       "note": "Woodward Dream Cruise gets crazy after dark, arrests, crashes…"
     },
     {
