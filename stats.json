@@ -1,20 +1,20 @@
 {
-  "updated": "2026-09-01T07:48:53.559Z",
+  "updated": "2026-09-01T11:12:04.267Z",
   "creators": {
     "spartanh2": {
       "platforms": {
         "tiktok": {
-          "views": 359327,
+          "views": 359551,
           "likes": 15500,
-          "followers": 1961,
+          "followers": 1967,
           "viewsComplete": true,
           "videosTracked": 13,
           "videosRefreshedThisRun": 11
         },
         "youtube": {
-          "views": 10291,
+          "views": 10637,
           "aboutViews": 9430,
-          "viewsFromVideos": 10291,
+          "viewsFromVideos": 10637,
           "likes": 169,
           "likesComplete": true,
           "followers": 13,
@@ -27,7 +27,7 @@
             },
             {
               "id": "z0oP_YPP0lk",
-              "views": 843,
+              "views": 1189,
               "likes": 27
             },
             {
@@ -94,57 +94,57 @@
           "unavailable": "Cloudflare challenge blocks anonymous requests; needs a creator API key or session"
         },
         "facebook": {
-          "views": 480148,
+          "views": 480387,
           "likes": 2521,
-          "followers": 450,
+          "followers": 451,
           "viewsComplete": true,
           "likesComplete": true,
           "reels": [
             {
               "id": "1835876004050120",
-              "views": 295278,
+              "views": 295331,
               "likes": 1756,
               "comments": null
             },
             {
               "id": "1034460832833117",
-              "views": 87966,
+              "views": 87981,
               "likes": 408,
               "comments": null
             },
             {
               "id": "1726369398639586",
-              "views": 7335,
+              "views": 7338,
               "likes": 39,
               "comments": null
             },
             {
               "id": "1035692672416621",
-              "views": 1636,
+              "views": 1639,
               "likes": 10,
               "comments": null
             },
             {
               "id": "2564506560672195",
-              "views": 2096,
+              "views": 2099,
               "likes": 15,
               "comments": null
             },
             {
               "id": "1104520315239967",
-              "views": 2947,
+              "views": 2949,
               "likes": 10,
               "comments": null
             },
             {
               "id": "1419927686760277",
-              "views": 81436,
+              "views": 81437,
               "likes": 276,
               "comments": null
             },
             {
               "id": "1563033208664728",
-              "views": 659,
+              "views": 660,
               "likes": 2,
               "comments": null
             },
@@ -156,7 +156,7 @@
             },
             {
               "id": "2162975827894766",
-              "views": 349,
+              "views": 507,
               "likes": 0,
               "comments": null
             }
@@ -164,28 +164,114 @@
         },
         "instagram": {
           "views": 236224,
-          "likes": 5267,
+          "likes": 5741,
           "likesComplete": false,
-          "followers": 298,
-          "posts": 17,
+          "followers": 308,
+          "posts": 19,
           "posts_detail": [
             {
-              "shortcode": "DbnSfsrxdjY",
-              "likes": 34,
+              "shortcode": "DcuurOnxTBP",
+              "likes": 23,
+              "comments": 4,
+              "date": "2026-09-01",
+              "owner": "spartanh2",
+              "exact": true
+            },
+            {
+              "shortcode": "DcuSRvhCXVf",
+              "likes": 17,
+              "comments": 0,
+              "date": "2026-08-31",
+              "owner": "spartanh2",
+              "exact": true
+            },
+            {
+              "shortcode": "Dcrz-M9ATAI",
+              "likes": 156,
+              "comments": 25,
+              "date": "2026-08-31",
+              "owner": "zh.who",
+              "exact": true
+            },
+            {
+              "shortcode": "DcrP5yYCh1q",
+              "likes": 7,
+              "comments": 0,
+              "date": "2026-08-30",
+              "owner": "motorcyclemarriage",
+              "exact": true
+            },
+            {
+              "shortcode": "Dck8ae-xrGQ",
+              "likes": 66,
+              "comments": 5,
+              "date": "2026-08-28",
+              "owner": "ninjaplzzzz",
+              "exact": true
+            },
+            {
+              "shortcode": "Dch-C0QxuGG",
+              "likes": 5128,
+              "comments": 349,
+              "date": "2026-08-27",
+              "owner": "spartanh2",
+              "exact": true
+            },
+            {
+              "shortcode": "DcesXUZpJdz",
+              "likes": 43,
+              "comments": 6,
+              "date": "2026-08-25",
+              "owner": "ninjaplzzzz",
+              "exact": true
+            },
+            {
+              "shortcode": "DcXA2mbxm0s",
+              "likes": 16,
               "comments": 2,
+              "date": "2026-08-22",
+              "owner": "spartanh2",
+              "exact": true
+            },
+            {
+              "shortcode": "DcGPaL7x-Ib",
+              "likes": 67,
+              "comments": 3,
+              "date": "2026-08-16",
+              "owner": "spartanh2",
+              "exact": true
+            },
+            {
+              "shortcode": "DcGPVwEx1UO",
+              "likes": 24,
+              "comments": 7,
+              "date": "2026-08-16",
+              "owner": "spartanh2",
+              "exact": true
+            },
+            {
+              "shortcode": "DcGPRutxjS8",
+              "likes": 30,
+              "comments": 1,
+              "date": "2026-08-16",
+              "owner": "spartanh2",
+              "exact": true
+            },
+            {
+              "shortcode": "DbnSfsrxdjY",
+              "likes": 46,
+              "comments": 5,
               "date": "2026-08-04",
               "owner": "spartanh2",
-              "exact": true,
-              "cached": true
+              "exact": true
             },
             {
               "shortcode": "DbbKhEZxAea",
-              "likes": 13,
+              "likes": 17,
               "comments": 1,
               "date": "2026-07-30",
               "owner": "spartanh2",
-              "exact": true,
-              "cached": true
+              "exact": true
             },
             {
               "shortcode": "DbSnE8cRM49",
@@ -193,8 +279,7 @@
               "comments": 2,
               "date": "2026-07-27",
               "owner": "spartanh2",
-              "exact": true,
-              "cached": true
+              "exact": true
             },
             {
               "shortcode": "DbScVciRdMa",
@@ -224,14 +309,13 @@
               "cached": true
             }
           ],
-          "viewsManual": true,
-          "stale": true
+          "viewsManual": true
         }
       },
       "totals": {
-        "views": 1085990,
-        "likes": 23457,
-        "followers": 2722
+        "views": 1086799,
+        "likes": 23931,
+        "followers": 2739
       }
     },
     "freewillridez": {
@@ -255,20 +339,20 @@
           "views": null,
           "likes": null,
           "viewsUnavailable": "Personal profile: reels/videos not crawlable without auth; only the follower count is public",
-          "followers": 1670,
+          "followers": 1671,
           "reels": []
         }
       },
       "totals": {
         "views": 845042,
         "likes": 45500,
-        "followers": 2478
+        "followers": 2479
       }
     },
     "ninjaplzzzz": {
       "platforms": {
         "tiktok": {
-          "views": 207892,
+          "views": 207934,
           "likes": 69200,
           "followers": 14200,
           "viewsComplete": true,
@@ -551,40 +635,39 @@
           "views": null,
           "viewsUnavailable": "Instagram exposes no public view/play counts and no lifetime-views metric",
           "likes": null,
-          "followers": 766,
-          "posts": 698,
-          "stale": true
+          "followers": 767,
+          "posts": 700
         }
       },
       "totals": {
-        "views": 286897,
+        "views": 286939,
         "likes": 70391,
-        "followers": 15074
+        "followers": 15075
       }
     },
     "zhwho": {
       "platforms": {
         "tiktok": {
-          "views": 14901,
-          "likes": 804,
-          "followers": 151,
+          "views": 14949,
+          "likes": 806,
+          "followers": 152,
           "viewsComplete": true,
           "videosTracked": 11,
           "videosRefreshedThisRun": 10
         },
         "youtube": {
-          "views": 7363,
+          "views": 8837,
           "aboutViews": 2135,
-          "viewsFromVideos": 7363,
-          "likes": 280,
+          "viewsFromVideos": 8837,
+          "likes": 318,
           "likesComplete": true,
-          "followers": 113,
+          "followers": 116,
           "viewsComplete": true,
           "videos": [
             {
               "id": "fHyELzheUhs",
-              "views": 5223,
-              "likes": 202
+              "views": 6697,
+              "likes": 240
             },
             {
               "id": "Q4s3LxjPcUA",
@@ -607,14 +690,30 @@
         "instagram": {
           "views": null,
           "viewsUnavailable": "Instagram exposes no public view/play counts and no lifetime-views metric",
-          "likes": 1153,
+          "likes": 1332,
           "likesComplete": true,
-          "followers": 73,
-          "posts": 8,
+          "followers": 81,
+          "posts": 10,
           "posts_detail": [
             {
+              "shortcode": "DcuSRvhCXVf",
+              "likes": 17,
+              "comments": 0,
+              "date": "2026-08-31",
+              "owner": "spartanh2",
+              "exact": true
+            },
+            {
+              "shortcode": "Dcrz-M9ATAI",
+              "likes": 156,
+              "comments": 25,
+              "date": "2026-08-31",
+              "owner": "zh.who",
+              "exact": true
+            },
+            {
               "shortcode": "Dck8ae-xrGQ",
-              "likes": 61,
+              "likes": 66,
               "comments": 5,
               "date": "2026-08-28",
               "owner": "ninjaplzzzz",
@@ -622,7 +721,7 @@
             },
             {
               "shortcode": "DckYSgxAGJL",
-              "likes": 20,
+              "likes": 21,
               "comments": 0,
               "date": "2026-08-28",
               "owner": "zh.who",
@@ -726,14 +825,13 @@
               "exact": true,
               "cached": true
             }
-          ],
-          "stale": true
+          ]
         }
       },
       "totals": {
-        "views": 22264,
-        "likes": 2237,
-        "followers": 337
+        "views": 23786,
+        "likes": 2456,
+        "followers": 349
       }
     }
   }
