@@ -12,7 +12,7 @@
   ],
   "_auto": "This file is auto-refreshed hourly by scripts/refresh-videos.mjs. Hand-edited \"note\" text is preserved by video id (an empty \"\" note stays empty); \"views\"/\"pinned\" are recomputed. New/removed videos and note/pinned/date changes are written on every run; view-count-only changes are written at most every 6 hours to limit deploy churn. _lastRefresh records the last successful write and per-creator fetch health.",
   "_lastRefresh": {
-    "at": "2026-09-03T06:29:14.407Z",
+    "at": "2026-09-03T11:43:06.343Z",
     "ok": {
       "spartanh2": true,
       "zhwho": true,
@@ -25,14 +25,14 @@
       "creator": "ninjaplzzzz",
       "url": "https://www.tiktok.com/@ninjaplzzzz/video/7681003353995857182",
       "date": "2026-09-02",
-      "views": "370",
+      "views": "386",
       "note": "シ"
     },
     {
       "creator": "ninjaplzzzz",
       "url": "https://www.tiktok.com/@ninjaplzzzz/video/7680808168385023262",
       "date": "2026-09-02",
-      "views": "572",
+      "views": "582",
       "note": "finally made west early enough to check out シ"
     },
     {
@@ -46,35 +46,36 @@
       "creator": "ninjaplzzzz",
       "url": "https://www.tiktok.com/@ninjaplzzzz/video/7680396680306478366",
       "date": "2026-09-01",
-      "views": "545",
+      "views": "546",
       "note": "🇮🇹 🏴‍☠️ Knopf H2 シ"
     },
     {
       "creator": "spartanh2",
       "url": "https://www.tiktok.com/@spartan.h2/video/7680347177130020126",
       "date": "2026-08-31",
-      "views": "236",
+      "views": "240",
       "note": "See at on the 19th of September at Huntington Place, Detroit.…"
     },
     {
       "creator": "zhwho",
       "url": "https://www.tiktok.com/@zh.who/video/7679986876731739423",
       "date": "2026-08-31",
-      "views": "5K",
+      "views": "5.1K",
+      "pinned": true,
       "note": "Bros ex left him for a biker so he doesn't like bikes ✌️🥀😅 H2"
     },
     {
       "creator": "ninjaplzzzz",
       "url": "https://www.tiktok.com/@ninjaplzzzz/video/7680000036800974111",
       "date": "2026-08-31",
-      "views": "429",
+      "views": "434",
       "note": "🇮🇹 🏴‍☠️ Knopf @𝓜𝓸𝓽𝓸𝓰𝓲𝓻𝓵111 H2 Hulk シ"
     },
     {
       "creator": "ninjaplzzzz",
       "url": "https://www.tiktok.com/@ninjaplzzzz/video/7679629531631668510",
       "date": "2026-08-30",
-      "views": "391",
+      "views": "392",
       "note": "shot by 🌹 🔥🔥🔥"
     },
     {
@@ -88,7 +89,7 @@
       "creator": "spartanh2",
       "url": "https://www.tiktok.com/@spartan.h2/video/7678568174312377631",
       "date": "2026-08-27",
-      "views": "147K",
+      "views": "147.3K",
       "pinned": true,
       "note": "ARRESTED at the Cars and Cannolis Harper Cruise in Saint Clai…"
     },
@@ -300,7 +301,6 @@
       "url": "https://www.tiktok.com/@zh.who/video/7668049880547380511",
       "date": "2026-07-29",
       "views": "5K",
-      "pinned": true,
       "note": "Racing to be first across the Gordie Howe Bridge until it all went down"
     },
     {
@@ -328,7 +328,7 @@
       "creator": "zhwho",
       "url": "https://www.tiktok.com/@zh.who/video/7667202527334567199",
       "date": "2026-07-27",
-      "views": "763",
+      "views": "766",
       "note": "Are we being followed??? Wild night in Detroit, pt. 2"
     },
     {
@@ -356,7 +356,7 @@
       "creator": "zhwho",
       "url": "https://www.tiktok.com/@zh.who/video/7660978836166774047",
       "date": "2026-07-10",
-      "views": "305",
+      "views": "310",
       "note": "ZH2 build: intercooler, BOV, billet plenum, stage 1 gears"
     },
     {
@@ -370,7 +370,7 @@
       "creator": "zhwho",
       "url": "https://www.tiktok.com/@zh.who/video/7653891716562390302",
       "date": "2026-06-21",
-      "views": "855",
+      "views": "857",
       "note": "First time at the strip: Z900 vs ZH2"
     },
     {
@@ -448,14 +448,14 @@
       "creator": "zhwho",
       "url": "https://www.tiktok.com/@zh.who/video/7636132336362409246",
       "date": "2026-05-04",
-      "views": "874",
+      "views": "876",
       "note": "Poor homie at the Modded Detroit meet"
     },
     {
       "creator": "zhwho",
       "url": "https://www.tiktok.com/@zh.who/video/7633923121765993758",
       "date": "2026-04-28",
-      "views": "831",
+      "views": "836",
       "note": "Crowd reacts to the supercharged ZH2"
     },
     {
