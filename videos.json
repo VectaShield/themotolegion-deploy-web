@@ -12,7 +12,7 @@
   ],
   "_auto": "This file is auto-refreshed hourly by scripts/refresh-videos.mjs. Hand-edited \"note\" text is preserved by video id (an empty \"\" note stays empty); \"views\"/\"pinned\" are recomputed. New/removed videos and note/pinned/date changes are written on every run; view-count-only changes are written at most every 6 hours to limit deploy churn. _lastRefresh records the last successful write and per-creator fetch health.",
   "_lastRefresh": {
-    "at": "2026-09-06T17:20:50.174Z",
+    "at": "2026-09-06T19:30:08.751Z",
     "ok": {
       "spartanh2": true,
       "zhwho": true,
@@ -23,30 +23,37 @@
   "videos": [
     {
       "creator": "ninjaplzzzz",
+      "url": "https://www.tiktok.com/@ninjaplzzzz/video/7682493569331940639",
+      "date": "2026-09-06",
+      "views": "88",
+      "note": "my Saturday was 🔥🔥🔥@𝓜𝓸𝓽𝓸𝓰𝓲𝓻𝓵111 Pat Hulk シ"
+    },
+    {
+      "creator": "ninjaplzzzz",
       "url": "https://www.tiktok.com/@ninjaplzzzz/video/7682460903127715103",
       "date": "2026-09-06",
-      "views": "202",
+      "views": "446",
       "note": "@𝓜𝓸𝓽𝓸𝓰𝓲𝓻𝓵111 l シ"
     },
     {
       "creator": "ninjaplzzzz",
       "url": "https://www.tiktok.com/@ninjaplzzzz/video/7682301472423349535",
       "date": "2026-09-06",
-      "views": "394",
+      "views": "423",
       "note": "@𝓜𝓸𝓽𝓸𝓰𝓲𝓻𝓵111 H2 Pat"
     },
     {
       "creator": "ninjaplzzzz",
       "url": "https://www.tiktok.com/@ninjaplzzzz/video/7681828949176945950",
       "date": "2026-09-04",
-      "views": "357",
+      "views": "361",
       "note": "シ"
     },
     {
       "creator": "spartanh2",
       "url": "https://www.tiktok.com/@spartan.h2/video/7681459595352558878",
       "date": "2026-09-03",
-      "views": "212",
+      "views": "217",
       "note": "SpartanH2 x EMmeet VIP"
     },
     {
@@ -74,7 +81,7 @@
       "creator": "ninjaplzzzz",
       "url": "https://www.tiktok.com/@ninjaplzzzz/video/7680396680306478366",
       "date": "2026-09-01",
-      "views": "652",
+      "views": "655",
       "note": "🇮🇹 🏴‍☠️ Knopf H2 シ"
     },
     {
@@ -96,21 +103,21 @@
       "creator": "ninjaplzzzz",
       "url": "https://www.tiktok.com/@ninjaplzzzz/video/7680000036800974111",
       "date": "2026-08-31",
-      "views": "480",
+      "views": "481",
       "note": "🇮🇹 🏴‍☠️ Knopf @𝓜𝓸𝓽𝓸𝓰𝓲𝓻𝓵111 H2 Hulk シ"
     },
     {
       "creator": "ninjaplzzzz",
       "url": "https://www.tiktok.com/@ninjaplzzzz/video/7679629531631668510",
       "date": "2026-08-30",
-      "views": "416",
+      "views": "417",
       "note": "shot by 🌹 🔥🔥🔥"
     },
     {
       "creator": "ninjaplzzzz",
       "url": "https://www.tiktok.com/@ninjaplzzzz/video/7679291602472291615",
       "date": "2026-08-29",
-      "views": "466",
+      "views": "467",
       "note": "new datte due to the expo downtown is SEPTEMBER 18TH everythi…"
     },
     {
@@ -356,7 +363,7 @@
       "creator": "zhwho",
       "url": "https://www.tiktok.com/@zh.who/video/7667202527334567199",
       "date": "2026-07-27",
-      "views": "882",
+      "views": "883",
       "note": "Are we being followed??? Wild night in Detroit, pt. 2"
     },
     {
@@ -384,7 +391,7 @@
       "creator": "zhwho",
       "url": "https://www.tiktok.com/@zh.who/video/7660978836166774047",
       "date": "2026-07-10",
-      "views": "380",
+      "views": "381",
       "note": "ZH2 build: intercooler, BOV, billet plenum, stage 1 gears"
     },
     {
@@ -398,7 +405,7 @@
       "creator": "zhwho",
       "url": "https://www.tiktok.com/@zh.who/video/7653891716562390302",
       "date": "2026-06-21",
-      "views": "911",
+      "views": "915",
       "note": "First time at the strip: Z900 vs ZH2"
     },
     {
@@ -476,14 +483,14 @@
       "creator": "zhwho",
       "url": "https://www.tiktok.com/@zh.who/video/7636132336362409246",
       "date": "2026-05-04",
-      "views": "917",
+      "views": "919",
       "note": "Poor homie at the Modded Detroit meet"
     },
     {
       "creator": "zhwho",
       "url": "https://www.tiktok.com/@zh.who/video/7633923121765993758",
       "date": "2026-04-28",
-      "views": "895",
+      "views": "896",
       "note": "Crowd reacts to the supercharged ZH2"
     },
     {
