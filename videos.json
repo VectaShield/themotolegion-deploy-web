@@ -12,7 +12,7 @@
   ],
   "_auto": "This file is auto-refreshed hourly by scripts/refresh-videos.mjs. Hand-edited \"note\" text is preserved by video id (an empty \"\" note stays empty); \"views\"/\"pinned\" are recomputed. New/removed videos and note/pinned/date changes are written on every run; view-count-only changes are written at most every 6 hours to limit deploy churn. _lastRefresh records the last successful write and per-creator fetch health.",
   "_lastRefresh": {
-    "at": "2026-09-08T14:46:11.661Z",
+    "at": "2026-09-08T18:58:00.928Z",
     "ok": {
       "spartanh2": true,
       "zhwho": true,
@@ -25,35 +25,49 @@
       "creator": "spartanh2",
       "url": "https://www.tiktok.com/@spartan.h2/video/7682971179346300190",
       "date": "2026-09-08",
-      "views": "12.2K",
+      "views": "18.3K",
       "note": "UPDATE 2 ARREST. Lawsuit incomming. He was arrested at the Ca…"
+    },
+    {
+      "creator": "freewillridez",
+      "url": "https://www.tiktok.com/@freewillridez/video/7683231530944122125",
+      "date": "2026-09-08",
+      "views": "164",
+      "note": "Somewhere up north"
+    },
+    {
+      "creator": "ninjaplzzzz",
+      "url": "https://www.tiktok.com/@ninjaplzzzz/video/7683187609648008479",
+      "date": "2026-09-08",
+      "views": "154",
+      "note": "come join me and 🇮🇹🦁 fpr our night group ride"
     },
     {
       "creator": "ninjaplzzzz",
       "url": "https://www.tiktok.com/@ninjaplzzzz/video/7682983441234677023",
       "date": "2026-09-08",
-      "views": "650",
+      "views": "721",
       "note": "come with me to arts beats and eats シ"
     },
     {
       "creator": "spartanh2",
       "url": "https://www.tiktok.com/@spartan.h2/video/7682552567355788575",
       "date": "2026-09-06",
-      "views": "36.9K",
+      "views": "39K",
       "note": "ARREST UPDATE. Lawsuit incoming. He was arrested at the Cars…"
     },
     {
       "creator": "zhwho",
       "url": "https://www.tiktok.com/@zh.who/video/7682510288125463839",
       "date": "2026-09-06",
-      "views": "1K",
+      "views": "1.1K",
       "note": "Semi truck VS ZH2. Close call had me worried 😅✌️"
     },
     {
       "creator": "ninjaplzzzz",
       "url": "https://www.tiktok.com/@ninjaplzzzz/video/7682493569331940639",
       "date": "2026-09-06",
-      "views": "401",
+      "views": "409",
       "note": "my Saturday was 🔥🔥🔥@𝓜𝓸𝓽𝓸𝓰𝓲𝓻𝓵111 Pat Hulk シ"
     },
     {
@@ -67,28 +81,28 @@
       "creator": "ninjaplzzzz",
       "url": "https://www.tiktok.com/@ninjaplzzzz/video/7682301472423349535",
       "date": "2026-09-06",
-      "views": "565",
+      "views": "568",
       "note": "@𝓜𝓸𝓽𝓸𝓰𝓲𝓻𝓵111 H2 Pat"
     },
     {
       "creator": "freewillridez",
       "url": "https://www.tiktok.com/@freewillridez/video/7681756657210150158",
       "date": "2026-09-04",
-      "views": "459",
+      "views": "461",
       "note": "“I’ll finish what you started”"
     },
     {
       "creator": "ninjaplzzzz",
       "url": "https://www.tiktok.com/@ninjaplzzzz/video/7681828949176945950",
       "date": "2026-09-04",
-      "views": "392",
+      "views": "394",
       "note": "シ"
     },
     {
       "creator": "spartanh2",
       "url": "https://www.tiktok.com/@spartan.h2/video/7681459595352558878",
       "date": "2026-09-03",
-      "views": "507",
+      "views": "542",
       "note": "SpartanH2 x EMmeet VIP"
     },
     {
@@ -102,7 +116,7 @@
       "creator": "freewillridez",
       "url": "https://www.tiktok.com/@freewillridez/video/7681397384793918733",
       "date": "2026-09-03",
-      "views": "308",
+      "views": "311",
       "note": "Freewillridez keeps growing and growing last Saturday was a b…"
     },
     {
@@ -130,21 +144,21 @@
       "creator": "ninjaplzzzz",
       "url": "https://www.tiktok.com/@ninjaplzzzz/video/7680396680306478366",
       "date": "2026-09-01",
-      "views": "695",
+      "views": "696",
       "note": "🇮🇹 🏴‍☠️ Knopf H2 シ"
     },
     {
       "creator": "spartanh2",
       "url": "https://www.tiktok.com/@spartan.h2/video/7680347177130020126",
       "date": "2026-08-31",
-      "views": "507",
+      "views": "529",
       "note": "See at on the 19th of September at Huntington Place, Detroit.…"
     },
     {
       "creator": "zhwho",
       "url": "https://www.tiktok.com/@zh.who/video/7679986876731739423",
       "date": "2026-08-31",
-      "views": "17.1K",
+      "views": "17.2K",
       "pinned": true,
       "note": "Bros ex left him for a biker so he doesn't like bikes ✌️🥀😅 H2"
     },
@@ -159,7 +173,7 @@
       "creator": "freewillridez",
       "url": "https://www.tiktok.com/@freewillridez/video/7679917997506546957",
       "date": "2026-08-30",
-      "views": "482",
+      "views": "483",
       "note": "Freewillridez next event is September 13 2 PM Pontiac, Michigan"
     },
     {
@@ -187,7 +201,7 @@
       "creator": "spartanh2",
       "url": "https://www.tiktok.com/@spartan.h2/video/7678568174312377631",
       "date": "2026-08-27",
-      "views": "149K",
+      "views": "149.1K",
       "pinned": true,
       "note": "ARRESTED at the Cars and Cannolis Harper Cruise in Saint Clai…"
     },
@@ -202,7 +216,7 @@
       "creator": "freewillridez",
       "url": "https://www.tiktok.com/@freewillridez/video/7678126804413992206",
       "date": "2026-08-26",
-      "views": "524",
+      "views": "526",
       "note": "Go check out freewillridez.com for your boy"
     },
     {
@@ -223,7 +237,7 @@
       "creator": "freewillridez",
       "url": "https://www.tiktok.com/@freewillridez/video/7677978225737354510",
       "date": "2026-08-25",
-      "views": "997",
+      "views": "998",
       "note": "Michigan!!! our next group ride is this Saturday at 2 PM in P…"
     },
     {
@@ -412,7 +426,7 @@
       "creator": "spartanh2",
       "url": "https://www.tiktok.com/@spartan.h2/video/7667101623184854285",
       "date": "2026-07-27",
-      "views": "85.2K",
+      "views": "85.3K",
       "note": "Stealing Morgan Wallen's girls"
     },
     {
@@ -426,7 +440,7 @@
       "creator": "zhwho",
       "url": "https://www.tiktok.com/@zh.who/video/7667202527334567199",
       "date": "2026-07-27",
-      "views": "896",
+      "views": "898",
       "note": "Are we being followed??? Wild night in Detroit, pt. 2"
     },
     {
