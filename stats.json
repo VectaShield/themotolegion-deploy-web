@@ -661,16 +661,16 @@
           "unavailable": "Cloudflare challenge blocks anonymous requests; needs a creator API key or session"
         },
         "instagram": {
-          "views": null,
-          "viewsUnavailable": "Instagram exposes no public view/play counts and no lifetime-views metric",
+          "views": 162844,
           "likes": null,
           "followers": 788,
           "posts": 705,
-          "stale": true
+          "stale": true,
+          "viewsManual": true
         }
       },
       "totals": {
-        "views": 292953,
+        "views": 455797,
         "likes": 71286,
         "followers": 15200
       }
