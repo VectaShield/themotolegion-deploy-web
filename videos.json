@@ -12,7 +12,7 @@
   ],
   "_auto": "This file is auto-refreshed hourly by scripts/refresh-videos.mjs. Hand-edited \"note\" text is preserved by video id (an empty \"\" note stays empty); \"views\"/\"pinned\" are recomputed. New/removed videos and note/pinned/date changes are written on every run; view-count-only changes are written at most every 6 hours to limit deploy churn. _lastRefresh records the last successful write and per-creator fetch health.",
   "_lastRefresh": {
-    "at": "2026-09-09T05:16:01.085Z",
+    "at": "2026-09-09T14:47:49.973Z",
     "ok": {
       "spartanh2": true,
       "zhwho": true,
@@ -23,58 +23,65 @@
   "videos": [
     {
       "creator": "ninjaplzzzz",
+      "url": "https://www.tiktok.com/@ninjaplzzzz/video/7683381822532652318",
+      "date": "2026-09-09",
+      "views": "154",
+      "note": ""
+    },
+    {
+      "creator": "ninjaplzzzz",
       "url": "https://www.tiktok.com/@ninjaplzzzz/video/7683343777280363806",
       "date": "2026-09-09",
-      "views": "333",
+      "views": "538",
       "note": "the usual suspects 😂 hanging with the gang at cycles gear @\ud83e…"
     },
     {
       "creator": "spartanh2",
       "url": "https://www.tiktok.com/@spartan.h2/video/7682971179346300190",
       "date": "2026-09-08",
-      "views": "26.5K",
+      "views": "27.5K",
       "note": "UPDATE 2 ARREST. Lawsuit incomming. He was arrested at the Ca…"
     },
     {
       "creator": "freewillridez",
       "url": "https://www.tiktok.com/@freewillridez/video/7683231530944122125",
       "date": "2026-09-08",
-      "views": "335",
+      "views": "346",
       "note": "Somewhere up north"
     },
     {
       "creator": "ninjaplzzzz",
       "url": "https://www.tiktok.com/@ninjaplzzzz/video/7683187609648008479",
       "date": "2026-09-08",
-      "views": "277",
+      "views": "307",
       "note": "come join me and 🇮🇹🦁 fpr our night group ride"
     },
     {
       "creator": "ninjaplzzzz",
       "url": "https://www.tiktok.com/@ninjaplzzzz/video/7682983441234677023",
       "date": "2026-09-08",
-      "views": "800",
+      "views": "806",
       "note": "come with me to arts beats and eats シ"
     },
     {
       "creator": "spartanh2",
       "url": "https://www.tiktok.com/@spartan.h2/video/7682552567355788575",
       "date": "2026-09-06",
-      "views": "43.1K",
+      "views": "43.8K",
       "note": "ARREST UPDATE. Lawsuit incoming. He was arrested at the Cars…"
     },
     {
       "creator": "zhwho",
       "url": "https://www.tiktok.com/@zh.who/video/7682510288125463839",
       "date": "2026-09-06",
-      "views": "1.1K",
+      "views": "1.2K",
       "note": "Semi truck VS ZH2. Close call had me worried 😅✌️"
     },
     {
       "creator": "ninjaplzzzz",
       "url": "https://www.tiktok.com/@ninjaplzzzz/video/7682493569331940639",
       "date": "2026-09-06",
-      "views": "422",
+      "views": "428",
       "note": "my Saturday was 🔥🔥🔥@𝓜𝓸𝓽𝓸𝓰𝓲𝓻𝓵111 Pat Hulk シ"
     },
     {
@@ -88,28 +95,28 @@
       "creator": "ninjaplzzzz",
       "url": "https://www.tiktok.com/@ninjaplzzzz/video/7682301472423349535",
       "date": "2026-09-06",
-      "views": "572",
+      "views": "579",
       "note": "@𝓜𝓸𝓽𝓸𝓰𝓲𝓻𝓵111 H2 Pat"
     },
     {
       "creator": "freewillridez",
       "url": "https://www.tiktok.com/@freewillridez/video/7681756657210150158",
       "date": "2026-09-04",
-      "views": "464",
+      "views": "465",
       "note": "“I’ll finish what you started”"
     },
     {
       "creator": "ninjaplzzzz",
       "url": "https://www.tiktok.com/@ninjaplzzzz/video/7681828949176945950",
       "date": "2026-09-04",
-      "views": "396",
+      "views": "397",
       "note": "シ"
     },
     {
       "creator": "spartanh2",
       "url": "https://www.tiktok.com/@spartan.h2/video/7681459595352558878",
       "date": "2026-09-03",
-      "views": "600",
+      "views": "604",
       "note": "SpartanH2 x EMmeet VIP"
     },
     {
@@ -123,7 +130,7 @@
       "creator": "freewillridez",
       "url": "https://www.tiktok.com/@freewillridez/video/7681397384793918733",
       "date": "2026-09-03",
-      "views": "313",
+      "views": "314",
       "note": "Freewillridez keeps growing and growing last Saturday was a b…"
     },
     {
@@ -158,14 +165,14 @@
       "creator": "spartanh2",
       "url": "https://www.tiktok.com/@spartan.h2/video/7680347177130020126",
       "date": "2026-08-31",
-      "views": "566",
+      "views": "567",
       "note": "See at on the 19th of September at Huntington Place, Detroit.…"
     },
     {
       "creator": "zhwho",
       "url": "https://www.tiktok.com/@zh.who/video/7679986876731739423",
       "date": "2026-08-31",
-      "views": "18K",
+      "views": "18.2K",
       "pinned": true,
       "note": "Bros ex left him for a biker so he doesn't like bikes ✌️🥀😅 H2"
     },
@@ -180,14 +187,14 @@
       "creator": "freewillridez",
       "url": "https://www.tiktok.com/@freewillridez/video/7679917997506546957",
       "date": "2026-08-30",
-      "views": "483",
+      "views": "484",
       "note": "Freewillridez next event is September 13 2 PM Pontiac, Michigan"
     },
     {
       "creator": "freewillridez",
       "url": "https://www.tiktok.com/@freewillridez/video/7679884634880052494",
       "date": "2026-08-30",
-      "views": "538",
+      "views": "539",
       "note": "Great turn out today!!!! Check out freewillridez.com"
     },
     {
@@ -223,7 +230,7 @@
       "creator": "freewillridez",
       "url": "https://www.tiktok.com/@freewillridez/video/7678126804413992206",
       "date": "2026-08-26",
-      "views": "526",
+      "views": "529",
       "note": "Go check out freewillridez.com for your boy"
     },
     {
@@ -447,7 +454,7 @@
       "creator": "zhwho",
       "url": "https://www.tiktok.com/@zh.who/video/7667202527334567199",
       "date": "2026-07-27",
-      "views": "903",
+      "views": "905",
       "note": "Are we being followed??? Wild night in Detroit, pt. 2"
     },
     {
@@ -475,7 +482,7 @@
       "creator": "zhwho",
       "url": "https://www.tiktok.com/@zh.who/video/7660978836166774047",
       "date": "2026-07-10",
-      "views": "396",
+      "views": "397",
       "note": "ZH2 build: intercooler, BOV, billet plenum, stage 1 gears"
     },
     {
