@@ -12,7 +12,7 @@
   ],
   "_auto": "This file is auto-refreshed hourly by scripts/refresh-videos.mjs. Hand-edited \"note\" text is preserved by video id (an empty \"\" note stays empty); \"views\"/\"pinned\" are recomputed. New/removed videos and note/pinned/date changes are written on every run; view-count-only changes are written at most every 6 hours to limit deploy churn. _lastRefresh records the last successful write and per-creator fetch health.",
   "_lastRefresh": {
-    "at": "2026-09-12T23:22:01.179Z",
+    "at": "2026-09-13T06:45:38.509Z",
     "ok": {
       "spartanh2": true,
       "zhwho": true,
@@ -25,56 +25,56 @@
       "creator": "spartanh2",
       "url": "https://www.tiktok.com/@spartan.h2/video/7684728081977855263",
       "date": "2026-09-12",
-      "views": "199",
+      "views": "298",
       "note": "Group ride video coming soon! HUGE TURNOUT 🏴‍☠️ Moto Legion"
     },
     {
       "creator": "zhwho",
       "url": "https://www.tiktok.com/@zh.who/video/7684766664193330462",
       "date": "2026-09-12",
-      "views": "406",
+      "views": "1.2K",
       "note": "HIT AND RUN AT BIKES ON THE BRICKS FLINT MICHIGAN. FOLLOW FOR…"
     },
     {
       "creator": "ninjaplzzzz",
       "url": "https://www.tiktok.com/@ninjaplzzzz/video/7684608356295675166",
       "date": "2026-09-12",
-      "views": "334",
+      "views": "377",
       "note": "cars at the station H2 🇮🇹🦁 シ"
     },
     {
       "creator": "spartanh2",
       "url": "https://www.tiktok.com/@spartan.h2/video/7684134926563757342",
       "date": "2026-09-11",
-      "views": "423",
+      "views": "454",
       "note": "This event is free. Start: SPEEDWAY 2980 JOHN R RD TROY, MI 4…"
     },
     {
       "creator": "ninjaplzzzz",
       "url": "https://www.tiktok.com/@ninjaplzzzz/video/7684215846104861982",
       "date": "2026-09-11",
-      "views": "1.1K",
+      "views": "1.2K",
       "note": "come out and ride with us sept 18th for the group ride at mic…"
     },
     {
       "creator": "ninjaplzzzz",
       "url": "https://www.tiktok.com/@ninjaplzzzz/video/7684093856559680798",
       "date": "2026-09-11",
-      "views": "538",
+      "views": "547",
       "note": "シ shot by H2. Hulk"
     },
     {
       "creator": "ninjaplzzzz",
       "url": "https://www.tiktok.com/@ninjaplzzzz/video/7683800506191367454",
       "date": "2026-09-10",
-      "views": "504",
+      "views": "507",
       "note": "🇮🇹🦁 @𝓜𝓸𝓽𝓸𝓰𝓲𝓻𝓵111 H2 Knopf 🏴‍☠️ Hulk シ"
     },
     {
       "creator": "ninjaplzzzz",
       "url": "https://www.tiktok.com/@ninjaplzzzz/video/7683381822532652318",
       "date": "2026-09-09",
-      "views": "561",
+      "views": "566",
       "note": ""
     },
     {
@@ -88,28 +88,28 @@
       "creator": "spartanh2",
       "url": "https://www.tiktok.com/@spartan.h2/video/7682971179346300190",
       "date": "2026-09-08",
-      "views": "31.6K",
+      "views": "31.9K",
       "note": "UPDATE 2 ARREST. Lawsuit incomming. He was arrested at the Ca…"
     },
     {
       "creator": "freewillridez",
       "url": "https://www.tiktok.com/@freewillridez/video/7683231530944122125",
       "date": "2026-09-08",
-      "views": "490",
+      "views": "510",
       "note": "Somewhere up north"
     },
     {
       "creator": "ninjaplzzzz",
       "url": "https://www.tiktok.com/@ninjaplzzzz/video/7683187609648008479",
       "date": "2026-09-08",
-      "views": "374",
+      "views": "376",
       "note": "come join me and 🇮🇹🦁 fpr our night group ride"
     },
     {
       "creator": "ninjaplzzzz",
       "url": "https://www.tiktok.com/@ninjaplzzzz/video/7682983441234677023",
       "date": "2026-09-08",
-      "views": "889",
+      "views": "893",
       "note": "come with me to arts beats and eats シ"
     },
     {
@@ -130,7 +130,7 @@
       "creator": "ninjaplzzzz",
       "url": "https://www.tiktok.com/@ninjaplzzzz/video/7682493569331940639",
       "date": "2026-09-06",
-      "views": "475",
+      "views": "477",
       "note": "my Saturday was 🔥🔥🔥@𝓜𝓸𝓽𝓸𝓰𝓲𝓻𝓵111 Pat Hulk シ"
     },
     {
@@ -151,7 +151,7 @@
       "creator": "freewillridez",
       "url": "https://www.tiktok.com/@freewillridez/video/7681756657210150158",
       "date": "2026-09-04",
-      "views": "626",
+      "views": "628",
       "note": "“I’ll finish what you started”"
     },
     {
@@ -165,7 +165,7 @@
       "creator": "spartanh2",
       "url": "https://www.tiktok.com/@spartan.h2/video/7681459595352558878",
       "date": "2026-09-03",
-      "views": "704",
+      "views": "721",
       "note": "SpartanH2 x EMmeet VIP"
     },
     {
@@ -179,7 +179,7 @@
       "creator": "freewillridez",
       "url": "https://www.tiktok.com/@freewillridez/video/7681397384793918733",
       "date": "2026-09-03",
-      "views": "334",
+      "views": "337",
       "note": "Freewillridez keeps growing and growing last Saturday was a b…"
     },
     {
@@ -214,7 +214,7 @@
       "creator": "spartanh2",
       "url": "https://www.tiktok.com/@spartan.h2/video/7680347177130020126",
       "date": "2026-08-31",
-      "views": "634",
+      "views": "648",
       "note": "See at on the 19th of September at Huntington Place, Detroit.…"
     },
     {
@@ -236,14 +236,14 @@
       "creator": "freewillridez",
       "url": "https://www.tiktok.com/@freewillridez/video/7679917997506546957",
       "date": "2026-08-30",
-      "views": "501",
+      "views": "504",
       "note": "Freewillridez next event is September 13 2 PM Pontiac, Michigan"
     },
     {
       "creator": "freewillridez",
       "url": "https://www.tiktok.com/@freewillridez/video/7679884634880052494",
       "date": "2026-08-30",
-      "views": "554",
+      "views": "556",
       "note": "Great turn out today!!!! Check out freewillridez.com"
     },
     {
@@ -279,7 +279,7 @@
       "creator": "freewillridez",
       "url": "https://www.tiktok.com/@freewillridez/video/7678126804413992206",
       "date": "2026-08-26",
-      "views": "544",
+      "views": "546",
       "note": "Go check out freewillridez.com for your boy"
     },
     {
@@ -391,7 +391,7 @@
       "creator": "freewillridez",
       "url": "https://www.tiktok.com/@freewillridez/video/7675043265439108365",
       "date": "2026-08-17",
-      "views": "281",
+      "views": "282",
       "note": "FREEWILLRIDEZ NEXT GROUP RIDE IS IN PONTIAC, MICHIGAN, AUGUST…"
     },
     {
@@ -426,7 +426,7 @@
       "creator": "freewillridez",
       "url": "https://www.tiktok.com/@freewillridez/video/7674680677144612109",
       "date": "2026-08-16",
-      "views": "761",
+      "views": "762",
       "note": "Michigan have you not heard of the FREEWILRIDEZ GROUP RIDEZ Y…"
     },
     {
@@ -489,7 +489,7 @@
       "creator": "spartanh2",
       "url": "https://www.tiktok.com/@spartan.h2/video/7667101623184854285",
       "date": "2026-07-27",
-      "views": "85.7K",
+      "views": "85.8K",
       "note": "Stealing Morgan Wallen's girls"
     },
     {
@@ -503,7 +503,7 @@
       "creator": "zhwho",
       "url": "https://www.tiktok.com/@zh.who/video/7667202527334567199",
       "date": "2026-07-27",
-      "views": "936",
+      "views": "939",
       "note": "Are we being followed??? Wild night in Detroit, pt. 2"
     },
     {
@@ -531,7 +531,7 @@
       "creator": "zhwho",
       "url": "https://www.tiktok.com/@zh.who/video/7660978836166774047",
       "date": "2026-07-10",
-      "views": "417",
+      "views": "420",
       "note": "ZH2 build: intercooler, BOV, billet plenum, stage 1 gears"
     },
     {
@@ -545,7 +545,7 @@
       "creator": "zhwho",
       "url": "https://www.tiktok.com/@zh.who/video/7653891716562390302",
       "date": "2026-06-21",
-      "views": "950",
+      "views": "951",
       "note": "First time at the strip: Z900 vs ZH2"
     },
     {
