@@ -12,7 +12,7 @@
   ],
   "_auto": "This file is auto-refreshed hourly by scripts/refresh-videos.mjs. Hand-edited \"note\" text is preserved by video id (an empty \"\" note stays empty); \"views\"/\"pinned\" are recomputed. New/removed videos and note/pinned/date changes are written on every run; view-count-only changes are written at most every 6 hours to limit deploy churn. _lastRefresh records the last successful write and per-creator fetch health.",
   "_lastRefresh": {
-    "at": "2026-09-19T00:37:36.617Z",
+    "at": "2026-09-19T05:03:05.528Z",
     "ok": {
       "spartanh2": true,
       "zhwho": true,
@@ -22,10 +22,17 @@
   },
   "videos": [
     {
+      "creator": "ninjaplzzzz",
+      "url": "https://www.tiktok.com/@ninjaplzzzz/video/7687091186632281374",
+      "date": "2026-09-19",
+      "views": "101",
+      "note": "🇮🇹🦁 thanks bro for hosting this ride with ne. and thanks f…"
+    },
+    {
       "creator": "freewillridez",
       "url": "https://www.tiktok.com/@freewillridez/video/7686718402823507213",
       "date": "2026-09-18",
-      "views": "462",
+      "views": "479",
       "note": "Me & pops going out for a ride"
     },
     {
@@ -46,42 +53,42 @@
       "creator": "zhwho",
       "url": "https://www.tiktok.com/@zh.who/video/7686189400597777694",
       "date": "2026-09-16",
-      "views": "4K",
+      "views": "4.1K",
       "note": "Truck crashed and flipped his trailer 🚨😬🫣 Tried to help 🤷…"
     },
     {
       "creator": "freewillridez",
       "url": "https://www.tiktok.com/@freewillridez/video/7686185634641317133",
       "date": "2026-09-16",
-      "views": "616",
+      "views": "634",
       "note": "Freewillridez over the last 2 and half years has came down fa…"
     },
     {
       "creator": "ninjaplzzzz",
       "url": "https://www.tiktok.com/@ninjaplzzzz/video/7685961591434579230",
       "date": "2026-09-16",
-      "views": "924",
+      "views": "943",
       "note": "🇮🇹🦁"
     },
     {
       "creator": "ninjaplzzzz",
       "url": "https://www.tiktok.com/@ninjaplzzzz/video/7685846498063535391",
       "date": "2026-09-15",
-      "views": "431",
+      "views": "438",
       "note": "come out and support a good cause. even if you cant make the…"
     },
     {
       "creator": "ninjaplzzzz",
       "url": "https://www.tiktok.com/@ninjaplzzzz/video/7685657998940802335",
       "date": "2026-09-15",
-      "views": "479",
+      "views": "486",
       "note": "🇮🇹🦁"
     },
     {
       "creator": "freewillridez",
       "url": "https://www.tiktok.com/@freewillridez/video/7685460250111134989",
       "date": "2026-09-14",
-      "views": "623",
+      "views": "635",
       "note": "Michigan our next group ride is September 26 6 PM 65 East Hur…"
     },
     {
@@ -95,21 +102,21 @@
       "creator": "ninjaplzzzz",
       "url": "https://www.tiktok.com/@ninjaplzzzz/video/7685197509563567390",
       "date": "2026-09-14",
-      "views": "561",
+      "views": "570",
       "note": "@𝓜𝓸𝓽𝓸𝓰𝓲𝓻𝓵111 Ride シ"
     },
     {
       "creator": "ninjaplzzzz",
       "url": "https://www.tiktok.com/@ninjaplzzzz/video/7685093893485907230",
       "date": "2026-09-13",
-      "views": "485",
+      "views": "488",
       "note": "🇮🇹🦁 H2 🏴‍☠️ 🌸 i dont know everybody else's tag but im gl…"
     },
     {
       "creator": "ninjaplzzzz",
       "url": "https://www.tiktok.com/@ninjaplzzzz/video/7685084419576581407",
       "date": "2026-09-13",
-      "views": "568",
+      "views": "576",
       "note": "🇮🇹🦁"
     },
     {
@@ -137,7 +144,7 @@
       "creator": "ninjaplzzzz",
       "url": "https://www.tiktok.com/@ninjaplzzzz/video/7684608356295675166",
       "date": "2026-09-12",
-      "views": "491",
+      "views": "493",
       "note": "cars at the station H2 🇮🇹🦁 シ"
     },
     {
@@ -193,7 +200,7 @@
       "creator": "freewillridez",
       "url": "https://www.tiktok.com/@freewillridez/video/7683231530944122125",
       "date": "2026-09-08",
-      "views": "605",
+      "views": "606",
       "note": "Somewhere up north"
     },
     {
@@ -214,7 +221,7 @@
       "creator": "spartanh2",
       "url": "https://www.tiktok.com/@spartan.h2/video/7682552567355788575",
       "date": "2026-09-06",
-      "views": "127K",
+      "views": "127.1K",
       "note": "ARREST UPDATE. Lawsuit incoming. He was arrested at the Cars…"
     },
     {
@@ -249,7 +256,7 @@
       "creator": "freewillridez",
       "url": "https://www.tiktok.com/@freewillridez/video/7681756657210150158",
       "date": "2026-09-04",
-      "views": "666",
+      "views": "667",
       "note": "“I’ll finish what you started”"
     },
     {
@@ -263,21 +270,21 @@
       "creator": "spartanh2",
       "url": "https://www.tiktok.com/@spartan.h2/video/7681459595352558878",
       "date": "2026-09-03",
-      "views": "790",
+      "views": "793",
       "note": "SpartanH2 x EMmeet VIP"
     },
     {
       "creator": "freewillridez",
       "url": "https://www.tiktok.com/@freewillridez/video/7681463060522896653",
       "date": "2026-09-03",
-      "views": "4.1K",
+      "views": "4.2K",
       "note": "Freewillridez.com is live !!!!If you’re looking for any type…"
     },
     {
       "creator": "freewillridez",
       "url": "https://www.tiktok.com/@freewillridez/video/7681397384793918733",
       "date": "2026-09-03",
-      "views": "369",
+      "views": "370",
       "note": "Freewillridez keeps growing and growing last Saturday was a b…"
     },
     {
@@ -312,14 +319,14 @@
       "creator": "spartanh2",
       "url": "https://www.tiktok.com/@spartan.h2/video/7680347177130020126",
       "date": "2026-08-31",
-      "views": "700",
+      "views": "701",
       "note": "See at on the 19th of September at Huntington Place, Detroit.…"
     },
     {
       "creator": "zhwho",
       "url": "https://www.tiktok.com/@zh.who/video/7679986876731739423",
       "date": "2026-08-31",
-      "views": "24.8K",
+      "views": "24.9K",
       "pinned": true,
       "note": "Bros ex left him for a biker so he doesn't like bikes ✌️🥀😅 H2"
     },
@@ -334,14 +341,14 @@
       "creator": "freewillridez",
       "url": "https://www.tiktok.com/@freewillridez/video/7679917997506546957",
       "date": "2026-08-30",
-      "views": "533",
+      "views": "534",
       "note": "Freewillridez next event is September 13 2 PM Pontiac, Michigan"
     },
     {
       "creator": "freewillridez",
       "url": "https://www.tiktok.com/@freewillridez/video/7679884634880052494",
       "date": "2026-08-30",
-      "views": "586",
+      "views": "587",
       "note": "Great turn out today!!!! Check out freewillridez.com"
     },
     {
