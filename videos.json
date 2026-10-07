@@ -12,7 +12,7 @@
   ],
   "_auto": "This file is auto-refreshed hourly by scripts/refresh-videos.mjs. Hand-edited \"note\" text is preserved by video id (an empty \"\" note stays empty); \"views\"/\"pinned\" are recomputed. New/removed videos and note/pinned/date changes are written on every run; view-count-only changes are written at most every 6 hours to limit deploy churn. _lastRefresh records the last successful write and per-creator fetch health.",
   "_lastRefresh": {
-    "at": "2026-10-07T01:48:16.706Z",
+    "at": "2026-10-07T09:15:03.283Z",
     "ok": {
       "spartanh2": true,
       "zhwho": true,
@@ -26,42 +26,42 @@
       "creator": "freewillridez",
       "url": "https://www.tiktok.com/@freewillridez/video/7693387596965203214",
       "date": "2026-10-06",
-      "views": "509",
+      "views": "531",
       "note": "Freewill you wouldn’t understand you still think we’re riding…"
     },
     {
       "creator": "ninjaplzzzz",
       "url": "https://www.tiktok.com/@ninjaplzzzz/video/7693692868233268511",
       "date": "2026-10-06",
-      "views": "320",
+      "views": "465",
       "note": "🌸 #"
     },
     {
       "creator": "zhwho",
       "url": "https://www.tiktok.com/@zh.who/video/7693050656894045471",
       "date": "2026-10-05",
-      "views": "495",
+      "views": "513",
       "note": "Who flooded my race track 😔🏍️ Turning this thing into a sup…"
     },
     {
       "creator": "freewillridez",
       "url": "https://www.tiktok.com/@freewillridez/video/7693233042827037965",
       "date": "2026-10-05",
-      "views": "492",
+      "views": "499",
       "note": "Gsxr or h2 ?"
     },
     {
       "creator": "ninjaplzzzz",
       "url": "https://www.tiktok.com/@ninjaplzzzz/video/7693274079817698590",
       "date": "2026-10-05",
-      "views": "397",
+      "views": "414",
       "note": ""
     },
     {
       "creator": "davinci",
       "url": "https://www.tiktok.com/@davinci_damc/video/7693221433459117343",
       "date": "2026-10-05",
-      "views": "2.3K",
+      "views": "2.4K",
       "note": "October 11th The Moto Legion presents… H2"
     },
     {
@@ -75,7 +75,7 @@
       "creator": "freewillridez",
       "url": "https://www.tiktok.com/@freewillridez/video/7692889116127530254",
       "date": "2026-10-04",
-      "views": "343",
+      "views": "345",
       "note": "We the people シ"
     },
     {
@@ -96,21 +96,21 @@
       "creator": "ninjaplzzzz",
       "url": "https://www.tiktok.com/@ninjaplzzzz/video/7691899787599285534",
       "date": "2026-10-02",
-      "views": "212",
+      "views": "218",
       "note": ""
     },
     {
       "creator": "freewillridez",
       "url": "https://www.tiktok.com/@freewillridez/video/7691707984283553038",
       "date": "2026-10-01",
-      "views": "382",
+      "views": "384",
       "note": "When I die, just remember what I did in this community"
     },
     {
       "creator": "ninjaplzzzz",
       "url": "https://www.tiktok.com/@ninjaplzzzz/video/7691532798447963422",
       "date": "2026-10-01",
-      "views": "585",
+      "views": "590",
       "note": "#"
     },
     {
@@ -124,7 +124,7 @@
       "creator": "freewillridez",
       "url": "https://www.tiktok.com/@freewillridez/video/7690726255653621005",
       "date": "2026-09-28",
-      "views": "2.5K",
+      "views": "2.6K",
       "note": "Michigans group ridez join the fb group freewillridez to stay…"
     },
     {
@@ -138,7 +138,7 @@
       "creator": "freewillridez",
       "url": "https://www.tiktok.com/@freewillridez/video/7690590434128563470",
       "date": "2026-09-28",
-      "views": "618",
+      "views": "620",
       "note": "Started from the bottom honestly 2 years later look where we…"
     },
     {
@@ -159,35 +159,35 @@
       "creator": "freewillridez",
       "url": "https://www.tiktok.com/@freewillridez/video/7690241256068238605",
       "date": "2026-09-27",
-      "views": "948",
+      "views": "951",
       "note": "Yall still don’t believe we run Michigan yet"
     },
     {
       "creator": "ninjaplzzzz",
       "url": "https://www.tiktok.com/@ninjaplzzzz/video/7690242351830404382",
       "date": "2026-09-27",
-      "views": "608",
+      "views": "610",
       "note": "offiicially a dragon slayer"
     },
     {
       "creator": "davinci",
       "url": "https://www.tiktok.com/@davinci_damc/video/7690236121569119519",
       "date": "2026-09-27",
-      "views": "603",
+      "views": "606",
       "note": "Free will ridez x DTB"
     },
     {
       "creator": "davinci",
       "url": "https://www.tiktok.com/@davinci_damc/video/7690235812377660703",
       "date": "2026-09-27",
-      "views": "704",
+      "views": "707",
       "note": "Free will ridez x DTB"
     },
     {
       "creator": "freewillridez",
       "url": "https://www.tiktok.com/@freewillridez/video/7689685165295013134",
       "date": "2026-09-26",
-      "views": "729",
+      "views": "731",
       "note": "Freewillridez.com go check it out we host group ridez in Mich…"
     },
     {
@@ -215,7 +215,7 @@
       "creator": "ninjaplzzzz",
       "url": "https://www.tiktok.com/@ninjaplzzzz/video/7688953361995009310",
       "date": "2026-09-24",
-      "views": "322",
+      "views": "324",
       "note": "#"
     },
     {
@@ -229,7 +229,7 @@
       "creator": "spartanh2",
       "url": "https://www.tiktok.com/@spartan.h2/video/7687781505409617182",
       "date": "2026-09-21",
-      "views": "676",
+      "views": "679",
       "note": "🏴‍☠️ Moto Show"
     },
     {
@@ -327,7 +327,7 @@
       "creator": "davinci",
       "url": "https://www.tiktok.com/@davinci_damc/video/7687613147095518494",
       "date": "2026-09-20",
-      "views": "957",
+      "views": "958",
       "note": "The Super Moto Show - Import Expo. The Moto Legion. H2 🌸 @𝓜…"
     },
     {
@@ -362,7 +362,7 @@
       "creator": "zhwho",
       "url": "https://www.tiktok.com/@zh.who/video/7686189400597777694",
       "date": "2026-09-16",
-      "views": "14.9K",
+      "views": "15.3K",
       "note": "Truck crashed and flipped his trailer 🚨😬🫣 Tried to help 🤷…"
     },
     {
@@ -446,7 +446,7 @@
       "creator": "zhwho",
       "url": "https://www.tiktok.com/@zh.who/video/7684766664193330462",
       "date": "2026-09-12",
-      "views": "28.2K",
+      "views": "28.3K",
       "note": "HIT AND RUN AT BIKES ON THE BRICKS FLINT MICHIGAN. FOLLOW FOR…"
     },
     {
@@ -509,7 +509,7 @@
       "creator": "spartanh2",
       "url": "https://www.tiktok.com/@spartan.h2/video/7682971179346300190",
       "date": "2026-09-08",
-      "views": "36K",
+      "views": "36.1K",
       "note": "UPDATE 2 ARREST. Lawsuit incomming. He was arrested at the Ca…"
     },
     {
@@ -537,7 +537,7 @@
       "creator": "spartanh2",
       "url": "https://www.tiktok.com/@spartan.h2/video/7682552567355788575",
       "date": "2026-09-06",
-      "views": "151K",
+      "views": "151.5K",
       "pinned": true,
       "note": "ARREST UPDATE. Lawsuit incoming. He was arrested at the Cars…"
     },
@@ -587,7 +587,7 @@
       "creator": "spartanh2",
       "url": "https://www.tiktok.com/@spartan.h2/video/7681459595352558878",
       "date": "2026-09-03",
-      "views": "943",
+      "views": "948",
       "note": "SpartanH2 x EMmeet VIP"
     },
     {
@@ -643,7 +643,7 @@
       "creator": "zhwho",
       "url": "https://www.tiktok.com/@zh.who/video/7679986876731739423",
       "date": "2026-08-31",
-      "views": "58.1K",
+      "views": "58.2K",
       "pinned": true,
       "note": "Bros ex left him for a biker so he doesn't like bikes ✌️🥀😅 H2"
     },
@@ -798,7 +798,7 @@
       "creator": "davinci",
       "url": "https://www.tiktok.com/@davinci_damc/video/7676950184944766238",
       "date": "2026-08-22",
-      "views": "896",
+      "views": "897",
       "note": "🇮🇹 A tavola non si invecchia🤌"
     },
     {
@@ -889,7 +889,7 @@
       "creator": "spartanh2",
       "url": "https://www.tiktok.com/@spartan.h2/video/7670109306167020830",
       "date": "2026-08-04",
-      "views": "90.3K",
+      "views": "90.4K",
       "note": "#DetroitNinja down on the Gordie Howe Bridge, the full breakdown"
     },
     {
