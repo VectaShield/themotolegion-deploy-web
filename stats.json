@@ -1,10 +1,10 @@
 {
-  "updated": "2026-10-10T22:50:37.416Z",
+  "updated": "2026-10-10T23:33:20.325Z",
   "creators": {
     "spartanh2": {
       "platforms": {
         "tiktok": {
-          "views": 579088,
+          "views": 579090,
           "likes": 28000,
           "followers": 4701,
           "viewsComplete": true,
@@ -99,7 +99,7 @@
           "unavailable": "Cloudflare challenge blocks anonymous requests; needs a creator API key or session"
         },
         "facebook": {
-          "views": 963769,
+          "views": 963791,
           "likes": 11181,
           "comments": 0,
           "followers": 2283,
@@ -108,7 +108,7 @@
           "reels": [
             {
               "id": "3964660380496577",
-              "views": 128166,
+              "views": 128188,
               "likes": 1567,
               "comments": null
             },
@@ -407,11 +407,12 @@
               "cached": true
             }
           ],
-          "viewsManual": true
+          "viewsManual": true,
+          "stale": true
         }
       },
       "totals": {
-        "views": 2220894,
+        "views": 2220918,
         "likes": 60285,
         "followers": 8097
       }
@@ -419,7 +420,7 @@
     "freewillridez": {
       "platforms": {
         "tiktok": {
-          "views": 883014,
+          "views": 883051,
           "likes": 49300,
           "followers": 1362,
           "viewsComplete": true,
@@ -441,7 +442,7 @@
         }
       },
       "totals": {
-        "views": 883014,
+        "views": 883051,
         "likes": 49300,
         "followers": 3242
       }
@@ -449,9 +450,9 @@
     "davinci": {
       "platforms": {
         "tiktok": {
-          "views": 506211,
+          "views": 506214,
           "likes": 33000,
-          "followers": 1860,
+          "followers": 1861,
           "viewsComplete": true,
           "videosTracked": 49,
           "videosRefreshedThisRun": 11
@@ -483,20 +484,21 @@
           "viewsUnavailable": "Instagram exposes no public view/play counts and no lifetime-views metric",
           "likes": null,
           "followers": 1,
-          "posts": 0
+          "posts": 0,
+          "stale": true
         }
       },
       "totals": {
-        "views": 506242,
+        "views": 506245,
         "likes": 33000,
-        "followers": 1861
+        "followers": 1862
       }
     },
     "zhwho": {
       "platforms": {
         "tiktok": {
-          "views": 180071,
-          "likes": 6493,
+          "views": 180175,
+          "likes": 6496,
           "followers": 987,
           "viewsComplete": true,
           "videosTracked": 19,
@@ -829,12 +831,13 @@
               "cached": true
             }
           ],
-          "viewsManual": true
+          "viewsManual": true,
+          "stale": true
         }
       },
       "totals": {
-        "views": 490239,
-        "likes": 10434,
+        "views": 490343,
+        "likes": 10437,
         "followers": 1347
       }
     }
