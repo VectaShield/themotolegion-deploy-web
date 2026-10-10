@@ -1,10 +1,10 @@
 {
-  "updated": "2026-10-10T18:35:12.662Z",
+  "updated": "2026-10-10T22:50:37.416Z",
   "creators": {
     "spartanh2": {
       "platforms": {
         "tiktok": {
-          "views": 578978,
+          "views": 579088,
           "likes": 28000,
           "followers": 4701,
           "viewsComplete": true,
@@ -99,71 +99,71 @@
           "unavailable": "Cloudflare challenge blocks anonymous requests; needs a creator API key or session"
         },
         "facebook": {
-          "views": 963604,
-          "likes": 11180,
+          "views": 963769,
+          "likes": 11181,
           "comments": 0,
-          "followers": 2281,
+          "followers": 2283,
           "viewsComplete": true,
           "likesComplete": true,
           "reels": [
             {
-              "id": "1726369398639586",
-              "views": 9293,
-              "likes": 53,
-              "comments": null
-            },
-            {
-              "id": "2304319306970743",
-              "views": 2000,
-              "likes": 5,
+              "id": "3964660380496577",
+              "views": 128166,
+              "likes": 1567,
               "comments": null
             },
             {
               "id": "1054519444048442",
-              "views": 332399,
+              "views": 332406,
               "likes": 6944,
               "comments": null
             },
             {
               "id": "1835876004050120",
-              "views": 304881,
+              "views": 304887,
               "likes": 1843,
               "comments": null
             },
             {
               "id": "1034460832833117",
-              "views": 93976,
+              "views": 93986,
               "likes": 435,
               "comments": null
             },
             {
+              "id": "1726369398639586",
+              "views": 9296,
+              "likes": 53,
+              "comments": null
+            },
+            {
               "id": "1035692672416621",
-              "views": 2966,
+              "views": 2967,
               "likes": 14,
               "comments": null
             },
             {
               "id": "2564506560672195",
-              "views": 3258,
+              "views": 3259,
               "likes": 22,
               "comments": null
             },
             {
               "id": "1104520315239967",
-              "views": 3866,
+              "views": 3867,
               "likes": 14,
               "comments": null
             },
             {
               "id": "1419927686760277",
-              "views": 82927,
+              "views": 82931,
               "likes": 284,
               "comments": null
             },
             {
-              "id": "3964660380496577",
-              "views": 128038,
-              "likes": 1566,
+              "id": "2304319306970743",
+              "views": 2004,
+              "likes": 5,
               "comments": null
             }
           ]
@@ -172,7 +172,7 @@
           "views": 665925,
           "likes": 20922,
           "likesComplete": true,
-          "followers": 1093,
+          "followers": 1097,
           "posts": 19,
           "posts_detail": [
             {
@@ -407,26 +407,24 @@
               "cached": true
             }
           ],
-          "viewsManual": true,
-          "stale": true
+          "viewsManual": true
         }
       },
       "totals": {
-        "views": 2220619,
-        "likes": 60284,
-        "followers": 8091
+        "views": 2220894,
+        "likes": 60285,
+        "followers": 8097
       }
     },
     "freewillridez": {
       "platforms": {
         "tiktok": {
-          "views": 882516,
-          "likes": 49200,
-          "followers": 1345,
+          "views": 883014,
+          "likes": 49300,
+          "followers": 1362,
           "viewsComplete": true,
-          "videosTracked": 77,
-          "videosRefreshedThisRun": 12,
-          "stale": true
+          "videosTracked": 78,
+          "videosRefreshedThisRun": 12
         },
         "rumble": {
           "views": null,
@@ -443,17 +441,17 @@
         }
       },
       "totals": {
-        "views": 882516,
-        "likes": 49200,
-        "followers": 3225
+        "views": 883014,
+        "likes": 49300,
+        "followers": 3242
       }
     },
     "davinci": {
       "platforms": {
         "tiktok": {
-          "views": 506182,
+          "views": 506211,
           "likes": 33000,
-          "followers": 1861,
+          "followers": 1860,
           "viewsComplete": true,
           "videosTracked": 49,
           "videosRefreshedThisRun": 11
@@ -485,21 +483,20 @@
           "viewsUnavailable": "Instagram exposes no public view/play counts and no lifetime-views metric",
           "likes": null,
           "followers": 1,
-          "posts": 0,
-          "stale": true
+          "posts": 0
         }
       },
       "totals": {
-        "views": 506213,
+        "views": 506242,
         "likes": 33000,
-        "followers": 1862
+        "followers": 1861
       }
     },
     "zhwho": {
       "platforms": {
         "tiktok": {
-          "views": 179659,
-          "likes": 6489,
+          "views": 180071,
+          "likes": 6493,
           "followers": 987,
           "viewsComplete": true,
           "videosTracked": 19,
@@ -578,7 +575,7 @@
           "unavailable": "Cloudflare challenge blocks anonymous requests; needs a creator API key or session"
         },
         "facebook": {
-          "views": 104212,
+          "views": 104220,
           "likes": 347,
           "comments": 70,
           "followers": 63,
@@ -605,7 +602,7 @@
             },
             {
               "id": "1814878379680800",
-              "views": 88662,
+              "views": 88668,
               "likes": 160,
               "comments": 55
             },
@@ -635,7 +632,7 @@
             },
             {
               "id": "2476912196133773",
-              "views": 1231,
+              "views": 1233,
               "likes": 12,
               "comments": 3
             },
@@ -832,13 +829,12 @@
               "cached": true
             }
           ],
-          "viewsManual": true,
-          "stale": true
+          "viewsManual": true
         }
       },
       "totals": {
-        "views": 489819,
-        "likes": 10430,
+        "views": 490239,
+        "likes": 10434,
         "followers": 1347
       }
     }
