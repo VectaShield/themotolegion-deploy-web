@@ -1,0 +1,36 @@
+{
+  "_howto": [
+    "THE MOTO LEGION SHARED EVENTS CALENDAR - single source of truth for",
+    "every site in the formation. themotolegion.com renders EVERY upcoming",
+    "event; each creator site fetches THIS file cross-origin and renders",
+    "only events whose 'who' list names them or names 'themotolegion'.",
+    "",
+    "who:    array of creator keys this event belongs to. Keys:",
+    "        spartanh2, zhwho, freewillridez, davinci - or 'themotolegion',",
+    "        which means the whole formation and fans out to EVERY site.",
+    "        An event listing two creators shows on those two sites plus",
+    "        themotolegion.com, and nowhere else.",
+    "date:   YYYY-MM-DD. The tile shows through the end of that day and",
+    "        auto-hides after - nothing is ever hand-removed again.",
+    "name:   tile headline. times: the middot-separated detail line.",
+    "where:  short venue text for the right edge. url: where the tile",
+    "        links (maps pin for a meetup, ticket page for a show).",
+    "aria:   optional full sentence for screen readers; generated from",
+    "        the parts when absent.",
+    "",
+    "Style rules apply to all copy: no long dashes, never 'just', and",
+    "spell it 'the Moto Legion', never a bare 'the Legion'."
+  ],
+  "events": [
+    {
+      "id": "fwr-costume-ride-2026-10-17",
+      "who": ["freewillridez"],
+      "date": "2026-10-17",
+      "name": "Freewill Ridez Costume Ride",
+      "times": "2 PM kickstands up · costumes on · everyone on 2 wheels welcome",
+      "where": "Pontiac, MI",
+      "url": "https://maps.google.com/?q=65+E+Huron+St,+Pontiac,+MI",
+      "aria": "Freewill Ridez Costume Ride, Saturday October 17, kickstands up 2 PM from the Freewill Ridez lot at 65 E Huron St, Pontiac. Costumes on, everyone on two wheels welcome."
+    }
+  ]
+}

@@ -35,6 +35,15 @@
     <FilesMatch "\.(jpg|jpeg|png|gif|webp|svg|ico|json)$">
         Header set Cache-Control "public, max-age=86400, stale-while-revalidate=604800"
     </FilesMatch>
+
+    # The shared formation calendar: fetched cross-origin by the creator
+    # sites (spartanh2.com, zhwho.com, freewillridez.com, davincidamc.com),
+    # so it needs CORS, and a short cache so a new event reaches every site
+    # within the hour without any deploy on their side.
+    <FilesMatch "^events\.json$">
+        Header set Access-Control-Allow-Origin "*"
+        Header set Cache-Control "public, max-age=3600, stale-while-revalidate=86400"
+    </FilesMatch>
 </IfModule>
 
 <IfModule mod_expires.c>

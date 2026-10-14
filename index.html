@@ -156,17 +156,10 @@
             <p class="next-ride" id="next-ride" hidden></p>
         </section>
 
-        <!-- Event strip: hand-edited when an event is announced, removed
-             after it passes. Pattern shared with spartanh2.com / freewillridez.com. -->
-        <a class="event-tile" href="https://maps.google.com/?q=65+E+Huron+St,+Pontiac,+MI" target="_blank" rel="noopener"
-           aria-label="Freewill Ridez Costume Ride, Saturday October 17, kickstands up 2 PM from the Freewill Ridez lot at 65 E Huron St, Pontiac. Costumes on, everyone on two wheels welcome.">
-            <span class="event-date"><span class="event-mon">Oct</span><span class="event-day">17</span></span>
-            <span class="event-info">
-                <span class="event-name">Freewill Ridez Costume Ride</span>
-                <span class="event-times">2 PM kickstands up &middot; costumes on &middot; everyone on 2 wheels welcome</span>
-            </span>
-            <span class="event-where">Pontiac, MI&nbsp;<span class="event-arrow">&rarr;</span></span>
-        </a>
+        <!-- Event strip: rendered by legion.js from events.json, the shared
+             calendar for the whole formation (see its _howto). Tiles auto-hide
+             the day after their date; nothing here is hand-edited anymore. -->
+        <div id="event-strip"></div>
 
         <!-- C) Legion Members (hidden until shoutouts.json sets enabled:true) -->
         <section id="shoutouts-members" aria-label="Legion members" hidden>
@@ -234,7 +227,7 @@
     </main>
 
 
-    <script src="legion.js?v=dfd56ea5e8" defer></script>
+    <script src="legion.js?v=c53a40d7cf" defer></script>
     <script src="storm.js?v=66386c41e8" defer></script>
 </body>
 </html>
