@@ -12,7 +12,7 @@
   ],
   "_auto": "This file is auto-refreshed hourly by scripts/refresh-videos.mjs. Hand-edited \"note\" text is preserved by video id (an empty \"\" note stays empty); \"views\"/\"pinned\" are recomputed. New/removed videos and note/pinned/date changes are written on every run; view-count-only changes are written at most every 6 hours to limit deploy churn. _lastRefresh records the last successful write and per-creator fetch health.",
   "_lastRefresh": {
-    "at": "2026-10-18T09:53:21.977Z",
+    "at": "2026-10-18T17:32:41.984Z",
     "ok": {
       "spartanh2": true,
       "zhwho": true,
@@ -25,28 +25,28 @@
       "creator": "zhwho",
       "url": "https://www.tiktok.com/@zh.who/video/7697664944082406687",
       "date": "2026-10-17",
-      "views": "1.3K",
+      "views": "1.4K",
       "note": "The MOM was NOT happy when they wanted motorcycles 💀 PART 2/…"
     },
     {
       "creator": "zhwho",
       "url": "https://www.tiktok.com/@zh.who/video/7697330032498199839",
       "date": "2026-10-16",
-      "views": "4.4K",
+      "views": "5.9K",
       "note": "POV: You stop at a gas station in Detroit for 2 minutes 💀🤣P…"
     },
     {
       "creator": "freewillridez",
       "url": "https://www.tiktok.com/@freewillridez/video/7696625659879230734",
       "date": "2026-10-14",
-      "views": "683",
+      "views": "701",
       "note": "0/100 real quick"
     },
     {
       "creator": "freewillridez",
       "url": "https://www.tiktok.com/@freewillridez/video/7696584440163634446",
       "date": "2026-10-14",
-      "views": "578",
+      "views": "588",
       "note": "Gsxr boy doing gsxr things"
     },
     {
@@ -60,21 +60,21 @@
       "creator": "freewillridez",
       "url": "https://www.tiktok.com/@freewillridez/video/7695150574475529485",
       "date": "2026-10-10",
-      "views": "792",
+      "views": "798",
       "note": "Next Saturday we have our season closer !!! 10/17 65 east Hur…"
     },
     {
       "creator": "freewillridez",
       "url": "https://www.tiktok.com/@freewillridez/video/7694829560801529101",
       "date": "2026-10-10",
-      "views": "499",
+      "views": "506",
       "note": "Fully carbon looks like a praying mantis what does it look li…"
     },
     {
       "creator": "freewillridez",
       "url": "https://www.tiktok.com/@freewillridez/video/7693387596965203214",
       "date": "2026-10-06",
-      "views": "974",
+      "views": "983",
       "note": "Freewill you wouldn’t understand you still think we’re riding…"
     },
     {
@@ -88,7 +88,7 @@
       "creator": "freewillridez",
       "url": "https://www.tiktok.com/@freewillridez/video/7693233042827037965",
       "date": "2026-10-05",
-      "views": "683",
+      "views": "685",
       "note": "Gsxr or h2 ?"
     },
     {
@@ -109,7 +109,7 @@
       "creator": "freewillridez",
       "url": "https://www.tiktok.com/@freewillridez/video/7692889116127530254",
       "date": "2026-10-04",
-      "views": "527",
+      "views": "529",
       "note": "We the people シ"
     },
     {
@@ -137,7 +137,7 @@
       "creator": "freewillridez",
       "url": "https://www.tiktok.com/@freewillridez/video/7690726255653621005",
       "date": "2026-09-28",
-      "views": "6.1K",
+      "views": "6.2K",
       "note": "Michigans group ridez join the fb group freewillridez to stay…"
     },
     {
@@ -165,14 +165,14 @@
       "creator": "davinci",
       "url": "https://www.tiktok.com/@davinci_damc/video/7690236121569119519",
       "date": "2026-09-27",
-      "views": "706",
+      "views": "708",
       "note": "Free will ridez x DTB"
     },
     {
       "creator": "davinci",
       "url": "https://www.tiktok.com/@davinci_damc/video/7690235812377660703",
       "date": "2026-09-27",
-      "views": "806",
+      "views": "808",
       "note": "Free will ridez x DTB"
     },
     {
@@ -263,7 +263,7 @@
       "creator": "zhwho",
       "url": "https://www.tiktok.com/@zh.who/video/7686189400597777694",
       "date": "2026-09-16",
-      "views": "27.9K",
+      "views": "28.1K",
       "note": "Truck crashed and flipped his trailer 🚨😬🫣 Tried to help 🤷…"
     },
     {
@@ -333,7 +333,7 @@
       "creator": "spartanh2",
       "url": "https://www.tiktok.com/@spartan.h2/video/7682552567355788575",
       "date": "2026-09-06",
-      "views": "155.4K",
+      "views": "155.5K",
       "pinned": true,
       "note": "ARREST UPDATE. Lawsuit incoming. He was arrested at the Cars…"
     },
@@ -341,7 +341,7 @@
       "creator": "zhwho",
       "url": "https://www.tiktok.com/@zh.who/video/7682510288125463839",
       "date": "2026-09-06",
-      "views": "56.8K",
+      "views": "57K",
       "note": "Semi truck VS ZH2. Close call had me worried 😅✌️"
     },
     {
@@ -454,7 +454,7 @@
       "creator": "davinci",
       "url": "https://www.tiktok.com/@davinci_damc/video/7676950184944766238",
       "date": "2026-08-22",
-      "views": "935",
+      "views": "937",
       "note": "🇮🇹 A tavola non si invecchia🤌"
     },
     {
