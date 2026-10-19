@@ -23,14 +23,16 @@
   ],
   "events": [
     {
-      "id": "fwr-costume-ride-2026-10-17",
-      "who": ["freewillridez"],
-      "date": "2026-10-17",
-      "name": "Freewill Ridez Costume Ride",
-      "times": "2 PM kickstands up · costumes on · everyone on 2 wheels welcome",
-      "where": "Pontiac, MI",
-      "url": "https://maps.google.com/?q=65+E+Huron+St,+Pontiac,+MI",
-      "aria": "Freewill Ridez Costume Ride, Saturday October 17, kickstands up 2 PM from the Freewill Ridez lot at 65 E Huron St, Pontiac. Costumes on, everyone on two wheels welcome."
+      "id": "fwr-buff-shiftober-convoy-2026-10-25",
+      "who": [
+        "freewillridez"
+      ],
+      "date": "2026-10-25",
+      "name": "Convoy to Buff Shiftober",
+      "times": "12 PM meet up · 1 PM kickstands up · long route to M1 Concourse",
+      "where": "Waterford, MI",
+      "url": "https://maps.google.com/?q=Shark+Club,+6665+Highland+Rd,+Waterford,+MI+48327",
+      "aria": "Freewill Ridez convoy to Buff Shiftober, the largest trunk-or-treat with a drift pit, drag racing and food, Saturday October 25. Meet up 12 PM at Shark Club, 6665 Highland Rd, Waterford; kickstands up 1 PM, taking the long route to M1 Concourse. One last convoy of the season."
     }
   ]
 }
