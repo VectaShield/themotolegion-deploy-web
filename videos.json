@@ -12,7 +12,7 @@
   ],
   "_auto": "This file is auto-refreshed hourly by scripts/refresh-videos.mjs. Hand-edited \"note\" text is preserved by video id (an empty \"\" note stays empty); \"views\"/\"pinned\" are recomputed. New/removed videos and note/pinned/date changes are written on every run; view-count-only changes are written at most every 6 hours to limit deploy churn. _lastRefresh records the last successful write and per-creator fetch health.",
   "_lastRefresh": {
-    "at": "2026-10-19T11:15:07.682Z",
+    "at": "2026-10-19T17:46:01.273Z",
     "ok": {
       "spartanh2": true,
       "zhwho": true,
@@ -25,14 +25,14 @@
       "creator": "freewillridez",
       "url": "https://www.tiktok.com/@freewillridez/video/7698081643524885774",
       "date": "2026-10-18",
-      "views": "434",
+      "views": "467",
       "note": "Freewillridez.com"
     },
     {
       "creator": "freewillridez",
       "url": "https://www.tiktok.com/@freewillridez/video/7698063641962155278",
       "date": "2026-10-18",
-      "views": "469",
+      "views": "504",
       "note": "Freewillridez season 2 has came to a end i appreciate every o…"
     },
     {
@@ -53,35 +53,35 @@
       "creator": "freewillridez",
       "url": "https://www.tiktok.com/@freewillridez/video/7696625659879230734",
       "date": "2026-10-14",
-      "views": "723",
+      "views": "727",
       "note": "0/100 real quick"
     },
     {
       "creator": "freewillridez",
       "url": "https://www.tiktok.com/@freewillridez/video/7696584440163634446",
       "date": "2026-10-14",
-      "views": "605",
+      "views": "609",
       "note": "Gsxr boy doing gsxr things"
     },
     {
       "creator": "spartanh2",
       "url": "https://www.tiktok.com/@spartan.h2/video/7695220229445618975",
       "date": "2026-10-11",
-      "views": "684",
+      "views": "688",
       "note": "EMmeet Group Ride OCTOBER 11TH 3 PM Kickstand up 3:30 PM MICH…"
     },
     {
       "creator": "freewillridez",
       "url": "https://www.tiktok.com/@freewillridez/video/7695150574475529485",
       "date": "2026-10-10",
-      "views": "812",
+      "views": "814",
       "note": "Next Saturday we have our season closer !!! 10/17 65 east Hur…"
     },
     {
       "creator": "freewillridez",
       "url": "https://www.tiktok.com/@freewillridez/video/7694829560801529101",
       "date": "2026-10-10",
-      "views": "513",
+      "views": "514",
       "note": "Fully carbon looks like a praying mantis what does it look li…"
     },
     {
@@ -102,7 +102,7 @@
       "creator": "freewillridez",
       "url": "https://www.tiktok.com/@freewillridez/video/7693233042827037965",
       "date": "2026-10-05",
-      "views": "691",
+      "views": "692",
       "note": "Gsxr or h2 ?"
     },
     {
@@ -123,7 +123,7 @@
       "creator": "freewillridez",
       "url": "https://www.tiktok.com/@freewillridez/video/7692889116127530254",
       "date": "2026-10-04",
-      "views": "538",
+      "views": "539",
       "note": "We the people シ"
     },
     {
@@ -179,7 +179,7 @@
       "creator": "davinci",
       "url": "https://www.tiktok.com/@davinci_damc/video/7690236121569119519",
       "date": "2026-09-27",
-      "views": "713",
+      "views": "716",
       "note": "Free will ridez x DTB"
     },
     {
@@ -221,7 +221,7 @@
       "creator": "spartanh2",
       "url": "https://www.tiktok.com/@spartan.h2/video/7687781505409617182",
       "date": "2026-09-21",
-      "views": "758",
+      "views": "759",
       "note": "🏴‍☠️ Moto Show"
     },
     {
@@ -277,7 +277,7 @@
       "creator": "zhwho",
       "url": "https://www.tiktok.com/@zh.who/video/7686189400597777694",
       "date": "2026-09-16",
-      "views": "28.8K",
+      "views": "29K",
       "note": "Truck crashed and flipped his trailer 🚨😬🫣 Tried to help 🤷…"
     },
     {
@@ -355,7 +355,7 @@
       "creator": "zhwho",
       "url": "https://www.tiktok.com/@zh.who/video/7682510288125463839",
       "date": "2026-09-06",
-      "views": "57.6K",
+      "views": "57.9K",
       "note": "Semi truck VS ZH2. Close call had me worried 😅✌️"
     },
     {
@@ -369,7 +369,7 @@
       "creator": "spartanh2",
       "url": "https://www.tiktok.com/@spartan.h2/video/7681459595352558878",
       "date": "2026-09-03",
-      "views": "992",
+      "views": "993",
       "note": "SpartanH2 x EMmeet VIP"
     },
     {
