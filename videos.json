@@ -12,10 +12,10 @@
   ],
   "_auto": "This file is auto-refreshed hourly by scripts/refresh-videos.mjs. Hand-edited \"note\" text is preserved by video id (an empty \"\" note stays empty); \"views\"/\"pinned\" are recomputed. New/removed videos and note/pinned/date changes are written on every run; view-count-only changes are written at most every 6 hours to limit deploy churn. _lastRefresh records the last successful write and per-creator fetch health.",
   "_lastRefresh": {
-    "at": "2026-10-19T05:18:59.460Z",
+    "at": "2026-10-19T11:15:07.682Z",
     "ok": {
       "spartanh2": true,
-      "zhwho": false,
+      "zhwho": true,
       "freewillridez": true,
       "davinci": true
     }
@@ -25,14 +25,14 @@
       "creator": "freewillridez",
       "url": "https://www.tiktok.com/@freewillridez/video/7698081643524885774",
       "date": "2026-10-18",
-      "views": "415",
+      "views": "434",
       "note": "Freewillridez.com"
     },
     {
       "creator": "freewillridez",
       "url": "https://www.tiktok.com/@freewillridez/video/7698063641962155278",
       "date": "2026-10-18",
-      "views": "463",
+      "views": "469",
       "note": "Freewillridez season 2 has came to a end i appreciate every o…"
     },
     {
@@ -53,35 +53,35 @@
       "creator": "freewillridez",
       "url": "https://www.tiktok.com/@freewillridez/video/7696625659879230734",
       "date": "2026-10-14",
-      "views": "722",
+      "views": "723",
       "note": "0/100 real quick"
     },
     {
       "creator": "freewillridez",
       "url": "https://www.tiktok.com/@freewillridez/video/7696584440163634446",
       "date": "2026-10-14",
-      "views": "603",
+      "views": "605",
       "note": "Gsxr boy doing gsxr things"
     },
     {
       "creator": "spartanh2",
       "url": "https://www.tiktok.com/@spartan.h2/video/7695220229445618975",
       "date": "2026-10-11",
-      "views": "683",
+      "views": "684",
       "note": "EMmeet Group Ride OCTOBER 11TH 3 PM Kickstand up 3:30 PM MICH…"
     },
     {
       "creator": "freewillridez",
       "url": "https://www.tiktok.com/@freewillridez/video/7695150574475529485",
       "date": "2026-10-10",
-      "views": "811",
+      "views": "812",
       "note": "Next Saturday we have our season closer !!! 10/17 65 east Hur…"
     },
     {
       "creator": "freewillridez",
       "url": "https://www.tiktok.com/@freewillridez/video/7694829560801529101",
       "date": "2026-10-10",
-      "views": "512",
+      "views": "513",
       "note": "Fully carbon looks like a praying mantis what does it look li…"
     },
     {
@@ -92,10 +92,17 @@
       "note": "Freewill you wouldn’t understand you still think we’re riding…"
     },
     {
+      "creator": "zhwho",
+      "url": "https://www.tiktok.com/@zh.who/video/7693050656894045471",
+      "date": "2026-10-05",
+      "views": "2.3K",
+      "note": "Who flooded my race track 😔🏍️ Turning this thing into a sup…"
+    },
+    {
       "creator": "freewillridez",
       "url": "https://www.tiktok.com/@freewillridez/video/7693233042827037965",
       "date": "2026-10-05",
-      "views": "690",
+      "views": "691",
       "note": "Gsxr or h2 ?"
     },
     {
@@ -107,20 +114,6 @@
     },
     {
       "creator": "zhwho",
-      "url": "https://www.tiktok.com/@zh.who/video/7693050656894045471",
-      "date": "2026-10-05",
-      "views": "2.3K",
-      "note": "Who flooded my race track 😔🏍️ Turning this thing into a sup…"
-    },
-    {
-      "creator": "freewillridez",
-      "url": "https://www.tiktok.com/@freewillridez/video/7692889116127530254",
-      "date": "2026-10-04",
-      "views": "536",
-      "note": "We the people シ"
-    },
-    {
-      "creator": "zhwho",
       "url": "https://www.tiktok.com/@zh.who/video/7692943661096586527",
       "date": "2026-10-04",
       "views": "258",
@@ -128,9 +121,16 @@
     },
     {
       "creator": "freewillridez",
+      "url": "https://www.tiktok.com/@freewillridez/video/7692889116127530254",
+      "date": "2026-10-04",
+      "views": "538",
+      "note": "We the people シ"
+    },
+    {
+      "creator": "freewillridez",
       "url": "https://www.tiktok.com/@freewillridez/video/7692288918758231310",
       "date": "2026-10-03",
-      "views": "1.7K",
+      "views": "1.8K",
       "note": "Don’t miss this Michigan !!!! Wear a costume and come ride 10…"
     },
     {
@@ -139,6 +139,13 @@
       "date": "2026-10-01",
       "views": "479",
       "note": "When I die, just remember what I did in this community"
+    },
+    {
+      "creator": "zhwho",
+      "url": "https://www.tiktok.com/@zh.who/video/7690417056231001374",
+      "date": "2026-09-28",
+      "views": "3.2K",
+      "note": "1 Police Helicopter , 3 Cop cars 🚔🚓🚨 All for X group ride…"
     },
     {
       "creator": "freewillridez",
@@ -160,13 +167,6 @@
       "date": "2026-09-28",
       "views": "661",
       "note": "Started from the bottom honestly 2 years later look where we…"
-    },
-    {
-      "creator": "zhwho",
-      "url": "https://www.tiktok.com/@zh.who/video/7690417056231001374",
-      "date": "2026-09-28",
-      "views": "3.1K",
-      "note": "1 Police Helicopter , 3 Cop cars 🚔🚓🚨 All for X group ride…"
     },
     {
       "creator": "freewillridez",
@@ -225,6 +225,13 @@
       "note": "🏴‍☠️ Moto Show"
     },
     {
+      "creator": "zhwho",
+      "url": "https://www.tiktok.com/@zh.who/video/7687822801679568159",
+      "date": "2026-09-21",
+      "views": "1.2K",
+      "note": "What bike would you choose? 🏍🔥👀👀 ZH2,H2SX,GSXR1000,ZX14R?…"
+    },
+    {
       "creator": "freewillridez",
       "url": "https://www.tiktok.com/@freewillridez/video/7688043210970647821",
       "date": "2026-09-21",
@@ -240,10 +247,10 @@
     },
     {
       "creator": "zhwho",
-      "url": "https://www.tiktok.com/@zh.who/video/7687822801679568159",
-      "date": "2026-09-21",
-      "views": "1.2K",
-      "note": "What bike would you choose? 🏍🔥👀👀 ZH2,H2SX,GSXR1000,ZX14R?…"
+      "url": "https://www.tiktok.com/@zh.who/video/7687750671885487391",
+      "date": "2026-09-20",
+      "views": "14.5K",
+      "note": "Found my biggest fan at the Moto Show 😆💪 If you missed it p…"
     },
     {
       "creator": "freewillridez",
@@ -260,13 +267,6 @@
       "note": "The Super Moto Show - Import Expo. The Moto Legion. H2 🌸 @𝓜…"
     },
     {
-      "creator": "zhwho",
-      "url": "https://www.tiktok.com/@zh.who/video/7687750671885487391",
-      "date": "2026-09-20",
-      "views": "14.5K",
-      "note": "Found my biggest fan at the Moto Show 😆💪 If you missed it p…"
-    },
-    {
       "creator": "freewillridez",
       "url": "https://www.tiktok.com/@freewillridez/video/7686718402823507213",
       "date": "2026-09-18",
@@ -274,18 +274,18 @@
       "note": "Me & pops going out for a ride"
     },
     {
+      "creator": "zhwho",
+      "url": "https://www.tiktok.com/@zh.who/video/7686189400597777694",
+      "date": "2026-09-16",
+      "views": "28.8K",
+      "note": "Truck crashed and flipped his trailer 🚨😬🫣 Tried to help 🤷…"
+    },
+    {
       "creator": "freewillridez",
       "url": "https://www.tiktok.com/@freewillridez/video/7686185634641317133",
       "date": "2026-09-16",
       "views": "1K",
       "note": "Freewillridez over the last 2 and half years has came down fa…"
-    },
-    {
-      "creator": "zhwho",
-      "url": "https://www.tiktok.com/@zh.who/video/7686189400597777694",
-      "date": "2026-09-16",
-      "views": "28.2K",
-      "note": "Truck crashed and flipped his trailer 🚨😬🫣 Tried to help 🤷…"
     },
     {
       "creator": "freewillridez",
@@ -309,18 +309,18 @@
       "note": "Group ride video coming soon! HUGE TURNOUT 🏴‍☠️ Moto Legion"
     },
     {
-      "creator": "davinci",
-      "url": "https://www.tiktok.com/@davinci_damc/video/7684461566074375454",
-      "date": "2026-09-12",
-      "views": "3K",
-      "note": "Hostile - showing open opposition, unfriendliness, or aggress…"
-    },
-    {
       "creator": "zhwho",
       "url": "https://www.tiktok.com/@zh.who/video/7684766664193330462",
       "date": "2026-09-12",
       "views": "29K",
       "note": "HIT AND RUN AT BIKES ON THE BRICKS FLINT MICHIGAN. FOLLOW FOR…"
+    },
+    {
+      "creator": "davinci",
+      "url": "https://www.tiktok.com/@davinci_damc/video/7684461566074375454",
+      "date": "2026-09-12",
+      "views": "3K",
+      "note": "Hostile - showing open opposition, unfriendliness, or aggress…"
     },
     {
       "creator": "spartanh2",
@@ -333,7 +333,7 @@
       "creator": "spartanh2",
       "url": "https://www.tiktok.com/@spartan.h2/video/7682971179346300190",
       "date": "2026-09-08",
-      "views": "37K",
+      "views": "37.1K",
       "note": "UPDATE 2 ARREST. Lawsuit incomming. He was arrested at the Ca…"
     },
     {
@@ -355,7 +355,7 @@
       "creator": "zhwho",
       "url": "https://www.tiktok.com/@zh.who/video/7682510288125463839",
       "date": "2026-09-06",
-      "views": "57.1K",
+      "views": "57.6K",
       "note": "Semi truck VS ZH2. Close call had me worried 😅✌️"
     },
     {
@@ -404,7 +404,7 @@
       "creator": "zhwho",
       "url": "https://www.tiktok.com/@zh.who/video/7679986876731739423",
       "date": "2026-08-31",
-      "views": "78.9K",
+      "views": "79K",
       "pinned": true,
       "note": "Bros ex left him for a biker so he doesn't like bikes ✌️🥀😅 H2"
     },
@@ -437,18 +437,18 @@
       "note": "Go check out freewillridez.com for your boy"
     },
     {
-      "creator": "freewillridez",
-      "url": "https://www.tiktok.com/@freewillridez/video/7677978225737354510",
-      "date": "2026-08-25",
-      "views": "1.1K",
-      "note": "Michigan!!! our next group ride is this Saturday at 2 PM in P…"
-    },
-    {
       "creator": "zhwho",
       "url": "https://www.tiktok.com/@zh.who/video/7678033875888557342",
       "date": "2026-08-25",
       "views": "1.5K",
       "note": "Boss fight at the Milan Dragway.🏁 Got lucky H2 had the new b…"
+    },
+    {
+      "creator": "freewillridez",
+      "url": "https://www.tiktok.com/@freewillridez/video/7677978225737354510",
+      "date": "2026-08-25",
+      "views": "1.1K",
+      "note": "Michigan!!! our next group ride is this Saturday at 2 PM in P…"
     },
     {
       "creator": "davinci",
@@ -640,18 +640,18 @@
       "note": "Michigan SuperBike Meet 2026"
     },
     {
-      "creator": "freewillridez",
-      "url": "https://www.tiktok.com/@freewillflow/video/7653886864226618637",
-      "date": "2026-06-21",
-      "views": "2K",
-      "note": "New tshirt iv dropped at our last ride out a few tshirt left…"
-    },
-    {
       "creator": "zhwho",
       "url": "https://www.tiktok.com/@zh.who/video/7653891716562390302",
       "date": "2026-06-21",
       "views": "997",
       "note": "First time at the strip: Z900 vs ZH2"
+    },
+    {
+      "creator": "freewillridez",
+      "url": "https://www.tiktok.com/@freewillflow/video/7653886864226618637",
+      "date": "2026-06-21",
+      "views": "2K",
+      "note": "New tshirt iv dropped at our last ride out a few tshirt left…"
     },
     {
       "creator": "freewillridez",
