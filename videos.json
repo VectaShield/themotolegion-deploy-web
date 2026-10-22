@@ -12,7 +12,7 @@
   ],
   "_auto": "This file is auto-refreshed hourly by scripts/refresh-videos.mjs. Hand-edited \"note\" text is preserved by video id (an empty \"\" note stays empty); \"views\"/\"pinned\" are recomputed. New/removed videos and note/pinned/date changes are written on every run; view-count-only changes are written at most every 6 hours to limit deploy churn. _lastRefresh records the last successful write and per-creator fetch health.",
   "_lastRefresh": {
-    "at": "2026-10-22T07:57:14.658Z",
+    "at": "2026-10-22T14:05:55.965Z",
     "ok": {
       "spartanh2": true,
       "zhwho": true,
@@ -25,7 +25,7 @@
       "creator": "freewillridez",
       "url": "https://www.tiktok.com/@freewillridez/video/7698923335912099086",
       "date": "2026-10-21",
-      "views": "499",
+      "views": "514",
       "note": "honestly hate it or love it we still gonna ride 🤣🤣"
     },
     {
@@ -39,7 +39,7 @@
       "creator": "davinci",
       "url": "https://www.tiktok.com/@davinci_damc/video/7698841140971228446",
       "date": "2026-10-20",
-      "views": "386",
+      "views": "397",
       "note": "New lid who did"
     },
     {
@@ -60,7 +60,7 @@
       "creator": "freewillridez",
       "url": "https://www.tiktok.com/@freewillridez/video/7698063641962155278",
       "date": "2026-10-18",
-      "views": "694",
+      "views": "698",
       "note": "Freewillridez season 2 has came to a end i appreciate every o…"
     },
     {
@@ -81,7 +81,7 @@
       "creator": "freewillridez",
       "url": "https://www.tiktok.com/@freewillridez/video/7696625659879230734",
       "date": "2026-10-14",
-      "views": "865",
+      "views": "866",
       "note": "0/100 real quick"
     },
     {
@@ -130,7 +130,7 @@
       "creator": "freewillridez",
       "url": "https://www.tiktok.com/@freewillridez/video/7693233042827037965",
       "date": "2026-10-05",
-      "views": "710",
+      "views": "711",
       "note": "Gsxr or h2 ?"
     },
     {
@@ -207,7 +207,7 @@
       "creator": "davinci",
       "url": "https://www.tiktok.com/@davinci_damc/video/7690236121569119519",
       "date": "2026-09-27",
-      "views": "725",
+      "views": "726",
       "note": "Free will ridez x DTB"
     },
     {
@@ -383,7 +383,7 @@
       "creator": "zhwho",
       "url": "https://www.tiktok.com/@zh.who/video/7682510288125463839",
       "date": "2026-09-06",
-      "views": "60K",
+      "views": "60.1K",
       "note": "Semi truck VS ZH2. Close call had me worried 😅✌️"
     },
     {
