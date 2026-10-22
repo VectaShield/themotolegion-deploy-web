@@ -12,7 +12,7 @@
   ],
   "_auto": "This file is auto-refreshed hourly by scripts/refresh-videos.mjs. Hand-edited \"note\" text is preserved by video id (an empty \"\" note stays empty); \"views\"/\"pinned\" are recomputed. New/removed videos and note/pinned/date changes are written on every run; view-count-only changes are written at most every 6 hours to limit deploy churn. _lastRefresh records the last successful write and per-creator fetch health.",
   "_lastRefresh": {
-    "at": "2026-10-22T14:05:55.965Z",
+    "at": "2026-10-22T18:48:35.722Z",
     "ok": {
       "spartanh2": true,
       "zhwho": true,
@@ -23,9 +23,16 @@
   "videos": [
     {
       "creator": "freewillridez",
+      "url": "https://www.tiktok.com/@freewillridez/video/7699552462696353037",
+      "date": "2026-10-22",
+      "views": "100",
+      "note": "Michigan we ride on last time this Sunday 10/25 12pm and shar…"
+    },
+    {
+      "creator": "freewillridez",
       "url": "https://www.tiktok.com/@freewillridez/video/7698923335912099086",
       "date": "2026-10-21",
-      "views": "514",
+      "views": "524",
       "note": "honestly hate it or love it we still gonna ride 🤣🤣"
     },
     {
@@ -39,7 +46,7 @@
       "creator": "davinci",
       "url": "https://www.tiktok.com/@davinci_damc/video/7698841140971228446",
       "date": "2026-10-20",
-      "views": "397",
+      "views": "403",
       "note": "New lid who did"
     },
     {
@@ -60,7 +67,7 @@
       "creator": "freewillridez",
       "url": "https://www.tiktok.com/@freewillridez/video/7698063641962155278",
       "date": "2026-10-18",
-      "views": "698",
+      "views": "705",
       "note": "Freewillridez season 2 has came to a end i appreciate every o…"
     },
     {
@@ -95,7 +102,7 @@
       "creator": "spartanh2",
       "url": "https://www.tiktok.com/@spartan.h2/video/7695220229445618975",
       "date": "2026-10-11",
-      "views": "696",
+      "views": "699",
       "note": "EMmeet Group Ride OCTOBER 11TH 3 PM Kickstand up 3:30 PM MICH…"
     },
     {
@@ -207,14 +214,14 @@
       "creator": "davinci",
       "url": "https://www.tiktok.com/@davinci_damc/video/7690236121569119519",
       "date": "2026-09-27",
-      "views": "726",
+      "views": "728",
       "note": "Free will ridez x DTB"
     },
     {
       "creator": "davinci",
       "url": "https://www.tiktok.com/@davinci_damc/video/7690235812377660703",
       "date": "2026-09-27",
-      "views": "818",
+      "views": "819",
       "note": "Free will ridez x DTB"
     },
     {
@@ -383,7 +390,7 @@
       "creator": "zhwho",
       "url": "https://www.tiktok.com/@zh.who/video/7682510288125463839",
       "date": "2026-09-06",
-      "views": "60.1K",
+      "views": "60.3K",
       "note": "Semi truck VS ZH2. Close call had me worried 😅✌️"
     },
     {
@@ -496,7 +503,7 @@
       "creator": "davinci",
       "url": "https://www.tiktok.com/@davinci_damc/video/7676950184944766238",
       "date": "2026-08-22",
-      "views": "945",
+      "views": "946",
       "note": "🇮🇹 A tavola non si invecchia🤌"
     },
     {
