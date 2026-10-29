@@ -12,11 +12,11 @@
   ],
   "_auto": "This file is auto-refreshed hourly by scripts/refresh-videos.mjs. Hand-edited \"note\" text is preserved by video id (an empty \"\" note stays empty); \"views\"/\"pinned\" are recomputed. New/removed videos and note/pinned/date changes are written on every run; view-count-only changes are written at most every 6 hours to limit deploy churn. _lastRefresh records the last successful write and per-creator fetch health.",
   "_lastRefresh": {
-    "at": "2026-10-29T00:24:24.453Z",
+    "at": "2026-10-29T06:27:22.031Z",
     "ok": {
       "spartanh2": true,
       "zhwho": true,
-      "freewillridez": true,
+      "freewillridez": false,
       "davinci": true
     }
   },
@@ -81,7 +81,7 @@
       "creator": "davinci",
       "url": "https://www.tiktok.com/@davinci_damc/video/7698841140971228446",
       "date": "2026-10-20",
-      "views": "571",
+      "views": "574",
       "note": "New lid who did"
     },
     {
@@ -137,7 +137,7 @@
       "creator": "spartanh2",
       "url": "https://www.tiktok.com/@spartan.h2/video/7695220229445618975",
       "date": "2026-10-11",
-      "views": "721",
+      "views": "726",
       "note": "EMmeet Group Ride OCTOBER 11TH 3 PM Kickstand up 3:30 PM MICH…"
     },
     {
@@ -169,18 +169,18 @@
       "note": "Who flooded my race track 😔🏍️ Turning this thing into a sup…"
     },
     {
-      "creator": "freewillridez",
-      "url": "https://www.tiktok.com/@freewillridez/video/7693233042827037965",
-      "date": "2026-10-05",
-      "views": "711",
-      "note": "Gsxr or h2 ?"
-    },
-    {
       "creator": "davinci",
       "url": "https://www.tiktok.com/@davinci_damc/video/7693221433459117343",
       "date": "2026-10-05",
       "views": "4.1K",
       "note": "October 11th The Moto Legion presents… H2"
+    },
+    {
+      "creator": "freewillridez",
+      "url": "https://www.tiktok.com/@freewillridez/video/7693233042827037965",
+      "date": "2026-10-05",
+      "views": "711",
+      "note": "Gsxr or h2 ?"
     },
     {
       "creator": "zhwho",
@@ -239,25 +239,25 @@
       "note": "Started from the bottom honestly 2 years later look where we…"
     },
     {
-      "creator": "freewillridez",
-      "url": "https://www.tiktok.com/@freewillridez/video/7690241256068238605",
-      "date": "2026-09-27",
-      "views": "1K",
-      "note": "Yall still don’t believe we run Michigan yet"
-    },
-    {
       "creator": "davinci",
       "url": "https://www.tiktok.com/@davinci_damc/video/7690236121569119519",
       "date": "2026-09-27",
-      "views": "765",
+      "views": "767",
       "note": "Free will ridez x DTB"
     },
     {
       "creator": "davinci",
       "url": "https://www.tiktok.com/@davinci_damc/video/7690235812377660703",
       "date": "2026-09-27",
-      "views": "854",
+      "views": "855",
       "note": "Free will ridez x DTB"
+    },
+    {
+      "creator": "freewillridez",
+      "url": "https://www.tiktok.com/@freewillridez/video/7690241256068238605",
+      "date": "2026-09-27",
+      "views": "1K",
+      "note": "Yall still don’t believe we run Michigan yet"
     },
     {
       "creator": "freewillridez",
@@ -291,7 +291,7 @@
       "creator": "spartanh2",
       "url": "https://www.tiktok.com/@spartan.h2/video/7687781505409617182",
       "date": "2026-09-21",
-      "views": "772",
+      "views": "774",
       "note": "🏴‍☠️ Moto Show"
     },
     {
@@ -323,18 +323,18 @@
       "note": "Found my biggest fan at the Moto Show 😆💪 If you missed it p…"
     },
     {
-      "creator": "freewillridez",
-      "url": "https://www.tiktok.com/@freewillridez/video/7687674599059754254",
-      "date": "2026-09-20",
-      "views": "531",
-      "note": "appreciate you having me fun times with my people !!! 🏴‍☠️ H2"
-    },
-    {
       "creator": "davinci",
       "url": "https://www.tiktok.com/@davinci_damc/video/7687613147095518494",
       "date": "2026-09-20",
       "views": "1.1K",
       "note": "The Super Moto Show - Import Expo. The Moto Legion. H2 🌸 @𝓜…"
+    },
+    {
+      "creator": "freewillridez",
+      "url": "https://www.tiktok.com/@freewillridez/video/7687674599059754254",
+      "date": "2026-09-20",
+      "views": "531",
+      "note": "appreciate you having me fun times with my people !!! 🏴‍☠️ H2"
     },
     {
       "creator": "freewillridez",
@@ -389,7 +389,7 @@
       "creator": "davinci",
       "url": "https://www.tiktok.com/@davinci_damc/video/7684461566074375454",
       "date": "2026-09-12",
-      "views": "3K",
+      "views": "3.1K",
       "note": "Hostile - showing open opposition, unfriendliness, or aggress…"
     },
     {
@@ -425,7 +425,7 @@
       "creator": "zhwho",
       "url": "https://www.tiktok.com/@zh.who/video/7682510288125463839",
       "date": "2026-09-06",
-      "views": "63.1K",
+      "views": "63.3K",
       "note": "Semi truck VS ZH2. Close call had me worried 😅✌️"
     },
     {
@@ -731,18 +731,18 @@
       "note": "(Isaiah 40:11)"
     },
     {
-      "creator": "freewillridez",
-      "url": "https://www.tiktok.com/@freewillflow/video/7652230978059930893",
-      "date": "2026-06-17",
-      "views": "4.4K",
-      "note": "Group rides I’ll forever love"
-    },
-    {
       "creator": "davinci",
       "url": "https://www.tiktok.com/@davinci_damc/video/7652398839013444894",
       "date": "2026-06-17",
       "views": "1.8K",
       "note": "RED - The color of fresh blood and fire, located at the extre…"
+    },
+    {
+      "creator": "freewillridez",
+      "url": "https://www.tiktok.com/@freewillflow/video/7652230978059930893",
+      "date": "2026-06-17",
+      "views": "4.4K",
+      "note": "Group rides I’ll forever love"
     },
     {
       "creator": "freewillridez",
