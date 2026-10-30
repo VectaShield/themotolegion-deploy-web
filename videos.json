@@ -12,7 +12,7 @@
   ],
   "_auto": "This file is auto-refreshed hourly by scripts/refresh-videos.mjs. Hand-edited \"note\" text is preserved by video id (an empty \"\" note stays empty); \"views\"/\"pinned\" are recomputed. New/removed videos and note/pinned/date changes are written on every run; view-count-only changes are written at most every 6 hours to limit deploy churn. _lastRefresh records the last successful write and per-creator fetch health.",
   "_lastRefresh": {
-    "at": "2026-10-30T16:49:30.257Z",
+    "at": "2026-10-30T21:41:31.370Z",
     "ok": {
       "spartanh2": true,
       "zhwho": true,
@@ -22,24 +22,31 @@
   },
   "videos": [
     {
+      "creator": "freewillridez",
+      "url": "https://www.tiktok.com/@freewillridez/video/7702523854937214221",
+      "date": "2026-10-30",
+      "views": "188",
+      "note": "One last group ride before we put the bikes way and call it a…"
+    },
+    {
       "creator": "zhwho",
       "url": "https://www.tiktok.com/@zh.who/video/7702140619048750366",
       "date": "2026-10-29",
-      "views": "550",
+      "views": "565",
       "note": "Buff X Shiftober drift pit was wild ! 🔥 Got some crashes and…"
     },
     {
       "creator": "freewillridez",
       "url": "https://www.tiktok.com/@freewillridez/video/7701414634246458637",
       "date": "2026-10-27",
-      "views": "636",
+      "views": "647",
       "note": "Give props to bro when he does wild shit"
     },
     {
       "creator": "freewillridez",
       "url": "https://www.tiktok.com/@freewillridez/video/7701397888517147917",
       "date": "2026-10-27",
-      "views": "405",
+      "views": "418",
       "note": "Some ones gotta play the role"
     },
     {
@@ -53,14 +60,14 @@
       "creator": "freewillridez",
       "url": "https://www.tiktok.com/@freewillridez/video/7701004627021401357",
       "date": "2026-10-26",
-      "views": "553",
+      "views": "556",
       "note": "10/25 group ride !!! do you know how many damn walk-throughs…"
     },
     {
       "creator": "freewillridez",
       "url": "https://www.tiktok.com/@freewillridez/video/7699918520020241677",
       "date": "2026-10-23",
-      "views": "439",
+      "views": "441",
       "note": "Does it get better then a death missile ummmm NO"
     },
     {
@@ -74,7 +81,7 @@
       "creator": "freewillridez",
       "url": "https://www.tiktok.com/@freewillridez/video/7698923335912099086",
       "date": "2026-10-21",
-      "views": "685",
+      "views": "689",
       "note": "honestly hate it or love it we still gonna ride 🤣🤣"
     },
     {
@@ -102,7 +109,7 @@
       "creator": "freewillridez",
       "url": "https://www.tiktok.com/@freewillridez/video/7698081643524885774",
       "date": "2026-10-18",
-      "views": "605",
+      "views": "607",
       "note": "Freewillridez.com"
     },
     {
@@ -144,7 +151,7 @@
       "creator": "spartanh2",
       "url": "https://www.tiktok.com/@spartan.h2/video/7695220229445618975",
       "date": "2026-10-11",
-      "views": "729",
+      "views": "731",
       "note": "EMmeet Group Ride OCTOBER 11TH 3 PM Kickstand up 3:30 PM MICH…"
     },
     {
@@ -186,7 +193,7 @@
       "creator": "davinci",
       "url": "https://www.tiktok.com/@davinci_damc/video/7693221433459117343",
       "date": "2026-10-05",
-      "views": "4.1K",
+      "views": "4.2K",
       "note": "October 11th The Moto Legion presents… H2"
     },
     {
@@ -256,7 +263,7 @@
       "creator": "davinci",
       "url": "https://www.tiktok.com/@davinci_damc/video/7690236121569119519",
       "date": "2026-09-27",
-      "views": "772",
+      "views": "773",
       "note": "Free will ridez x DTB"
     },
     {
