@@ -12,7 +12,7 @@
   ],
   "_auto": "This file is auto-refreshed hourly by scripts/refresh-videos.mjs. Hand-edited \"note\" text is preserved by video id (an empty \"\" note stays empty); \"views\"/\"pinned\" are recomputed. New/removed videos and note/pinned/date changes are written on every run; view-count-only changes are written at most every 6 hours to limit deploy churn. _lastRefresh records the last successful write and per-creator fetch health.",
   "_lastRefresh": {
-    "at": "2026-10-31T22:48:57.566Z",
+    "at": "2026-11-01T02:33:53.947Z",
     "ok": {
       "spartanh2": true,
       "zhwho": true,
@@ -21,6 +21,13 @@
     }
   },
   "videos": [
+    {
+      "creator": "spartanh2",
+      "url": "https://www.tiktok.com/@spartan.h2/video/7703023326985260319",
+      "date": "2026-11-01",
+      "views": "2",
+      "note": "Halloween Costume Ride with Ms SpartanH2 Clip Cam for all the…"
+    },
     {
       "creator": "freewillridez",
       "url": "https://www.tiktok.com/@freewillridez/video/7702523854937214221",
@@ -39,14 +46,14 @@
       "creator": "freewillridez",
       "url": "https://www.tiktok.com/@freewillridez/video/7701414634246458637",
       "date": "2026-10-27",
-      "views": "671",
+      "views": "678",
       "note": "Give props to bro when he does wild shit"
     },
     {
       "creator": "freewillridez",
       "url": "https://www.tiktok.com/@freewillridez/video/7701397888517147917",
       "date": "2026-10-27",
-      "views": "451",
+      "views": "463",
       "note": "Some ones gotta play the role"
     },
     {
@@ -60,28 +67,28 @@
       "creator": "freewillridez",
       "url": "https://www.tiktok.com/@freewillridez/video/7701004627021401357",
       "date": "2026-10-26",
-      "views": "567",
+      "views": "571",
       "note": "10/25 group ride !!! do you know how many damn walk-throughs…"
     },
     {
       "creator": "freewillridez",
       "url": "https://www.tiktok.com/@freewillridez/video/7699918520020241677",
       "date": "2026-10-23",
-      "views": "448",
+      "views": "450",
       "note": "Does it get better then a death missile ummmm NO"
     },
     {
       "creator": "freewillridez",
       "url": "https://www.tiktok.com/@freewillridez/video/7699552462696353037",
       "date": "2026-10-22",
-      "views": "513",
+      "views": "514",
       "note": "Michigan we ride on last time this Sunday 10/25 12pm and shar…"
     },
     {
       "creator": "freewillridez",
       "url": "https://www.tiktok.com/@freewillridez/video/7698923335912099086",
       "date": "2026-10-21",
-      "views": "705",
+      "views": "708",
       "note": "honestly hate it or love it we still gonna ride 🤣🤣"
     },
     {
@@ -95,7 +102,7 @@
       "creator": "davinci",
       "url": "https://www.tiktok.com/@davinci_damc/video/7698841140971228446",
       "date": "2026-10-20",
-      "views": "593",
+      "views": "594",
       "note": "New lid who did"
     },
     {
@@ -109,14 +116,14 @@
       "creator": "freewillridez",
       "url": "https://www.tiktok.com/@freewillridez/video/7698081643524885774",
       "date": "2026-10-18",
-      "views": "616",
+      "views": "617",
       "note": "Freewillridez.com"
     },
     {
       "creator": "freewillridez",
       "url": "https://www.tiktok.com/@freewillridez/video/7698063641962155278",
       "date": "2026-10-18",
-      "views": "854",
+      "views": "856",
       "note": "Freewillridez season 2 has came to a end i appreciate every o…"
     },
     {
@@ -263,7 +270,7 @@
       "creator": "davinci",
       "url": "https://www.tiktok.com/@davinci_damc/video/7690236121569119519",
       "date": "2026-09-27",
-      "views": "775",
+      "views": "776",
       "note": "Free will ridez x DTB"
     },
     {
@@ -439,7 +446,7 @@
       "creator": "zhwho",
       "url": "https://www.tiktok.com/@zh.who/video/7682510288125463839",
       "date": "2026-09-06",
-      "views": "64K",
+      "views": "64.1K",
       "note": "Semi truck VS ZH2. Close call had me worried 😅✌️"
     },
     {
