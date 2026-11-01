@@ -12,7 +12,7 @@
   ],
   "_auto": "This file is auto-refreshed hourly by scripts/refresh-videos.mjs. Hand-edited \"note\" text is preserved by video id (an empty \"\" note stays empty); \"views\"/\"pinned\" are recomputed. New/removed videos and note/pinned/date changes are written on every run; view-count-only changes are written at most every 6 hours to limit deploy churn. _lastRefresh records the last successful write and per-creator fetch health.",
   "_lastRefresh": {
-    "at": "2026-11-01T16:25:56.135Z",
+    "at": "2026-11-01T20:49:27.792Z",
     "ok": {
       "spartanh2": true,
       "zhwho": true,
@@ -23,10 +23,31 @@
   "videos": [
     {
       "creator": "spartanh2",
+      "url": "https://www.tiktok.com/@spartan.h2/video/7703256441339120926",
+      "date": "2026-11-01",
+      "views": "35.3K",
+      "note": "Halloween Costume Ride with Ms SpartanH2 Clip Cam for all the 👀"
+    },
+    {
+      "creator": "spartanh2",
       "url": "https://www.tiktok.com/@spartan.h2/video/7703023326985260319",
       "date": "2026-11-01",
       "views": "484",
       "note": "Halloween Costume Ride with Ms SpartanH2 Clip Cam for all the…"
+    },
+    {
+      "creator": "zhwho",
+      "url": "https://www.tiktok.com/@zh.who/video/7703284165050961182",
+      "date": "2026-11-01",
+      "views": "375",
+      "note": "Truck almost took out so he hit him with the double pump 🍆💦…"
+    },
+    {
+      "creator": "freewillridez",
+      "url": "https://www.tiktok.com/@freewillridez/video/7703264272737963277",
+      "date": "2026-11-01",
+      "views": "5K",
+      "note": "Michigan lets ride one last time this season !!!! Tuesday Nov…"
     },
     {
       "creator": "freewillridez",
@@ -39,21 +60,21 @@
       "creator": "zhwho",
       "url": "https://www.tiktok.com/@zh.who/video/7702140619048750366",
       "date": "2026-10-29",
-      "views": "600",
+      "views": "602",
       "note": "Buff X Shiftober drift pit was wild ! 🔥 Got some crashes and…"
     },
     {
       "creator": "freewillridez",
       "url": "https://www.tiktok.com/@freewillridez/video/7701414634246458637",
       "date": "2026-10-27",
-      "views": "689",
+      "views": "692",
       "note": "Give props to bro when he does wild shit"
     },
     {
       "creator": "freewillridez",
       "url": "https://www.tiktok.com/@freewillridez/video/7701397888517147917",
       "date": "2026-10-27",
-      "views": "476",
+      "views": "480",
       "note": "Some ones gotta play the role"
     },
     {
@@ -67,28 +88,28 @@
       "creator": "freewillridez",
       "url": "https://www.tiktok.com/@freewillridez/video/7701004627021401357",
       "date": "2026-10-26",
-      "views": "574",
+      "views": "577",
       "note": "10/25 group ride !!! do you know how many damn walk-throughs…"
     },
     {
       "creator": "freewillridez",
       "url": "https://www.tiktok.com/@freewillridez/video/7699918520020241677",
       "date": "2026-10-23",
-      "views": "450",
+      "views": "453",
       "note": "Does it get better then a death missile ummmm NO"
     },
     {
       "creator": "freewillridez",
       "url": "https://www.tiktok.com/@freewillridez/video/7699552462696353037",
       "date": "2026-10-22",
-      "views": "514",
+      "views": "515",
       "note": "Michigan we ride on last time this Sunday 10/25 12pm and shar…"
     },
     {
       "creator": "freewillridez",
       "url": "https://www.tiktok.com/@freewillridez/video/7698923335912099086",
       "date": "2026-10-21",
-      "views": "710",
+      "views": "714",
       "note": "honestly hate it or love it we still gonna ride 🤣🤣"
     },
     {
@@ -102,7 +123,7 @@
       "creator": "davinci",
       "url": "https://www.tiktok.com/@davinci_damc/video/7698841140971228446",
       "date": "2026-10-20",
-      "views": "602",
+      "views": "603",
       "note": "New lid who did"
     },
     {
@@ -116,7 +137,7 @@
       "creator": "freewillridez",
       "url": "https://www.tiktok.com/@freewillridez/video/7698081643524885774",
       "date": "2026-10-18",
-      "views": "618",
+      "views": "620",
       "note": "Freewillridez.com"
     },
     {
@@ -158,7 +179,7 @@
       "creator": "spartanh2",
       "url": "https://www.tiktok.com/@spartan.h2/video/7695220229445618975",
       "date": "2026-10-11",
-      "views": "734",
+      "views": "738",
       "note": "EMmeet Group Ride OCTOBER 11TH 3 PM Kickstand up 3:30 PM MICH…"
     },
     {
@@ -277,7 +298,7 @@
       "creator": "davinci",
       "url": "https://www.tiktok.com/@davinci_damc/video/7690235812377660703",
       "date": "2026-09-27",
-      "views": "861",
+      "views": "862",
       "note": "Free will ridez x DTB"
     },
     {
@@ -312,7 +333,7 @@
       "creator": "spartanh2",
       "url": "https://www.tiktok.com/@spartan.h2/video/7687781505409617182",
       "date": "2026-09-21",
-      "views": "780",
+      "views": "785",
       "note": "🏴‍☠️ Moto Show"
     },
     {
@@ -438,7 +459,7 @@
       "creator": "spartanh2",
       "url": "https://www.tiktok.com/@spartan.h2/video/7682552567355788575",
       "date": "2026-09-06",
-      "views": "156.2K",
+      "views": "156.3K",
       "pinned": true,
       "note": "ARREST UPDATE. Lawsuit incoming. He was arrested at the Cars…"
     },
