@@ -12,15 +12,29 @@
   ],
   "_auto": "This file is auto-refreshed hourly by scripts/refresh-videos.mjs. Hand-edited \"note\" text is preserved by video id (an empty \"\" note stays empty); \"views\"/\"pinned\" are recomputed. New/removed videos and note/pinned/date changes are written on every run; view-count-only changes are written at most every 6 hours to limit deploy churn. _lastRefresh records the last successful write and per-creator fetch health.",
   "_lastRefresh": {
-    "at": "2026-11-01T20:49:27.792Z",
+    "at": "2026-11-02T08:18:44.174Z",
     "ok": {
-      "spartanh2": true,
+      "spartanh2": false,
       "zhwho": true,
       "freewillridez": true,
-      "davinci": true
+      "davinci": false
     }
   },
   "videos": [
+    {
+      "creator": "zhwho",
+      "url": "https://www.tiktok.com/@zh.who/video/7703284165050961182",
+      "date": "2026-11-01",
+      "views": "664",
+      "note": "Truck almost took out so he hit him with the double pump 🍆💦…"
+    },
+    {
+      "creator": "freewillridez",
+      "url": "https://www.tiktok.com/@freewillridez/video/7703264272737963277",
+      "date": "2026-11-01",
+      "views": "9.1K",
+      "note": "Michigan lets ride one last time this season !!!! Tuesday Nov…"
+    },
     {
       "creator": "spartanh2",
       "url": "https://www.tiktok.com/@spartan.h2/video/7703256441339120926",
@@ -36,20 +50,6 @@
       "note": "Halloween Costume Ride with Ms SpartanH2 Clip Cam for all the…"
     },
     {
-      "creator": "zhwho",
-      "url": "https://www.tiktok.com/@zh.who/video/7703284165050961182",
-      "date": "2026-11-01",
-      "views": "375",
-      "note": "Truck almost took out so he hit him with the double pump 🍆💦…"
-    },
-    {
-      "creator": "freewillridez",
-      "url": "https://www.tiktok.com/@freewillridez/video/7703264272737963277",
-      "date": "2026-11-01",
-      "views": "5K",
-      "note": "Michigan lets ride one last time this season !!!! Tuesday Nov…"
-    },
-    {
       "creator": "freewillridez",
       "url": "https://www.tiktok.com/@freewillridez/video/7702523854937214221",
       "date": "2026-10-30",
@@ -60,21 +60,21 @@
       "creator": "zhwho",
       "url": "https://www.tiktok.com/@zh.who/video/7702140619048750366",
       "date": "2026-10-29",
-      "views": "602",
+      "views": "605",
       "note": "Buff X Shiftober drift pit was wild ! 🔥 Got some crashes and…"
     },
     {
       "creator": "freewillridez",
       "url": "https://www.tiktok.com/@freewillridez/video/7701414634246458637",
       "date": "2026-10-27",
-      "views": "692",
+      "views": "700",
       "note": "Give props to bro when he does wild shit"
     },
     {
       "creator": "freewillridez",
       "url": "https://www.tiktok.com/@freewillridez/video/7701397888517147917",
       "date": "2026-10-27",
-      "views": "480",
+      "views": "500",
       "note": "Some ones gotta play the role"
     },
     {
@@ -88,28 +88,28 @@
       "creator": "freewillridez",
       "url": "https://www.tiktok.com/@freewillridez/video/7701004627021401357",
       "date": "2026-10-26",
-      "views": "577",
+      "views": "583",
       "note": "10/25 group ride !!! do you know how many damn walk-throughs…"
     },
     {
       "creator": "freewillridez",
       "url": "https://www.tiktok.com/@freewillridez/video/7699918520020241677",
       "date": "2026-10-23",
-      "views": "453",
+      "views": "457",
       "note": "Does it get better then a death missile ummmm NO"
     },
     {
       "creator": "freewillridez",
       "url": "https://www.tiktok.com/@freewillridez/video/7699552462696353037",
       "date": "2026-10-22",
-      "views": "515",
+      "views": "521",
       "note": "Michigan we ride on last time this Sunday 10/25 12pm and shar…"
     },
     {
       "creator": "freewillridez",
       "url": "https://www.tiktok.com/@freewillridez/video/7698923335912099086",
       "date": "2026-10-21",
-      "views": "714",
+      "views": "725",
       "note": "honestly hate it or love it we still gonna ride 🤣🤣"
     },
     {
@@ -137,7 +137,7 @@
       "creator": "freewillridez",
       "url": "https://www.tiktok.com/@freewillridez/video/7698081643524885774",
       "date": "2026-10-18",
-      "views": "620",
+      "views": "624",
       "note": "Freewillridez.com"
     },
     {
@@ -330,13 +330,6 @@
       "note": "I’ve been in the car community for a very long time and unfor…"
     },
     {
-      "creator": "spartanh2",
-      "url": "https://www.tiktok.com/@spartan.h2/video/7687781505409617182",
-      "date": "2026-09-21",
-      "views": "785",
-      "note": "🏴‍☠️ Moto Show"
-    },
-    {
       "creator": "zhwho",
       "url": "https://www.tiktok.com/@zh.who/video/7687822801679568159",
       "date": "2026-09-21",
@@ -356,6 +349,13 @@
       "date": "2026-09-21",
       "views": "9",
       "note": "Check out the website freewillridez.com"
+    },
+    {
+      "creator": "spartanh2",
+      "url": "https://www.tiktok.com/@spartan.h2/video/7687781505409617182",
+      "date": "2026-09-21",
+      "views": "785",
+      "note": "🏴‍☠️ Moto Show"
     },
     {
       "creator": "zhwho",
@@ -414,18 +414,18 @@
       "note": "FREEWILLRIDEZ DETROITS GROUP RIDE !!!"
     },
     {
-      "creator": "spartanh2",
-      "url": "https://www.tiktok.com/@spartan.h2/video/7684728081977855263",
-      "date": "2026-09-12",
-      "views": "312",
-      "note": "Group ride video coming soon! HUGE TURNOUT 🏴‍☠️ Moto Legion"
-    },
-    {
       "creator": "zhwho",
       "url": "https://www.tiktok.com/@zh.who/video/7684766664193330462",
       "date": "2026-09-12",
       "views": "29K",
       "note": "HIT AND RUN AT BIKES ON THE BRICKS FLINT MICHIGAN. FOLLOW FOR…"
+    },
+    {
+      "creator": "spartanh2",
+      "url": "https://www.tiktok.com/@spartan.h2/video/7684728081977855263",
+      "date": "2026-09-12",
+      "views": "312",
+      "note": "Group ride video coming soon! HUGE TURNOUT 🏴‍☠️ Moto Legion"
     },
     {
       "creator": "davinci",
@@ -442,6 +442,13 @@
       "note": "This event is free. Start: SPEEDWAY 2980 JOHN R RD TROY, MI 4…"
     },
     {
+      "creator": "freewillridez",
+      "url": "https://www.tiktok.com/@freewillridez/video/7683231530944122125",
+      "date": "2026-09-08",
+      "views": "640",
+      "note": "Somewhere up north"
+    },
+    {
       "creator": "spartanh2",
       "url": "https://www.tiktok.com/@spartan.h2/video/7682971179346300190",
       "date": "2026-09-08",
@@ -449,11 +456,11 @@
       "note": "UPDATE 2 ARREST. Lawsuit incomming. He was arrested at the Ca…"
     },
     {
-      "creator": "freewillridez",
-      "url": "https://www.tiktok.com/@freewillridez/video/7683231530944122125",
-      "date": "2026-09-08",
-      "views": "640",
-      "note": "Somewhere up north"
+      "creator": "zhwho",
+      "url": "https://www.tiktok.com/@zh.who/video/7682510288125463839",
+      "date": "2026-09-06",
+      "views": "64.3K",
+      "note": "Semi truck VS ZH2. Close call had me worried 😅✌️"
     },
     {
       "creator": "spartanh2",
@@ -464,25 +471,11 @@
       "note": "ARREST UPDATE. Lawsuit incoming. He was arrested at the Cars…"
     },
     {
-      "creator": "zhwho",
-      "url": "https://www.tiktok.com/@zh.who/video/7682510288125463839",
-      "date": "2026-09-06",
-      "views": "64.3K",
-      "note": "Semi truck VS ZH2. Close call had me worried 😅✌️"
-    },
-    {
       "creator": "freewillridez",
       "url": "https://www.tiktok.com/@freewillridez/video/7681756657210150158",
       "date": "2026-09-04",
       "views": "701",
       "note": "“I’ll finish what you started”"
-    },
-    {
-      "creator": "spartanh2",
-      "url": "https://www.tiktok.com/@spartan.h2/video/7681459595352558878",
-      "date": "2026-09-03",
-      "views": "1K",
-      "note": "SpartanH2 x EMmeet VIP"
     },
     {
       "creator": "freewillridez",
@@ -500,17 +493,17 @@
     },
     {
       "creator": "spartanh2",
+      "url": "https://www.tiktok.com/@spartan.h2/video/7681459595352558878",
+      "date": "2026-09-03",
+      "views": "1K",
+      "note": "SpartanH2 x EMmeet VIP"
+    },
+    {
+      "creator": "spartanh2",
       "url": "https://www.tiktok.com/@spartan.h2/video/7680407256650779935",
       "date": "2026-09-01",
       "views": "393",
       "note": "Fully Suited Up! Watch the H2 time travel to the Group Ride.…"
-    },
-    {
-      "creator": "spartanh2",
-      "url": "https://www.tiktok.com/@spartan.h2/video/7680347177130020126",
-      "date": "2026-08-31",
-      "views": "722",
-      "note": "See at on the 19th of September at Huntington Place, Detroit.…"
     },
     {
       "creator": "zhwho",
@@ -519,6 +512,13 @@
       "views": "79.6K",
       "pinned": true,
       "note": "Bros ex left him for a biker so he doesn't like bikes ✌️🥀😅 H2"
+    },
+    {
+      "creator": "spartanh2",
+      "url": "https://www.tiktok.com/@spartan.h2/video/7680347177130020126",
+      "date": "2026-08-31",
+      "views": "722",
+      "note": "See at on the 19th of September at Huntington Place, Detroit.…"
     },
     {
       "creator": "freewillridez",
@@ -591,6 +591,13 @@
       "note": "FREEWILLRIDEZ NEXT GROUP RIDE IS IN PONTIAC, MICHIGAN, AUGUST…"
     },
     {
+      "creator": "freewillridez",
+      "url": "https://www.tiktok.com/@freewillridez/video/7674680677144612109",
+      "date": "2026-08-16",
+      "views": "762",
+      "note": "Michigan have you not heard of the FREEWILRIDEZ GROUP RIDEZ Y…"
+    },
+    {
       "creator": "spartanh2",
       "url": "https://www.tiktok.com/@spartan.h2/video/7674564326690131231",
       "date": "2026-08-16",
@@ -617,13 +624,6 @@
       "date": "2026-08-16",
       "views": "11.1K",
       "note": "Part 1 Free Will Rides Dream Cruise Woodward Dream Cruise get…"
-    },
-    {
-      "creator": "freewillridez",
-      "url": "https://www.tiktok.com/@freewillridez/video/7674680677144612109",
-      "date": "2026-08-16",
-      "views": "762",
-      "note": "Michigan have you not heard of the FREEWILRIDEZ GROUP RIDEZ Y…"
     },
     {
       "creator": "spartanh2",
@@ -661,18 +661,18 @@
       "note": "The Babadook"
     },
     {
-      "creator": "spartanh2",
-      "url": "https://www.tiktok.com/@spartan.h2/video/7668431413955267870",
-      "date": "2026-07-30",
-      "views": "9.1K",
-      "note": "Stealing Morgan Wallen's girls part 2, the backpack ride"
-    },
-    {
       "creator": "freewillridez",
       "url": "https://www.tiktok.com/@freewillflow/video/7668160214062927118",
       "date": "2026-07-30",
       "views": "815",
       "note": "Love me while I’m here"
+    },
+    {
+      "creator": "spartanh2",
+      "url": "https://www.tiktok.com/@spartan.h2/video/7668431413955267870",
+      "date": "2026-07-30",
+      "views": "9.1K",
+      "note": "Stealing Morgan Wallen's girls part 2, the backpack ride"
     },
     {
       "creator": "zhwho",
@@ -689,6 +689,13 @@
       "note": "You can say what you want about our group rides, but they're…"
     },
     {
+      "creator": "zhwho",
+      "url": "https://www.tiktok.com/@zh.who/video/7667202527334567199",
+      "date": "2026-07-27",
+      "views": "1.1K",
+      "note": "Are we being followed??? Wild night in Detroit, pt. 2"
+    },
+    {
       "creator": "spartanh2",
       "url": "https://www.tiktok.com/@spartan.h2/video/7667101623184854285",
       "date": "2026-07-27",
@@ -701,13 +708,6 @@
       "date": "2026-07-27",
       "views": "9.9K",
       "note": "He's got TWO backpacks!"
-    },
-    {
-      "creator": "zhwho",
-      "url": "https://www.tiktok.com/@zh.who/video/7667202527334567199",
-      "date": "2026-07-27",
-      "views": "1.1K",
-      "note": "Are we being followed??? Wild night in Detroit, pt. 2"
     },
     {
       "creator": "freewillridez",
