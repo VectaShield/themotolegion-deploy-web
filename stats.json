@@ -1,15 +1,17 @@
 {
-  "updated": "2026-11-03T11:12:03.220Z",
+  "updated": "2026-11-03T17:27:18.434Z",
   "creators": {
     "spartanh2": {
       "platforms": {
         "tiktok": {
-          "views": 853564,
-          "likes": 36200,
-          "followers": 5330,
+          "views": 973021,
+          "likes": 42300,
+          "followers": 5540,
           "viewsComplete": true,
           "videosTracked": 22,
-          "videosRefreshedThisRun": 6
+          "videosRefreshedThisRun": 6,
+          "viewsBaseline": 116000,
+          "likesBaseline": 5700
         },
         "youtube": {
           "views": 12184,
@@ -427,16 +429,16 @@
         }
       },
       "totals": {
-        "views": 3031078,
-        "likes": 73162,
-        "followers": 9554
+        "views": 3150535,
+        "likes": 79262,
+        "followers": 9764
       }
     },
     "freewillridez": {
       "platforms": {
         "tiktok": {
-          "views": 911915,
-          "likes": 51500,
+          "views": 912050,
+          "likes": 51600,
           "followers": 1731,
           "viewsComplete": true,
           "videosTracked": 93,
@@ -457,17 +459,17 @@
         }
       },
       "totals": {
-        "views": 911915,
-        "likes": 51500,
+        "views": 912050,
+        "likes": 51600,
         "followers": 3616
       }
     },
     "davinci": {
       "platforms": {
         "tiktok": {
-          "views": 508776,
+          "views": 508812,
           "likes": 33300,
-          "followers": 1911,
+          "followers": 1913,
           "viewsComplete": true,
           "videosTracked": 50,
           "videosRefreshedThisRun": 11
@@ -503,21 +505,20 @@
         }
       },
       "totals": {
-        "views": 508809,
+        "views": 508845,
         "likes": 33300,
-        "followers": 1912
+        "followers": 1914
       }
     },
     "zhwho": {
       "platforms": {
         "tiktok": {
-          "views": 253447,
+          "views": 253480,
           "likes": 10000,
           "followers": 2088,
           "viewsComplete": true,
           "videosTracked": 24,
-          "videosRefreshedThisRun": 11,
-          "stale": true
+          "videosRefreshedThisRun": 11
         },
         "youtube": {
           "views": 89911,
@@ -1013,7 +1014,7 @@
         }
       },
       "totals": {
-        "views": 609211,
+        "views": 609244,
         "likes": 15609,
         "followers": 2517
       }
