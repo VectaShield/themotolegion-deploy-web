@@ -12,15 +12,22 @@
   ],
   "_auto": "This file is auto-refreshed hourly by scripts/refresh-videos.mjs. Hand-edited \"note\" text is preserved by video id (an empty \"\" note stays empty); \"views\"/\"pinned\" are recomputed. New/removed videos and note/pinned/date changes are written on every run; view-count-only changes are written at most every 6 hours to limit deploy churn. _lastRefresh records the last successful write and per-creator fetch health.",
   "_lastRefresh": {
-    "at": "2026-11-03T18:02:07.906Z",
+    "at": "2026-11-03T23:40:29.900Z",
     "ok": {
-      "spartanh2": true,
+      "spartanh2": false,
       "zhwho": true,
-      "freewillridez": true,
-      "davinci": true
+      "freewillridez": false,
+      "davinci": false
     }
   },
   "videos": [
+    {
+      "creator": "zhwho",
+      "url": "https://www.tiktok.com/@zh.who/video/7703284165050961182",
+      "date": "2026-11-01",
+      "views": "823",
+      "note": "Truck almost took out so he hit him with the double pump 🍆💦…"
+    },
     {
       "creator": "spartanh2",
       "url": "https://www.tiktok.com/@spartan.h2/video/7703256441339120926",
@@ -35,13 +42,6 @@
       "date": "2026-11-01",
       "views": "484",
       "note": "Halloween Costume Ride with Ms SpartanH2 Clip Cam for all the…"
-    },
-    {
-      "creator": "zhwho",
-      "url": "https://www.tiktok.com/@zh.who/video/7703284165050961182",
-      "date": "2026-11-01",
-      "views": "808",
-      "note": "Truck almost took out so he hit him with the double pump 🍆💦…"
     },
     {
       "creator": "freewillridez",
@@ -61,7 +61,7 @@
       "creator": "zhwho",
       "url": "https://www.tiktok.com/@zh.who/video/7702140619048750366",
       "date": "2026-10-29",
-      "views": "609",
+      "views": "613",
       "note": "Buff X Shiftober drift pit was wild ! 🔥 Got some crashes and…"
     },
     {
@@ -331,18 +331,18 @@
       "note": "I’ve been in the car community for a very long time and unfor…"
     },
     {
-      "creator": "spartanh2",
-      "url": "https://www.tiktok.com/@spartan.h2/video/7687781505409617182",
-      "date": "2026-09-21",
-      "views": "898",
-      "note": "🏴‍☠️ Moto Show"
-    },
-    {
       "creator": "zhwho",
       "url": "https://www.tiktok.com/@zh.who/video/7687822801679568159",
       "date": "2026-09-21",
       "views": "1.2K",
       "note": "What bike would you choose? 🏍🔥👀👀 ZH2,H2SX,GSXR1000,ZX14R?…"
+    },
+    {
+      "creator": "spartanh2",
+      "url": "https://www.tiktok.com/@spartan.h2/video/7687781505409617182",
+      "date": "2026-09-21",
+      "views": "898",
+      "note": "🏴‍☠️ Moto Show"
     },
     {
       "creator": "freewillridez",
@@ -415,18 +415,18 @@
       "note": "FREEWILLRIDEZ DETROITS GROUP RIDE !!!"
     },
     {
-      "creator": "spartanh2",
-      "url": "https://www.tiktok.com/@spartan.h2/video/7684728081977855263",
-      "date": "2026-09-12",
-      "views": "312",
-      "note": "Group ride video coming soon! HUGE TURNOUT 🏴‍☠️ Moto Legion"
-    },
-    {
       "creator": "zhwho",
       "url": "https://www.tiktok.com/@zh.who/video/7684766664193330462",
       "date": "2026-09-12",
       "views": "29K",
       "note": "HIT AND RUN AT BIKES ON THE BRICKS FLINT MICHIGAN. FOLLOW FOR…"
+    },
+    {
+      "creator": "spartanh2",
+      "url": "https://www.tiktok.com/@spartan.h2/video/7684728081977855263",
+      "date": "2026-09-12",
+      "views": "312",
+      "note": "Group ride video coming soon! HUGE TURNOUT 🏴‍☠️ Moto Legion"
     },
     {
       "creator": "davinci",
@@ -457,18 +457,18 @@
       "note": "Somewhere up north"
     },
     {
-      "creator": "spartanh2",
-      "url": "https://www.tiktok.com/@spartan.h2/video/7682552567355788575",
-      "date": "2026-09-06",
-      "views": "156.5K",
-      "note": "ARREST UPDATE. Lawsuit incoming. He was arrested at the Cars…"
-    },
-    {
       "creator": "zhwho",
       "url": "https://www.tiktok.com/@zh.who/video/7682510288125463839",
       "date": "2026-09-06",
       "views": "64.3K",
       "note": "Semi truck VS ZH2. Close call had me worried 😅✌️"
+    },
+    {
+      "creator": "spartanh2",
+      "url": "https://www.tiktok.com/@spartan.h2/video/7682552567355788575",
+      "date": "2026-09-06",
+      "views": "156.5K",
+      "note": "ARREST UPDATE. Lawsuit incoming. He was arrested at the Cars…"
     },
     {
       "creator": "freewillridez",
@@ -506,19 +506,19 @@
       "note": "Fully Suited Up! Watch the H2 time travel to the Group Ride.…"
     },
     {
-      "creator": "spartanh2",
-      "url": "https://www.tiktok.com/@spartan.h2/video/7680347177130020126",
-      "date": "2026-08-31",
-      "views": "722",
-      "note": "See at on the 19th of September at Huntington Place, Detroit.…"
-    },
-    {
       "creator": "zhwho",
       "url": "https://www.tiktok.com/@zh.who/video/7679986876731739423",
       "date": "2026-08-31",
       "views": "79.6K",
       "pinned": true,
       "note": "Bros ex left him for a biker so he doesn't like bikes ✌️🥀😅 H2"
+    },
+    {
+      "creator": "spartanh2",
+      "url": "https://www.tiktok.com/@spartan.h2/video/7680347177130020126",
+      "date": "2026-08-31",
+      "views": "722",
+      "note": "See at on the 19th of September at Huntington Place, Detroit.…"
     },
     {
       "creator": "freewillridez",
@@ -689,6 +689,13 @@
       "note": "You can say what you want about our group rides, but they're…"
     },
     {
+      "creator": "zhwho",
+      "url": "https://www.tiktok.com/@zh.who/video/7667202527334567199",
+      "date": "2026-07-27",
+      "views": "1.1K",
+      "note": "Are we being followed??? Wild night in Detroit, pt. 2"
+    },
+    {
       "creator": "spartanh2",
       "url": "https://www.tiktok.com/@spartan.h2/video/7667101623184854285",
       "date": "2026-07-27",
@@ -701,13 +708,6 @@
       "date": "2026-07-27",
       "views": "9.9K",
       "note": "He's got TWO backpacks!"
-    },
-    {
-      "creator": "zhwho",
-      "url": "https://www.tiktok.com/@zh.who/video/7667202527334567199",
-      "date": "2026-07-27",
-      "views": "1.1K",
-      "note": "Are we being followed??? Wild night in Detroit, pt. 2"
     },
     {
       "creator": "freewillridez",
