@@ -1,18 +1,17 @@
 {
-  "updated": "2026-11-04T09:10:23.005Z",
+  "updated": "2026-11-04T13:33:04.424Z",
   "creators": {
     "spartanh2": {
       "platforms": {
         "tiktok": {
-          "views": 973021,
-          "likes": 42300,
-          "followers": 5540,
+          "views": 973221,
+          "likes": 43600,
+          "followers": 6170,
           "viewsComplete": true,
           "videosTracked": 22,
-          "videosRefreshedThisRun": 6,
+          "videosRefreshedThisRun": 5,
           "viewsBaseline": 116000,
-          "likesBaseline": 5700,
-          "stale": true
+          "likesBaseline": 5700
         },
         "youtube": {
           "views": 12193,
@@ -183,7 +182,7 @@
           "views": 874300,
           "likes": 20989,
           "likesComplete": true,
-          "followers": 1225,
+          "followers": 1237,
           "posts": 23,
           "posts_detail": [
             {
@@ -427,26 +426,24 @@
               "cached": true
             }
           ],
-          "viewsManual": true,
-          "stale": true
+          "viewsManual": true
         }
       },
       "totals": {
-        "views": 3150873,
-        "likes": 79267,
-        "followers": 9763
+        "views": 3151073,
+        "likes": 80567,
+        "followers": 10405
       }
     },
     "freewillridez": {
       "platforms": {
         "tiktok": {
-          "views": 912173,
+          "views": 912473,
           "likes": 51600,
-          "followers": 1731,
+          "followers": 1736,
           "viewsComplete": true,
           "videosTracked": 93,
-          "videosRefreshedThisRun": 12,
-          "stale": true
+          "videosRefreshedThisRun": 11
         },
         "rumble": {
           "views": null,
@@ -463,9 +460,9 @@
         }
       },
       "totals": {
-        "views": 912173,
+        "views": 912473,
         "likes": 51600,
-        "followers": 3616
+        "followers": 3621
       }
     },
     "davinci": {
@@ -476,7 +473,8 @@
           "followers": 1966,
           "viewsComplete": true,
           "videosTracked": 51,
-          "videosRefreshedThisRun": 11
+          "videosRefreshedThisRun": 11,
+          "stale": true
         },
         "youtube": {
           "views": 33,
@@ -505,8 +503,7 @@
           "viewsUnavailable": "Instagram exposes no public view/play counts and no lifetime-views metric",
           "likes": null,
           "followers": 1,
-          "posts": 0,
-          "stale": true
+          "posts": 0
         }
       },
       "totals": {
@@ -518,7 +515,7 @@
     "zhwho": {
       "platforms": {
         "tiktok": {
-          "views": 253584,
+          "views": 253599,
           "likes": 10100,
           "followers": 2090,
           "viewsComplete": true,
@@ -754,14 +751,14 @@
         },
         "instagram": {
           "views": 148874,
-          "likes": 2826,
+          "likes": 2831,
           "likesComplete": false,
-          "followers": 176,
+          "followers": 179,
           "posts": 38,
           "posts_detail": [
             {
               "shortcode": "DfOoLEtRtBn",
-              "likes": 23,
+              "likes": 25,
               "comments": 7,
               "date": "2026-11-02",
               "owner": "ninjaplzzzz",
@@ -769,7 +766,7 @@
             },
             {
               "shortcode": "DfNk3GaBxLz",
-              "likes": 78,
+              "likes": 79,
               "comments": 4,
               "date": "2026-11-01",
               "owner": "spartanh2",
@@ -777,8 +774,8 @@
             },
             {
               "shortcode": "DfNkqLEhSqL",
-              "likes": 15,
-              "comments": 2,
+              "likes": 17,
+              "comments": 3,
               "date": "2026-11-01",
               "owner": "ninjaplzzzz",
               "exact": true
@@ -1009,14 +1006,13 @@
               "cached": true
             }
           ],
-          "viewsManual": true,
-          "stale": true
+          "viewsManual": true
         }
       },
       "totals": {
-        "views": 610707,
-        "likes": 15711,
-        "followers": 2519
+        "views": 610722,
+        "likes": 15716,
+        "followers": 2522
       }
     }
   }
