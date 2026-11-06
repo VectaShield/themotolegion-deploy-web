@@ -12,7 +12,7 @@
   ],
   "_auto": "This file is auto-refreshed hourly by scripts/refresh-videos.mjs. Hand-edited \"note\" text is preserved by video id (an empty \"\" note stays empty); \"views\"/\"pinned\" are recomputed. New/removed videos and note/pinned/date changes are written on every run; view-count-only changes are written at most every 6 hours to limit deploy churn. _lastRefresh records the last successful write and per-creator fetch health.",
   "_lastRefresh": {
-    "at": "2026-11-06T11:29:12.553Z",
+    "at": "2026-11-06T18:27:00.919Z",
     "ok": {
       "spartanh2": true,
       "zhwho": true,
@@ -25,7 +25,7 @@
       "creator": "freewillridez",
       "url": "https://www.tiktok.com/@freewillridez/video/7704885188924427533",
       "date": "2026-11-06",
-      "views": "464",
+      "views": "553",
       "note": "Minds on other things my bad I missed the shift"
     },
     {
@@ -39,21 +39,21 @@
       "creator": "freewillridez",
       "url": "https://www.tiktok.com/@freewillridez/video/7704745796700245262",
       "date": "2026-11-05",
-      "views": "701",
+      "views": "746",
       "note": "Imagine living in Michigan, and not being a part of this free…"
     },
     {
       "creator": "freewillridez",
       "url": "https://www.tiktok.com/@freewillridez/video/7704394831698742542",
       "date": "2026-11-04",
-      "views": "724",
+      "views": "841",
       "note": "Random Tuesday with the gang"
     },
     {
       "creator": "freewillridez",
       "url": "https://www.tiktok.com/@freewillridez/video/7704394539674455309",
       "date": "2026-11-04",
-      "views": "797",
+      "views": "856",
       "note": "Random Tuesday in Michigan 😈"
     },
     {
@@ -82,7 +82,7 @@
       "creator": "zhwho",
       "url": "https://www.tiktok.com/@zh.who/video/7703284165050961182",
       "date": "2026-11-01",
-      "views": "891",
+      "views": "896",
       "note": "Truck almost took out so he hit him with the double pump 🍆💦…"
     },
     {
@@ -103,21 +103,21 @@
       "creator": "zhwho",
       "url": "https://www.tiktok.com/@zh.who/video/7702140619048750366",
       "date": "2026-10-29",
-      "views": "623",
+      "views": "625",
       "note": "Buff X Shiftober drift pit was wild ! 🔥 Got some crashes and…"
     },
     {
       "creator": "freewillridez",
       "url": "https://www.tiktok.com/@freewillridez/video/7701414634246458637",
       "date": "2026-10-27",
-      "views": "962",
+      "views": "965",
       "note": "Give props to bro when he does wild shit"
     },
     {
       "creator": "freewillridez",
       "url": "https://www.tiktok.com/@freewillridez/video/7701397888517147917",
       "date": "2026-10-27",
-      "views": "672",
+      "views": "675",
       "note": "Some ones gotta play the role"
     },
     {
@@ -131,14 +131,14 @@
       "creator": "freewillridez",
       "url": "https://www.tiktok.com/@freewillridez/video/7701004627021401357",
       "date": "2026-10-26",
-      "views": "683",
+      "views": "686",
       "note": "10/25 group ride !!! do you know how many damn walk-throughs…"
     },
     {
       "creator": "freewillridez",
       "url": "https://www.tiktok.com/@freewillridez/video/7699918520020241677",
       "date": "2026-10-23",
-      "views": "527",
+      "views": "528",
       "note": "Does it get better then a death missile ummmm NO"
     },
     {
@@ -166,7 +166,7 @@
       "creator": "davinci",
       "url": "https://www.tiktok.com/@davinci_damc/video/7698841140971228446",
       "date": "2026-10-20",
-      "views": "725",
+      "views": "730",
       "note": "New lid who did"
     },
     {
@@ -222,7 +222,7 @@
       "creator": "spartanh2",
       "url": "https://www.tiktok.com/@spartan.h2/video/7695220229445618975",
       "date": "2026-10-11",
-      "views": "966",
+      "views": "968",
       "note": "EMmeet Group Ride OCTOBER 11TH 3 PM Kickstand up 3:30 PM MICH…"
     },
     {
@@ -334,14 +334,14 @@
       "creator": "davinci",
       "url": "https://www.tiktok.com/@davinci_damc/video/7690236121569119519",
       "date": "2026-09-27",
-      "views": "845",
+      "views": "848",
       "note": "Free will ridez x DTB"
     },
     {
       "creator": "davinci",
       "url": "https://www.tiktok.com/@davinci_damc/video/7690235812377660703",
       "date": "2026-09-27",
-      "views": "918",
+      "views": "922",
       "note": "Free will ridez x DTB"
     },
     {
@@ -376,7 +376,7 @@
       "creator": "spartanh2",
       "url": "https://www.tiktok.com/@spartan.h2/video/7687781505409617182",
       "date": "2026-09-21",
-      "views": "996",
+      "views": "998",
       "note": "🏴‍☠️ Moto Show"
     },
     {
@@ -488,7 +488,7 @@
       "creator": "spartanh2",
       "url": "https://www.tiktok.com/@spartan.h2/video/7682971179346300190",
       "date": "2026-09-08",
-      "views": "37.8K",
+      "views": "37.9K",
       "note": "UPDATE 2 ARREST. Lawsuit incomming. He was arrested at the Ca…"
     },
     {
