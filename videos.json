@@ -12,7 +12,7 @@
   ],
   "_auto": "This file is auto-refreshed hourly by scripts/refresh-videos.mjs. Hand-edited \"note\" text is preserved by video id (an empty \"\" note stays empty); \"views\"/\"pinned\" are recomputed. New/removed videos and note/pinned/date changes are written on every run; view-count-only changes are written at most every 6 hours to limit deploy churn. _lastRefresh records the last successful write and per-creator fetch health.",
   "_lastRefresh": {
-    "at": "2026-11-09T12:07:14.497Z",
+    "at": "2026-11-09T22:41:49.207Z",
     "ok": {
       "spartanh2": true,
       "zhwho": true,
@@ -25,7 +25,7 @@
       "creator": "freewillridez",
       "url": "https://www.tiktok.com/@freewillridez/video/7704885188924427533",
       "date": "2026-11-06",
-      "views": "811",
+      "views": "831",
       "note": "Minds on other things my bad I missed the shift"
     },
     {
@@ -82,7 +82,7 @@
       "creator": "zhwho",
       "url": "https://www.tiktok.com/@zh.who/video/7703284165050961182",
       "date": "2026-11-01",
-      "views": "965",
+      "views": "969",
       "note": "Truck almost took out so he hit him with the double pump 🍆💦…"
     },
     {
@@ -103,7 +103,7 @@
       "creator": "zhwho",
       "url": "https://www.tiktok.com/@zh.who/video/7702140619048750366",
       "date": "2026-10-29",
-      "views": "630",
+      "views": "631",
       "note": "Buff X Shiftober drift pit was wild ! 🔥 Got some crashes and…"
     },
     {
@@ -117,7 +117,7 @@
       "creator": "freewillridez",
       "url": "https://www.tiktok.com/@freewillridez/video/7701397888517147917",
       "date": "2026-10-27",
-      "views": "707",
+      "views": "709",
       "note": "Some ones gotta play the role"
     },
     {
@@ -131,7 +131,7 @@
       "creator": "freewillridez",
       "url": "https://www.tiktok.com/@freewillridez/video/7701004627021401357",
       "date": "2026-10-26",
-      "views": "718",
+      "views": "721",
       "note": "10/25 group ride !!! do you know how many damn walk-throughs…"
     },
     {
@@ -166,7 +166,7 @@
       "creator": "davinci",
       "url": "https://www.tiktok.com/@davinci_damc/video/7698841140971228446",
       "date": "2026-10-20",
-      "views": "765",
+      "views": "769",
       "note": "New lid who did"
     },
     {
@@ -502,7 +502,7 @@
       "creator": "spartanh2",
       "url": "https://www.tiktok.com/@spartan.h2/video/7682552567355788575",
       "date": "2026-09-06",
-      "views": "175.7K",
+      "views": "180.4K",
       "note": "ARREST UPDATE. Lawsuit incoming. He was arrested at the Cars…"
     },
     {
