@@ -12,7 +12,7 @@
   ],
   "_auto": "This file is auto-refreshed hourly by scripts/refresh-videos.mjs. Hand-edited \"note\" text is preserved by video id (an empty \"\" note stays empty); \"views\"/\"pinned\" are recomputed. New/removed videos and note/pinned/date changes are written on every run; view-count-only changes are written at most every 6 hours to limit deploy churn. _lastRefresh records the last successful write and per-creator fetch health.",
   "_lastRefresh": {
-    "at": "2026-11-10T12:58:37.598Z",
+    "at": "2026-11-10T20:36:02.499Z",
     "ok": {
       "spartanh2": true,
       "zhwho": true,
@@ -25,7 +25,7 @@
       "creator": "freewillridez",
       "url": "https://www.tiktok.com/@freewillridez/video/7704885188924427533",
       "date": "2026-11-06",
-      "views": "890",
+      "views": "921",
       "note": "Minds on other things my bad I missed the shift"
     },
     {
@@ -39,21 +39,21 @@
       "creator": "freewillridez",
       "url": "https://www.tiktok.com/@freewillridez/video/7704745796700245262",
       "date": "2026-11-05",
-      "views": "1K",
+      "views": "1.1K",
       "note": "Imagine living in Michigan, and not being a part of this free…"
     },
     {
       "creator": "freewillridez",
       "url": "https://www.tiktok.com/@freewillridez/video/7704394831698742542",
       "date": "2026-11-04",
-      "views": "1.2K",
+      "views": "1.3K",
       "note": "Random Tuesday with the gang"
     },
     {
       "creator": "freewillridez",
       "url": "https://www.tiktok.com/@freewillridez/video/7704394539674455309",
       "date": "2026-11-04",
-      "views": "1.4K",
+      "views": "1.5K",
       "note": "Random Tuesday in Michigan 😈"
     },
     {
@@ -82,7 +82,7 @@
       "creator": "zhwho",
       "url": "https://www.tiktok.com/@zh.who/video/7703284165050961182",
       "date": "2026-11-01",
-      "views": "976",
+      "views": "981",
       "note": "Truck almost took out so he hit him with the double pump 🍆💦…"
     },
     {
@@ -117,7 +117,7 @@
       "creator": "freewillridez",
       "url": "https://www.tiktok.com/@freewillridez/video/7701397888517147917",
       "date": "2026-10-27",
-      "views": "717",
+      "views": "718",
       "note": "Some ones gotta play the role"
     },
     {
@@ -131,14 +131,14 @@
       "creator": "freewillridez",
       "url": "https://www.tiktok.com/@freewillridez/video/7701004627021401357",
       "date": "2026-10-26",
-      "views": "727",
+      "views": "729",
       "note": "10/25 group ride !!! do you know how many damn walk-throughs…"
     },
     {
       "creator": "freewillridez",
       "url": "https://www.tiktok.com/@freewillridez/video/7699918520020241677",
       "date": "2026-10-23",
-      "views": "550",
+      "views": "552",
       "note": "Does it get better then a death missile ummmm NO"
     },
     {
@@ -166,7 +166,7 @@
       "creator": "davinci",
       "url": "https://www.tiktok.com/@davinci_damc/video/7698841140971228446",
       "date": "2026-10-20",
-      "views": "776",
+      "views": "780",
       "note": "New lid who did"
     },
     {
@@ -334,14 +334,14 @@
       "creator": "davinci",
       "url": "https://www.tiktok.com/@davinci_damc/video/7690236121569119519",
       "date": "2026-09-27",
-      "views": "867",
+      "views": "873",
       "note": "Free will ridez x DTB"
     },
     {
       "creator": "davinci",
       "url": "https://www.tiktok.com/@davinci_damc/video/7690235812377660703",
       "date": "2026-09-27",
-      "views": "942",
+      "views": "943",
       "note": "Free will ridez x DTB"
     },
     {
@@ -460,7 +460,7 @@
       "creator": "spartanh2",
       "url": "https://www.tiktok.com/@spartan.h2/video/7684728081977855263",
       "date": "2026-09-12",
-      "views": "312",
+      "views": "367",
       "note": "Group ride video coming soon! HUGE TURNOUT 🏴‍☠️ Moto Legion"
     },
     {
@@ -474,14 +474,14 @@
       "creator": "davinci",
       "url": "https://www.tiktok.com/@davinci_damc/video/7684461566074375454",
       "date": "2026-09-12",
-      "views": "3.2K",
+      "views": "3.3K",
       "note": "Hostile - showing open opposition, unfriendliness, or aggress…"
     },
     {
       "creator": "spartanh2",
       "url": "https://www.tiktok.com/@spartan.h2/video/7684134926563757342",
       "date": "2026-09-11",
-      "views": "462",
+      "views": "493",
       "note": "This event is free. Start: SPEEDWAY 2980 JOHN R RD TROY, MI 4…"
     },
     {
@@ -544,7 +544,7 @@
       "creator": "spartanh2",
       "url": "https://www.tiktok.com/@spartan.h2/video/7680407256650779935",
       "date": "2026-09-01",
-      "views": "393",
+      "views": "422",
       "note": "Fully Suited Up! Watch the H2 time travel to the Group Ride.…"
     },
     {
