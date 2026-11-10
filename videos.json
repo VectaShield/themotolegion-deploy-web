@@ -12,7 +12,7 @@
   ],
   "_auto": "This file is auto-refreshed hourly by scripts/refresh-videos.mjs. Hand-edited \"note\" text is preserved by video id (an empty \"\" note stays empty); \"views\"/\"pinned\" are recomputed. New/removed videos and note/pinned/date changes are written on every run; view-count-only changes are written at most every 6 hours to limit deploy churn. _lastRefresh records the last successful write and per-creator fetch health.",
   "_lastRefresh": {
-    "at": "2026-11-09T22:41:49.207Z",
+    "at": "2026-11-10T12:58:37.598Z",
     "ok": {
       "spartanh2": true,
       "zhwho": true,
@@ -25,7 +25,7 @@
       "creator": "freewillridez",
       "url": "https://www.tiktok.com/@freewillridez/video/7704885188924427533",
       "date": "2026-11-06",
-      "views": "831",
+      "views": "890",
       "note": "Minds on other things my bad I missed the shift"
     },
     {
@@ -53,14 +53,14 @@
       "creator": "freewillridez",
       "url": "https://www.tiktok.com/@freewillridez/video/7704394539674455309",
       "date": "2026-11-04",
-      "views": "1.3K",
+      "views": "1.4K",
       "note": "Random Tuesday in Michigan 😈"
     },
     {
       "creator": "davinci",
       "url": "https://www.tiktok.com/@davinci_damc/video/7704029423460273439",
       "date": "2026-11-03",
-      "views": "3K",
+      "views": "3.1K",
       "note": "70 degrees in Michigan"
     },
     {
@@ -82,7 +82,7 @@
       "creator": "zhwho",
       "url": "https://www.tiktok.com/@zh.who/video/7703284165050961182",
       "date": "2026-11-01",
-      "views": "969",
+      "views": "976",
       "note": "Truck almost took out so he hit him with the double pump 🍆💦…"
     },
     {
@@ -103,7 +103,7 @@
       "creator": "zhwho",
       "url": "https://www.tiktok.com/@zh.who/video/7702140619048750366",
       "date": "2026-10-29",
-      "views": "631",
+      "views": "632",
       "note": "Buff X Shiftober drift pit was wild ! 🔥 Got some crashes and…"
     },
     {
@@ -117,7 +117,7 @@
       "creator": "freewillridez",
       "url": "https://www.tiktok.com/@freewillridez/video/7701397888517147917",
       "date": "2026-10-27",
-      "views": "709",
+      "views": "717",
       "note": "Some ones gotta play the role"
     },
     {
@@ -131,14 +131,14 @@
       "creator": "freewillridez",
       "url": "https://www.tiktok.com/@freewillridez/video/7701004627021401357",
       "date": "2026-10-26",
-      "views": "721",
+      "views": "727",
       "note": "10/25 group ride !!! do you know how many damn walk-throughs…"
     },
     {
       "creator": "freewillridez",
       "url": "https://www.tiktok.com/@freewillridez/video/7699918520020241677",
       "date": "2026-10-23",
-      "views": "545",
+      "views": "550",
       "note": "Does it get better then a death missile ummmm NO"
     },
     {
@@ -166,7 +166,7 @@
       "creator": "davinci",
       "url": "https://www.tiktok.com/@davinci_damc/video/7698841140971228446",
       "date": "2026-10-20",
-      "views": "769",
+      "views": "776",
       "note": "New lid who did"
     },
     {
@@ -334,14 +334,14 @@
       "creator": "davinci",
       "url": "https://www.tiktok.com/@davinci_damc/video/7690236121569119519",
       "date": "2026-09-27",
-      "views": "866",
+      "views": "867",
       "note": "Free will ridez x DTB"
     },
     {
       "creator": "davinci",
       "url": "https://www.tiktok.com/@davinci_damc/video/7690235812377660703",
       "date": "2026-09-27",
-      "views": "940",
+      "views": "942",
       "note": "Free will ridez x DTB"
     },
     {
@@ -418,7 +418,7 @@
       "creator": "davinci",
       "url": "https://www.tiktok.com/@davinci_damc/video/7687613147095518494",
       "date": "2026-09-20",
-      "views": "1.1K",
+      "views": "1.2K",
       "note": "The Super Moto Show - Import Expo. The Moto Legion. H2 🌸 @𝓜…"
     },
     {
@@ -502,7 +502,7 @@
       "creator": "spartanh2",
       "url": "https://www.tiktok.com/@spartan.h2/video/7682552567355788575",
       "date": "2026-09-06",
-      "views": "180.4K",
+      "views": "183.1K",
       "note": "ARREST UPDATE. Lawsuit incoming. He was arrested at the Cars…"
     },
     {
