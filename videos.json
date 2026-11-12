@@ -12,7 +12,7 @@
   ],
   "_auto": "This file is auto-refreshed hourly by scripts/refresh-videos.mjs. Hand-edited \"note\" text is preserved by video id (an empty \"\" note stays empty); \"views\"/\"pinned\" are recomputed. New/removed videos and note/pinned/date changes are written on every run; view-count-only changes are written at most every 6 hours to limit deploy churn. _lastRefresh records the last successful write and per-creator fetch health.",
   "_lastRefresh": {
-    "at": "2026-11-11T23:02:59.440Z",
+    "at": "2026-11-12T04:14:16.609Z",
     "ok": {
       "spartanh2": true,
       "zhwho": true,
@@ -22,10 +22,17 @@
   },
   "videos": [
     {
+      "creator": "zhwho",
+      "url": "https://www.tiktok.com/@zh.who/video/7707068894841769229",
+      "date": "2026-11-12",
+      "views": "82",
+      "note": "Sneak peaks from our photoshoot in Graffiti ally , more to co…"
+    },
+    {
       "creator": "freewillridez",
       "url": "https://www.tiktok.com/@freewillridez/video/7704885188924427533",
       "date": "2026-11-06",
-      "views": "970",
+      "views": "972",
       "note": "Minds on other things my bad I missed the shift"
     },
     {
@@ -117,7 +124,7 @@
       "creator": "freewillridez",
       "url": "https://www.tiktok.com/@freewillridez/video/7701397888517147917",
       "date": "2026-10-27",
-      "views": "725",
+      "views": "727",
       "note": "Some ones gotta play the role"
     },
     {
@@ -131,14 +138,14 @@
       "creator": "freewillridez",
       "url": "https://www.tiktok.com/@freewillridez/video/7701004627021401357",
       "date": "2026-10-26",
-      "views": "737",
+      "views": "738",
       "note": "10/25 group ride !!! do you know how many damn walk-throughs…"
     },
     {
       "creator": "freewillridez",
       "url": "https://www.tiktok.com/@freewillridez/video/7699918520020241677",
       "date": "2026-10-23",
-      "views": "559",
+      "views": "560",
       "note": "Does it get better then a death missile ummmm NO"
     },
     {
