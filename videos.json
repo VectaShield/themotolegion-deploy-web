@@ -12,7 +12,7 @@
   ],
   "_auto": "This file is auto-refreshed hourly by scripts/refresh-videos.mjs. Hand-edited \"note\" text is preserved by video id (an empty \"\" note stays empty); \"views\"/\"pinned\" are recomputed. New/removed videos and note/pinned/date changes are written on every run; view-count-only changes are written at most every 6 hours to limit deploy churn. _lastRefresh records the last successful write and per-creator fetch health.",
   "_lastRefresh": {
-    "at": "2026-11-13T09:58:30.548Z",
+    "at": "2026-11-13T18:03:07.941Z",
     "ok": {
       "spartanh2": true,
       "zhwho": true,
@@ -25,7 +25,7 @@
       "creator": "zhwho",
       "url": "https://www.tiktok.com/@zh.who/video/7707068894841769229",
       "date": "2026-11-12",
-      "views": "158",
+      "views": "193",
       "note": "Sneak peaks from our photoshoot in Graffiti ally , more to co…"
     },
     {
@@ -60,14 +60,14 @@
       "creator": "freewillridez",
       "url": "https://www.tiktok.com/@freewillridez/video/7704394539674455309",
       "date": "2026-11-04",
-      "views": "1.6K",
+      "views": "1.7K",
       "note": "Random Tuesday in Michigan 😈"
     },
     {
       "creator": "davinci",
       "url": "https://www.tiktok.com/@davinci_damc/video/7704029423460273439",
       "date": "2026-11-03",
-      "views": "3.1K",
+      "views": "3.2K",
       "note": "70 degrees in Michigan"
     },
     {
@@ -124,7 +124,7 @@
       "creator": "freewillridez",
       "url": "https://www.tiktok.com/@freewillridez/video/7701397888517147917",
       "date": "2026-10-27",
-      "views": "731",
+      "views": "732",
       "note": "Some ones gotta play the role"
     },
     {
@@ -341,7 +341,7 @@
       "creator": "davinci",
       "url": "https://www.tiktok.com/@davinci_damc/video/7690236121569119519",
       "date": "2026-09-27",
-      "views": "887",
+      "views": "888",
       "note": "Free will ridez x DTB"
     },
     {
@@ -551,7 +551,7 @@
       "creator": "spartanh2",
       "url": "https://www.tiktok.com/@spartan.h2/video/7680407256650779935",
       "date": "2026-09-01",
-      "views": "423",
+      "views": "424",
       "note": "Fully Suited Up! Watch the H2 time travel to the Group Ride.…"
     },
     {
