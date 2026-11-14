@@ -12,7 +12,7 @@
   ],
   "_auto": "This file is auto-refreshed hourly by scripts/refresh-videos.mjs. Hand-edited \"note\" text is preserved by video id (an empty \"\" note stays empty); \"views\"/\"pinned\" are recomputed. New/removed videos and note/pinned/date changes are written on every run; view-count-only changes are written at most every 6 hours to limit deploy churn. _lastRefresh records the last successful write and per-creator fetch health.",
   "_lastRefresh": {
-    "at": "2026-11-13T18:03:07.941Z",
+    "at": "2026-11-14T07:00:26.205Z",
     "ok": {
       "spartanh2": true,
       "zhwho": true,
@@ -25,7 +25,7 @@
       "creator": "zhwho",
       "url": "https://www.tiktok.com/@zh.who/video/7707068894841769229",
       "date": "2026-11-12",
-      "views": "193",
+      "views": "222",
       "note": "Sneak peaks from our photoshoot in Graffiti ally , more to co…"
     },
     {
@@ -89,7 +89,7 @@
       "creator": "zhwho",
       "url": "https://www.tiktok.com/@zh.who/video/7703284165050961182",
       "date": "2026-11-01",
-      "views": "998",
+      "views": "1K",
       "note": "Truck almost took out so he hit him with the double pump 🍆💦…"
     },
     {
@@ -124,7 +124,7 @@
       "creator": "freewillridez",
       "url": "https://www.tiktok.com/@freewillridez/video/7701397888517147917",
       "date": "2026-10-27",
-      "views": "732",
+      "views": "736",
       "note": "Some ones gotta play the role"
     },
     {
@@ -138,7 +138,7 @@
       "creator": "freewillridez",
       "url": "https://www.tiktok.com/@freewillridez/video/7701004627021401357",
       "date": "2026-10-26",
-      "views": "740",
+      "views": "742",
       "note": "10/25 group ride !!! do you know how many damn walk-throughs…"
     },
     {
@@ -173,7 +173,7 @@
       "creator": "davinci",
       "url": "https://www.tiktok.com/@davinci_damc/video/7698841140971228446",
       "date": "2026-10-20",
-      "views": "793",
+      "views": "795",
       "note": "New lid who did"
     },
     {
@@ -201,7 +201,7 @@
       "creator": "zhwho",
       "url": "https://www.tiktok.com/@zh.who/video/7697664944082406687",
       "date": "2026-10-17",
-      "views": "1.8K",
+      "views": "1.9K",
       "note": "The MOM was NOT happy when they wanted motorcycles 💀 PART 2/…"
     },
     {
@@ -341,7 +341,7 @@
       "creator": "davinci",
       "url": "https://www.tiktok.com/@davinci_damc/video/7690236121569119519",
       "date": "2026-09-27",
-      "views": "888",
+      "views": "892",
       "note": "Free will ridez x DTB"
     },
     {
