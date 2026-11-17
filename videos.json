@@ -12,7 +12,7 @@
   ],
   "_auto": "This file is auto-refreshed hourly by scripts/refresh-videos.mjs. Hand-edited \"note\" text is preserved by video id (an empty \"\" note stays empty); \"views\"/\"pinned\" are recomputed. New/removed videos and note/pinned/date changes are written on every run; view-count-only changes are written at most every 6 hours to limit deploy churn. _lastRefresh records the last successful write and per-creator fetch health.",
   "_lastRefresh": {
-    "at": "2026-11-16T22:30:07.933Z",
+    "at": "2026-11-17T04:46:16.195Z",
     "ok": {
       "spartanh2": true,
       "zhwho": true,
@@ -25,14 +25,14 @@
       "creator": "freewillridez",
       "url": "https://www.tiktok.com/@freewillridez/video/7708829733940677901",
       "date": "2026-11-16",
-      "views": "10.5K",
+      "views": "14.9K",
       "note": "Michigan !!! We ride this Saturday 12:30 meet up 1:30 kick st…"
     },
     {
       "creator": "zhwho",
       "url": "https://www.tiktok.com/@zh.who/video/7707068894841769229",
       "date": "2026-11-12",
-      "views": "289",
+      "views": "306",
       "note": "Sneak peaks from our photoshoot in Graffiti ally , more to co…"
     },
     {
@@ -67,7 +67,7 @@
       "creator": "freewillridez",
       "url": "https://www.tiktok.com/@freewillridez/video/7704394539674455309",
       "date": "2026-11-04",
-      "views": "1.8K",
+      "views": "1.9K",
       "note": "Random Tuesday in Michigan 😈"
     },
     {
@@ -180,7 +180,7 @@
       "creator": "davinci",
       "url": "https://www.tiktok.com/@davinci_damc/video/7698841140971228446",
       "date": "2026-10-20",
-      "views": "814",
+      "views": "818",
       "note": "New lid who did"
     },
     {
@@ -215,7 +215,7 @@
       "creator": "zhwho",
       "url": "https://www.tiktok.com/@zh.who/video/7697330032498199839",
       "date": "2026-10-16",
-      "views": "6.2K",
+      "views": "6.3K",
       "note": "POV: You stop at a gas station in Detroit for 2 minutes 💀🤣P…"
     },
     {
@@ -278,7 +278,7 @@
       "creator": "davinci",
       "url": "https://www.tiktok.com/@davinci_damc/video/7693221433459117343",
       "date": "2026-10-05",
-      "views": "4.6K",
+      "views": "4.7K",
       "note": "October 11th The Moto Legion presents… H2"
     },
     {
@@ -348,14 +348,14 @@
       "creator": "davinci",
       "url": "https://www.tiktok.com/@davinci_damc/video/7690236121569119519",
       "date": "2026-09-27",
-      "views": "908",
+      "views": "912",
       "note": "Free will ridez x DTB"
     },
     {
       "creator": "davinci",
       "url": "https://www.tiktok.com/@davinci_damc/video/7690235812377660703",
       "date": "2026-09-27",
-      "views": "971",
+      "views": "975",
       "note": "Free will ridez x DTB"
     },
     {
