@@ -12,7 +12,7 @@
   ],
   "_auto": "This file is auto-refreshed hourly by scripts/refresh-videos.mjs. Hand-edited \"note\" text is preserved by video id (an empty \"\" note stays empty); \"views\"/\"pinned\" are recomputed. New/removed videos and note/pinned/date changes are written on every run; view-count-only changes are written at most every 6 hours to limit deploy churn. _lastRefresh records the last successful write and per-creator fetch health.",
   "_lastRefresh": {
-    "at": "2026-11-18T21:35:21.033Z",
+    "at": "2026-11-19T12:08:19.077Z",
     "ok": {
       "spartanh2": true,
       "zhwho": true,
@@ -32,14 +32,14 @@
       "creator": "zhwho",
       "url": "https://www.tiktok.com/@zh.who/video/7707068894841769229",
       "date": "2026-11-12",
-      "views": "358",
+      "views": "368",
       "note": "Sneak peaks from our photoshoot in Graffiti ally , more to co…"
     },
     {
       "creator": "freewillridez",
       "url": "https://www.tiktok.com/@freewillridez/video/7704885188924427533",
       "date": "2026-11-06",
-      "views": "1.1K",
+      "views": "1.2K",
       "note": "Minds on other things my bad I missed the shift"
     },
     {
@@ -60,7 +60,7 @@
       "creator": "freewillridez",
       "url": "https://www.tiktok.com/@freewillridez/video/7704394831698742542",
       "date": "2026-11-04",
-      "views": "1.4K",
+      "views": "1.5K",
       "note": "Random Tuesday with the gang"
     },
     {
@@ -117,7 +117,7 @@
       "creator": "zhwho",
       "url": "https://www.tiktok.com/@zh.who/video/7702140619048750366",
       "date": "2026-10-29",
-      "views": "641",
+      "views": "643",
       "note": "Buff X Shiftober drift pit was wild ! 🔥 Got some crashes and…"
     },
     {
@@ -131,21 +131,21 @@
       "creator": "freewillridez",
       "url": "https://www.tiktok.com/@freewillridez/video/7701397888517147917",
       "date": "2026-10-27",
-      "views": "763",
+      "views": "765",
       "note": "Some ones gotta play the role"
     },
     {
       "creator": "freewillridez",
       "url": "https://www.tiktok.com/@freewillridez/video/7701079706480725261",
       "date": "2026-10-26",
-      "views": "1.7K",
+      "views": "1.8K",
       "note": "Freewillridez group ridez Facebook group join it !!!!"
     },
     {
       "creator": "freewillridez",
       "url": "https://www.tiktok.com/@freewillridez/video/7701004627021401357",
       "date": "2026-10-26",
-      "views": "763",
+      "views": "766",
       "note": "10/25 group ride !!! do you know how many damn walk-throughs…"
     },
     {
@@ -180,7 +180,7 @@
       "creator": "davinci",
       "url": "https://www.tiktok.com/@davinci_damc/video/7698841140971228446",
       "date": "2026-10-20",
-      "views": "831",
+      "views": "838",
       "note": "New lid who did"
     },
     {
@@ -348,14 +348,14 @@
       "creator": "davinci",
       "url": "https://www.tiktok.com/@davinci_damc/video/7690236121569119519",
       "date": "2026-09-27",
-      "views": "920",
+      "views": "926",
       "note": "Free will ridez x DTB"
     },
     {
       "creator": "davinci",
       "url": "https://www.tiktok.com/@davinci_damc/video/7690235812377660703",
       "date": "2026-09-27",
-      "views": "981",
+      "views": "986",
       "note": "Free will ridez x DTB"
     },
     {
@@ -474,7 +474,7 @@
       "creator": "spartanh2",
       "url": "https://www.tiktok.com/@spartan.h2/video/7684728081977855263",
       "date": "2026-09-12",
-      "views": "370",
+      "views": "371",
       "note": "Group ride video coming soon! HUGE TURNOUT 🏴‍☠️ Moto Legion"
     },
     {
