@@ -12,7 +12,7 @@
   ],
   "_auto": "This file is auto-refreshed hourly by scripts/refresh-videos.mjs. Hand-edited \"note\" text is preserved by video id (an empty \"\" note stays empty); \"views\"/\"pinned\" are recomputed. New/removed videos and note/pinned/date changes are written on every run; view-count-only changes are written at most every 6 hours to limit deploy churn. _lastRefresh records the last successful write and per-creator fetch health.",
   "_lastRefresh": {
-    "at": "2026-11-22T18:01:51.626Z",
+    "at": "2026-11-23T08:12:47.621Z",
     "ok": {
       "spartanh2": true,
       "zhwho": true,
@@ -32,7 +32,7 @@
       "creator": "zhwho",
       "url": "https://www.tiktok.com/@zh.who/video/7707068894841769229",
       "date": "2026-11-12",
-      "views": "403",
+      "views": "409",
       "note": "Sneak peaks from our photoshoot in Graffiti ally , more to co…"
     },
     {
@@ -60,7 +60,7 @@
       "creator": "freewillridez",
       "url": "https://www.tiktok.com/@freewillridez/video/7704394831698742542",
       "date": "2026-11-04",
-      "views": "1.5K",
+      "views": "1.6K",
       "note": "Random Tuesday with the gang"
     },
     {
@@ -74,7 +74,7 @@
       "creator": "davinci",
       "url": "https://www.tiktok.com/@davinci_damc/video/7704029423460273439",
       "date": "2026-11-03",
-      "views": "3.4K",
+      "views": "3.5K",
       "note": "70 degrees in Michigan"
     },
     {
@@ -117,7 +117,7 @@
       "creator": "zhwho",
       "url": "https://www.tiktok.com/@zh.who/video/7702140619048750366",
       "date": "2026-10-29",
-      "views": "649",
+      "views": "650",
       "note": "Buff X Shiftober drift pit was wild ! 🔥 Got some crashes and…"
     },
     {
@@ -131,7 +131,7 @@
       "creator": "freewillridez",
       "url": "https://www.tiktok.com/@freewillridez/video/7701397888517147917",
       "date": "2026-10-27",
-      "views": "770",
+      "views": "773",
       "note": "Some ones gotta play the role"
     },
     {
@@ -180,7 +180,7 @@
       "creator": "davinci",
       "url": "https://www.tiktok.com/@davinci_damc/video/7698841140971228446",
       "date": "2026-10-20",
-      "views": "855",
+      "views": "868",
       "note": "New lid who did"
     },
     {
@@ -348,7 +348,7 @@
       "creator": "davinci",
       "url": "https://www.tiktok.com/@davinci_damc/video/7690236121569119519",
       "date": "2026-09-27",
-      "views": "940",
+      "views": "949",
       "note": "Free will ridez x DTB"
     },
     {
@@ -594,7 +594,7 @@
       "creator": "spartanh2",
       "url": "https://www.tiktok.com/@spartan.h2/video/7678568174312377631",
       "date": "2026-08-27",
-      "views": "150K",
+      "views": "151.2K",
       "note": "ARRESTED at the Cars and Cannolis Harper Cruise in Saint Clai…"
     },
     {
@@ -622,7 +622,7 @@
       "creator": "davinci",
       "url": "https://www.tiktok.com/@davinci_damc/video/7677237388875205918",
       "date": "2026-08-23",
-      "views": "2.1K",
+      "views": "2.2K",
       "note": "Ninja plzzzz group ride 8-22-26 @🩷🏍️ Ninja Jen 🏍️🩷 🇮🇹 @…"
     },
     {
