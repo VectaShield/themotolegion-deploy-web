@@ -12,7 +12,7 @@
   ],
   "_auto": "This file is auto-refreshed hourly by scripts/refresh-videos.mjs. Hand-edited \"note\" text is preserved by video id (an empty \"\" note stays empty); \"views\"/\"pinned\" are recomputed. New/removed videos and note/pinned/date changes are written on every run; view-count-only changes are written at most every 6 hours to limit deploy churn. _lastRefresh records the last successful write and per-creator fetch health.",
   "_lastRefresh": {
-    "at": "2026-11-24T16:24:24.650Z",
+    "at": "2026-11-25T01:04:16.356Z",
     "ok": {
       "spartanh2": true,
       "zhwho": true,
@@ -23,16 +23,30 @@
   "videos": [
     {
       "creator": "freewillridez",
+      "url": "https://www.tiktok.com/@freewillridez/video/7711820980766739726",
+      "date": "2026-11-24",
+      "views": "147",
+      "note": "No words left Michigan don’t miss these next year !!! Join ou…"
+    },
+    {
+      "creator": "freewillridez",
+      "url": "https://www.tiktok.com/@freewillridez/video/7711786540761926925",
+      "date": "2026-11-24",
+      "views": "403",
+      "note": "Freewillridez always on my mind"
+    },
+    {
+      "creator": "freewillridez",
       "url": "https://www.tiktok.com/@freewillridez/video/7708829733940677901",
       "date": "2026-11-16",
-      "views": "15.1K",
+      "views": "15.2K",
       "note": "Michigan !!! We ride this Saturday 12:30 meet up 1:30 kick st…"
     },
     {
       "creator": "zhwho",
       "url": "https://www.tiktok.com/@zh.who/video/7707068894841769229",
       "date": "2026-11-12",
-      "views": "416",
+      "views": "419",
       "note": "Sneak peaks from our photoshoot in Graffiti ally , more to co…"
     },
     {
@@ -53,7 +67,7 @@
       "creator": "freewillridez",
       "url": "https://www.tiktok.com/@freewillridez/video/7704745796700245262",
       "date": "2026-11-05",
-      "views": "1.3K",
+      "views": "1.4K",
       "note": "Imagine living in Michigan, and not being a part of this free…"
     },
     {
@@ -67,7 +81,7 @@
       "creator": "freewillridez",
       "url": "https://www.tiktok.com/@freewillridez/video/7704394539674455309",
       "date": "2026-11-04",
-      "views": "2.4K",
+      "views": "2.5K",
       "note": "Random Tuesday in Michigan 😈"
     },
     {
@@ -131,7 +145,7 @@
       "creator": "freewillridez",
       "url": "https://www.tiktok.com/@freewillridez/video/7701397888517147917",
       "date": "2026-10-27",
-      "views": "776",
+      "views": "779",
       "note": "Some ones gotta play the role"
     },
     {
@@ -180,7 +194,7 @@
       "creator": "davinci",
       "url": "https://www.tiktok.com/@davinci_damc/video/7698841140971228446",
       "date": "2026-10-20",
-      "views": "876",
+      "views": "879",
       "note": "New lid who did"
     },
     {
