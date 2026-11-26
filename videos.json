@@ -12,7 +12,7 @@
   ],
   "_auto": "This file is auto-refreshed hourly by scripts/refresh-videos.mjs. Hand-edited \"note\" text is preserved by video id (an empty \"\" note stays empty); \"views\"/\"pinned\" are recomputed. New/removed videos and note/pinned/date changes are written on every run; view-count-only changes are written at most every 6 hours to limit deploy churn. _lastRefresh records the last successful write and per-creator fetch health.",
   "_lastRefresh": {
-    "at": "2026-11-26T03:05:38.403Z",
+    "at": "2026-11-26T13:08:19.493Z",
     "ok": {
       "spartanh2": true,
       "zhwho": true,
@@ -25,14 +25,14 @@
       "creator": "freewillridez",
       "url": "https://www.tiktok.com/@freewillridez/video/7711820980766739726",
       "date": "2026-11-24",
-      "views": "308",
+      "views": "320",
       "note": "No words left Michigan don’t miss these next year !!! Join ou…"
     },
     {
       "creator": "freewillridez",
       "url": "https://www.tiktok.com/@freewillridez/video/7711786540761926925",
       "date": "2026-11-24",
-      "views": "582",
+      "views": "605",
       "note": "Freewillridez always on my mind"
     },
     {
@@ -46,7 +46,7 @@
       "creator": "zhwho",
       "url": "https://www.tiktok.com/@zh.who/video/7707068894841769229",
       "date": "2026-11-12",
-      "views": "430",
+      "views": "434",
       "note": "Sneak peaks from our photoshoot in Graffiti ally , more to co…"
     },
     {
@@ -145,7 +145,7 @@
       "creator": "freewillridez",
       "url": "https://www.tiktok.com/@freewillridez/video/7701397888517147917",
       "date": "2026-10-27",
-      "views": "783",
+      "views": "784",
       "note": "Some ones gotta play the role"
     },
     {
@@ -194,7 +194,7 @@
       "creator": "davinci",
       "url": "https://www.tiktok.com/@davinci_damc/video/7698841140971228446",
       "date": "2026-10-20",
-      "views": "884",
+      "views": "885",
       "note": "New lid who did"
     },
     {
@@ -362,7 +362,7 @@
       "creator": "davinci",
       "url": "https://www.tiktok.com/@davinci_damc/video/7690236121569119519",
       "date": "2026-09-27",
-      "views": "961",
+      "views": "962",
       "note": "Free will ridez x DTB"
     },
     {
