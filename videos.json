@@ -12,7 +12,7 @@
   ],
   "_auto": "This file is auto-refreshed hourly by scripts/refresh-videos.mjs. Hand-edited \"note\" text is preserved by video id (an empty \"\" note stays empty); \"views\"/\"pinned\" are recomputed. New/removed videos and note/pinned/date changes are written on every run; view-count-only changes are written at most every 6 hours to limit deploy churn. _lastRefresh records the last successful write and per-creator fetch health.",
   "_lastRefresh": {
-    "at": "2026-11-27T22:55:56.754Z",
+    "at": "2026-11-28T04:57:00.868Z",
     "ok": {
       "spartanh2": true,
       "zhwho": true,
@@ -25,14 +25,14 @@
       "creator": "freewillridez",
       "url": "https://www.tiktok.com/@freewillridez/video/7711820980766739726",
       "date": "2026-11-24",
-      "views": "390",
+      "views": "412",
       "note": "No words left Michigan don’t miss these next year !!! Join ou…"
     },
     {
       "creator": "freewillridez",
       "url": "https://www.tiktok.com/@freewillridez/video/7711786540761926925",
       "date": "2026-11-24",
-      "views": "660",
+      "views": "683",
       "note": "Freewillridez always on my mind"
     },
     {
@@ -145,7 +145,7 @@
       "creator": "freewillridez",
       "url": "https://www.tiktok.com/@freewillridez/video/7701397888517147917",
       "date": "2026-10-27",
-      "views": "788",
+      "views": "791",
       "note": "Some ones gotta play the role"
     },
     {
